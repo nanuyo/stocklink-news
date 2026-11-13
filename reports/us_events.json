@@ -1,0 +1,128 @@
+{
+ "tone": "info",
+ "headline": "📅 11/13(금) 실적·지표 — 오늘 밤 22:30 10월 PPI가 핵심, AI주 실적은 없음",
+ "summary": "오늘 밤 미국 일정의 핵심은 22:30(KST) 발표되는 10월 PPI입니다. 9월 PPI는 전월 대비 +1.3%로 2022년 3월 이후 최대였습니다. 관심 AI주 중 오늘 실적 발표 기업은 확인되지 않았습니다.",
+ "blocks": [
+  {
+   "type": "table",
+   "title": "🧾 경제지표",
+   "columns": [
+    "시각(KST / ET)",
+    "지표",
+    "예상",
+    "이전",
+    "중요도"
+   ],
+   "rows": [
+    [
+     "11/13 22:30 / 08:30",
+     "10월 PPI(생산자물가) 전월비",
+     "+0.4%",
+     "+1.3%",
+     "상"
+    ],
+    [
+     "11/13 22:30 / 08:30",
+     "10월 PPI 전년비",
+     "약 +6.1%",
+     "+6.3%(2022년 12월 이후 최대)",
+     "상"
+    ],
+    [
+     "11/13 22:30 / 08:30",
+     "10월 근원 PPI 전월비",
+     "+0.3%",
+     "+0.5%(식품·에너지·무역 제외)",
+     "상"
+    ],
+    [
+     "11/14 02:00 / 12:00",
+     "데일리·윌리엄스 연준 인사 발언",
+     "-",
+     "-",
+     "중"
+    ],
+    [
+     "11/14 저녁~새벽 / 11/13 저녁(시각 미정)",
+     "제퍼슨 연준 부의장 발언",
+     "-",
+     "-",
+     "중"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "💼 AI주 실적",
+   "columns": [
+    "시각(KST / ET)",
+    "종목",
+    "EPS 예상",
+    "매출 예상",
+    "주목 포인트"
+   ],
+   "rows": [
+    [
+     "-",
+     "해당 없음",
+     "-",
+     "-",
+     "관심 AI주 중 금요일 발표 기업 확인 안 됨"
+    ],
+    [
+     "11/18(수) 06:20 / 11/17(화) 16:20",
+     "NVDA(다음 주)",
+     "미확인",
+     "미확인",
+     "회계연도 2027년 3분기. 컨퍼런스콜은 KST 07:00"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "⚠️ 체크포인트",
+   "items": [
+    "PPI(22:30): 9월에 에너지 급등으로 +1.3% 뛰었습니다. 오늘도 예상(+0.4%)을 넘으면 12월 FOMC(12/9~10) 금리 경로 부담이 커집니다.",
+    "연준 인사 발언(새벽 02:00~): PPI 직후 나오는 데일리·윌리엄스·제퍼슨의 인플레이션 평가가 금리 기대에 영향을 줄 수 있습니다.",
+    "기술주 변동성: 중간선거 직후 나스닥이 하루 5.5% 넘게 급락했습니다. 물가 서프라이즈에 AI주가 민감하게 반응할 수 있습니다.",
+    "다음 거래일 미리보기: 11/16(월)은 미국 주요 지표가 없습니다. 11/17(화)에는 10월 소매판매(KST 22:30)와 엔비디아 실적(KST 11/18 06:20)이 예정돼 있습니다."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "BLS PPI News Release (September 2026, next release Nov 13)",
+   "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+  },
+  {
+   "title": "BLS TED: PPI up 6.3 percent in September",
+   "url": "https://www.bls.gov/opub/ted/2026/producer-price-index-up-6-3-percent-in-september-largest-12-month-increase-since-december-2022.htm"
+  },
+  {
+   "title": "Thrive in Markets: Economic calendar week of Nov 9, 2026",
+   "url": "https://thriveinmarkets.com/calendar/2026-11-09/"
+  },
+  {
+   "title": "US Economic Calendar November 2026",
+   "url": "https://fedratecalc.com/us-economic-calendar/november-2026/"
+  },
+  {
+   "title": "NVIDIA Sets Conference Call for Third Quarter Financial Results",
+   "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+  },
+  {
+   "title": "Wholesale inflation jumped last month by most in four years (AP)",
+   "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/15/wholesale-inflation-jumped-last-month-by-most-in-four-years-as-gas-prices-soared"
+  },
+  {
+   "title": "SiliconANGLE: tech selloff after midterms",
+   "url": "https://siliconangle.com/?p=852631"
+  }
+ ],
+ "news_up_pct": null,
+ "report": "us_events",
+ "title": "AI 미국주식 실적·경제지표 일정",
+ "date": "2026-11-13",
+ "generated_kst": "2026-11-13T19:40+09:00",
+ "disclaimer": "일정은 변경될 수 있으며 투자 자문이 아닙니다."
+}

@@ -1,0 +1,213 @@
+{
+ "tone": "down",
+ "headline": "📉 하락 우세 55% (상승 45%)",
+ "summary": "젠슨 황 CEO 사임 여파가 이어지고 있습니다. 엔비디아(NVDA) 투자의견 하향과 추가 의혹 보도로 하락 재료가 우세합니다. 어플라이드 머티리얼즈(AMAT)는 실적·가이던스가 예상치를 넘었지만 시간외 반응은 미지근합니다. 시간외 가격은 NVDA +0.99%, MU +2.18%, SOXX +1.10%로 반등했습니다. 반면 SK하이닉스 -3.03%, ASML -1.92%로 해외 반도체는 약했습니다. 나스닥100 선물 -0.17% (11/13 02:50 ET).",
+ "blocks": [
+  {
+   "type": "table",
+   "title": "📊 시장 가격 신호 (합성 +0.21% → 상승 55%)",
+   "columns": [
+    "지표",
+    "직전 종가 대비",
+    "기준 시각"
+   ],
+   "rows": [
+    [
+     "나스닥100 선물",
+     "-0.17%",
+     "11/13 02:50 EST"
+    ],
+    [
+     "SOXX",
+     "+1.10%",
+     "11/12 19:55 EST"
+    ],
+    [
+     "NVDA",
+     "+0.99%",
+     "11/12 19:55 EST"
+    ],
+    [
+     "AVGO",
+     "+0.48%",
+     "11/12 19:55 EST"
+    ],
+    [
+     "AMD",
+     "-0.39%",
+     "11/12 19:55 EST"
+    ],
+    [
+     "TSM",
+     "+0.87%",
+     "11/12 19:55 EST"
+    ],
+    [
+     "MU",
+     "+2.18%",
+     "11/12 19:55 EST"
+    ],
+    [
+     "TSMC(대만)",
+     "+0.43%",
+     "11/13 13:30 CST"
+    ],
+    [
+     "SK하이닉스",
+     "-3.03%",
+     "11/13 15:00 KST"
+    ],
+    [
+     "ASML(암스테르담)",
+     "-1.92%",
+     "11/12 17:30 CET"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "📈 상승요인",
+   "columns": [
+    "뉴스",
+    "종목",
+    "영향도",
+    "가중치",
+    "점수"
+   ],
+   "rows": [
+    [
+     "AMAT 4분기 실적: 매출 104.1억달러(+53%), EPS 4.16달러로 예상 상회. 1분기 가이던스도 예상 상회. 시간외 반응은 보합~+1.5%",
+     "AMAT, 장비주, SOX",
+     "2",
+     "0.9",
+     "1.8"
+    ],
+    [
+     "국내 증권가 'AI 수요 자체가 훼손됐다는 근거는 제한적' 평가. 11/17 엔비디아 실적이 확인 무대",
+     "NVDA, AI 반도체 전반",
+     "1",
+     "0.6",
+     "0.6"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "📉 하락요인",
+   "columns": [
+    "뉴스",
+    "종목",
+    "영향도",
+    "가중치",
+    "점수"
+   ],
+   "rows": [
+    [
+     "황 CEO 사임 후 번스타인·에버코어 등 6곳 이상이 NVDA를 '보유' 수준으로 하향. 실적 발표를 앞두고 후임 CEO가 정해지지 않음",
+     "NVDA, SOX",
+     "2",
+     "0.8",
+     "1.6"
+    ],
+    [
+     "황 CEO 관련 추가 불륜 의혹과 중국 연계 의혹 보도. 독립조사가 기밀·국가안보 문제를 들여다봄. 의회 소환 압박도 있음",
+     "NVDA",
+     "2",
+     "0.6",
+     "1.2"
+    ],
+    [
+     "코스피 -0.98%. HBM 공급사인 SK하이닉스 -3.03%, 외국인 순매도",
+     "MU, 메모리·HBM",
+     "1",
+     "0.9",
+     "0.9"
+    ],
+    [
+     "트럼프의 대이란 강경 발언으로 유가·미 국채금리 상승 부담",
+     "기술주 전반",
+     "1",
+     "0.7",
+     "0.7"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "title": "🧮 뉴스 점수 계산",
+   "text": "U = 1.8 + 0.6 = 2.4, D = 1.6 + 1.2 + 0.9 + 0.7 = 4.4 → 뉴스 상승 35% / 하락 65%"
+  },
+  {
+   "type": "list",
+   "title": "⏰ 오늘 장중 체크포인트",
+   "items": [
+    "미국 정규장 개장 09:30 ET (11/13 23:30 KST)",
+    "NVDA: 크레스 임시 CEO 발언, 후임 CEO와 조사 관련 추가 보도. 전날 장중 -13%까지 밀렸다가 -4.3%로 마감",
+    "AMAT: 실적 후 정규장 반응. 장비주(LRCX·KLAC·ASML)로 번지는지",
+    "AMD·AVGO: 전날 +5%대 반사이익이 이어지는지",
+    "미 국채금리·유가 흐름",
+    "다음 주 일정: NVDA 3분기 실적 11/17(화) 장 마감 후, 컨퍼런스콜 14:00 PT (11/18 07:00 KST)"
+   ]
+  },
+  {
+   "type": "text",
+   "title": "🧮 최종 확률",
+   "text": "뉴스 35% × 0.5 + 시장 신호 55% × 0.5 = 상승 45% / 하락 55%"
+  },
+  {
+   "type": "text",
+   "title": "🎯 최근 적중률",
+   "text": "최근 3회 최종 확률 적중 100% (3/3) · 뉴스만 67% (2/3) · 시장 신호만 100% (3/3)"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Nvidia CEO Jensen Huang resigns: Live updates (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+  },
+  {
+   "title": "Nvidia shares plunge amid reports board to discuss CEO Huang's future (Al Jazeera)",
+   "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
+  },
+  {
+   "title": "Nvidia taps CFO Colette Kress as interim CEO (Fortune)",
+   "url": "https://fortune.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-jensen-huang-fallout/"
+  },
+  {
+   "title": "Nvidia live updates: allegations of a third affair emerge (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
+  },
+  {
+   "title": "Nvidia stock downgraded as CEO Jensen Huang resigns",
+   "url": "https://cryptobriefing.com/nvidia-stock-downgraded-as-ceo-jensen-huang-resigns-cfo-kress-interim-chief/"
+  },
+  {
+   "title": "Applied Materials Reports Q4 Earnings, Raises Guidance (Benzinga)",
+   "url": "https://www.benzinga.com/markets/earnings/26/11/63224703/applied-materials-reports-q4-earnings-raises-guidance-as-ai-drives-strong-chip-demand"
+  },
+  {
+   "title": "Applied Materials shares gain on Q4 beat (Investing.com)",
+   "url": "https://au.investing.com/news/earnings/applied-materials-shares-gain-on-q4-beat-4766712"
+  },
+  {
+   "title": "엔비디아 급락 틈타 AMD·브로드컴 반사이익 (KMJ)",
+   "url": "https://www.kmjournal.net/news/articleView.html?idxno=14214"
+  },
+  {
+   "title": "다시 5200대로…코스피, 반도체 약세에 하락 마감 (아시아경제)",
+   "url": "https://view.asiae.co.kr/article/2026111316240367270"
+  },
+  {
+   "title": "엔비디아 여진에 금리 부담까지... 코스피 5300선 이탈 (매일일보)",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2018401"
+  }
+ ],
+ "news_up_pct": 35,
+ "report": "us_premarket",
+ "title": "미국장 개장 전 AI·반도체 브리핑",
+ "date": "2026-11-13",
+ "generated_kst": "2026-11-13T17:00+09:00",
+ "disclaimer": "확률은 뉴스 점수 기반의 단순 추정치이며 투자 자문이 아닙니다.",
+ "final_up": 45,
+ "market_up": 55
+}
