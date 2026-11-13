@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-14T04:10:07+09:00",
+ "updated": "2026-11-14T04:20:06+09:00",
  "items": [
+  {
+   "title": "Investor: Anthropic's S-1 is the 'most impressive business I've ever reviewed'",
+   "ko": "투자자: 앤트로픽의 S-1은 지금까지 검토한 가장 인상적인 사업이라 말해",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3phdHVIWlh3d0xPWHJQRnJXaGNmWU9JVXFMWjBfOGJ1Q2NUaEZVVkRBeGxyZDhaXzZTbGRmenZXM3pqWU5LWXEzXzlCSUNYR01YY2tRSENWVkZPWWxrZy16WHRJTVBFR2QtVUMtWG5nNHp4WnFoeFFWZlEzRGFsMWpzTi04R3F5aEE2M3RXOFo?oc=5",
+   "time": "2026-11-14T04:10+09:00"
+  },
   {
    "title": "Anthropic CEO Dario Amodei says compute is a 'huge uncertainty' as he pitches IPO",
    "ko": "앤드리포 CEO 다리오 아모데이, 컴퓨팅 파워를 '큰 불확실성'으로 지목하며 IPO 홍보",
@@ -14,15 +20,21 @@
    "time": "2026-11-14T04:00+09:00"
   },
   {
-   "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’",
-   "ko": "앤써픽 CEO, 컴퓨팅 파워를 '가장 깊은 비즈니스 딜레마'로 지목해",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcloySmU0ekIyaV9vRXNHWHNUZ1Z0eHVlenVrRW9PNDBhNTFOVEtiNUFCSk02ci1sOWVabGI5dEtjTUxzUldjTWxFeGdUVTRVZVBPY1IzWVFtOFd5Y1V6UGVRMGRvT3VrbE84Qzd2ZnNyOUxPZ29hWXg0Q2ZMWTk4Wi1aVDFjdHNPMWVlNWxjYWVfSzBZYThDWDBBcm9wUnY3SUdZVWFVMlRfc2Y1VEpzRQ?oc=5",
-   "time": "2026-11-14T03:46+09:00"
+   "title": "SoftBank Group Stocks Fall 5.11% as Nvidia Shake-Up Hits OpenAI-Linked Investor",
+   "ko": "소프트뱅크 그룹 주가, 엔비디아 충격으로 5.11% 하락",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2hWU2U3SUQyOFowOXEzQ0tfVmxBN00yei16SnFpcTM2OF8zOVZzNWdEbHB4dDhlWThOSFBhVWF2czVTYm5SN3cyT2RWMnNlWkZnV0IwMmxfZmgyTjNsczlVTndOOGx6a2pTeDNVU3pJTWJERmw2RDM3OUptVnJpckFFcmNrdWkxcWxhc2tjQWRoVDNsckNMTlFyYXRELVNzS01WeU8xTXVNOWtGZmtQaXlXbTB5MUE1UzljR2xldUw2eWlHVHhuTW55X1pWQmFfcTdJMA?oc=5",
+   "time": "2026-11-14T03:51+09:00"
   },
   {
    "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
    "ko": "앤써픽 최고경영자가 제이미 다이몬에게 IPO를 통해 \"더 적은 약속으로 더 큰 성과\"를 내길 바란다고 말했습니다.",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHZzSkNrdXkyNGh6enBWc0xtLVE0UkpKM2hadjNwc0wtV2t6SzJHVE9KRXdEYkZRaTZTdVlKanFocEwwLTc0OUJ3SlVacXNiV1RyeEdtTENBLUNKVWZwdTZqc0h6dHlFaFJWeWFESGJ3X216bmdBZHVfci15cmQzbmk4YkZpSGpaNFctWlVPcEkxZGN4M3hXUHg4azd0M3R2WjFjc0ZtTFhjYnpMSm1Od2h2Yzl3SkNB?oc=5",
+   "time": "2026-11-14T03:47+09:00"
+  },
+  {
+   "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’",
+   "ko": "앤써픽 CEO, 컴퓨팅 파워를 '가장 깊은 비즈니스 딜레마'로 지목해",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcloySmU0ekIyaV9vRXNHWHNUZ1Z0eHVlenVrRW9PNDBhNTFOVEtiNUFCSk02ci1sOWVabGI5dEtjTUxzUldjTWxFeGdUVTRVZVBPY1IzWVFtOFd5Y1V6UGVRMGRvT3VrbE84Qzd2ZnNyOUxPZ29hWXg0Q2ZMWTk4Wi1aVDFjdHNPMWVlNWxjYWVfSzBZYThDWDBBcm9wUnY3SUdZVWFVMlRfc2Y1VEpzRQ?oc=5",
    "time": "2026-11-14T03:46+09:00"
   },
   {
@@ -168,18 +180,6 @@
    "ko": "앤트로픽, IPO 앞두고 복잡한 재무 상황 보고",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1A3M0Y5UEFNUHNZWkJpUGdsWFNSVTU2aWlXUzdZTHo4SDM1VUZpcVQ4TUxmZ3duM2tZeW12Ym10aU94eGI4dElGdTBwYzdlSzliOWZwNVRObC1nTXFUSnd0YW5ZSDBLcGtsNk45bFd0SG1uR3FpSGJaUjZxa3lQTk9COURNODlzNV9rMWEyR1NTazg0QU9TREFJVzhIQm0tbVZQMUJlcFVOUkVpenkw?oc=5",
    "time": "2026-11-14T01:35+09:00"
-  },
-  {
-   "title": "Anthropic Is Set to Be a Massive IPO. Some Analysts Are Already Raising Red Flags",
-   "ko": "앤써픽, 대규모 IPO 진행 예정... 일부 분석가 경고 신호 제기 중",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFJxa0M5cHZLMFlEZXNHVnZrMDNDY2c4ZV9RZUtOQWJLSnptRnZ0NS1nRmpDc0phTXlzeUp5Ry1HVFgwcUs4MFF6S1ZPSThSeld3a1QzSGRnVUtHRTdUZFktM2J5SEZDMW5heGxDSzRILVU0SFFwLWR3cXFRTFFWZzd6WW1HZzJRc3Y1aWdTTzhELTNQbTR3dHNoUUd2NVhnNzlLbnVhNktwdndYbWpYQXhQOFlXMmJTWDFHTDhSbw?oc=5",
-   "time": "2026-11-14T01:33+09:00"
-  },
-  {
-   "title": "Anthropic’s IPO debut meets strong post-IPO S&P history",
-   "ko": "앤써픽의 IPO 데뷔는 강력한 사후 성과를 보여주며 S&P 역사와 부합",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXVjYTFZWWprdGpsMk5jNTI1X1pZZlpGeHlKanpCMTNDV043ODlRNWYxbFJ6cmZTYWdBWXZYVWxIQ2xTeXdqdUJaY0JPZ01BanZ4anozZTEta1FJQkM0a2Z2TlJhdmNGaWZmbzBpZFVrWERoU1Z5cDlQWG41bFBTQ253ZUlsVFBvREI2ZE1NME4wOEt4Wmc?oc=5",
-   "time": "2026-11-14T01:32+09:00"
   }
  ]
 }
