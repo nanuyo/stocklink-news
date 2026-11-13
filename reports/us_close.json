@@ -1,7 +1,7 @@
 {
  "tone": "down",
- "headline": "🌅 [11/12(목) ET] 간밤 미국증시 — 젠슨 황 엔비디아 CEO 사임 충격·10년물 5.1%에 3대 지수 하락",
- "summary": "젠슨 황 CEO가 사임하면서 엔비디아는 장중 14% 넘게 빠졌다가 4.3% 하락으로 마감했습니다. 미 국채 10년물 금리가 5.1%까지 오르고 유가도 급등해 3대 지수가 0.4% 안팎 내렸습니다. AMD·브로드컴은 반사이익으로 5% 넘게 올랐습니다.",
+ "headline": "🌅 11/13(금) 간밤 미국증시 — 젠슨 황 사임 여파로 반도체 급락, 나스닥 -0.91%",
+ "summary": "엔비디아 CEO 공백 우려로 AMD(-8.75%)·브로드컴(-4.76%) 등 반도체주가 급락했고, 필라델피아 반도체지수는 -3.43% 내렸습니다. 다우만 전통주 강세로 +0.1%였으며, 3대 지수 모두 주간으로는 2%대 상승했습니다.",
  "blocks": [
   {
    "type": "table",
@@ -14,33 +14,33 @@
    "rows": [
     [
      "다우",
-     "52,297.09",
-     "-0.36%"
+     "52,347.55",
+     "+0.10%"
     ],
     [
      "S&P 500",
-     "7,592.40",
-     "-0.35%"
+     "7,561.67",
+     "-0.40%"
     ],
     [
      "나스닥 종합",
-     "25,366.09",
-     "-0.39%"
+     "25,136.27",
+     "-0.91%"
     ],
     [
      "러셀 2000",
-     "2,799.06",
-     "-1.66%"
+     "2,790.49",
+     "-0.31%"
     ],
     [
      "필라델피아 반도체(SOX)",
-     "10,506.67",
-     "-0.54%"
+     "종가 확인 불가",
+     "-3.43%"
     ],
     [
      "VIX",
-     "18.70",
-     "+6.9%"
+     "19.30",
+     "+3.21%"
     ]
    ]
   },
@@ -55,38 +55,38 @@
    "rows": [
     [
      "미 국채 10년물",
-     "5.109%",
-     "+12bp (5% 돌파)"
+     "5.14%",
+     "+약 4bp (장중 5.17%)"
     ],
     [
      "미 국채 2년물",
-     "4.864%",
-     "+13.7bp"
+     "4.85~4.86%",
+     "-1bp 안팎"
     ],
     [
      "달러인덱스",
-     "103.17",
-     "+0.25% (2025년 4월 이후 최고)"
+     "약 103.2",
+     "약 1년 7개월 만의 최고 수준"
     ],
     [
-     "원/달러(야간)",
-     "확인 불가",
-     "-"
+     "원/달러",
+     "1,336.7원 (13일 주간 종가)",
+     "+6.0원 (야간 종가 확인 불가)"
     ],
     [
      "WTI(12월물)",
-     "$88.74",
-     "+2.55%"
+     "88.92달러",
+     "+0.20%"
     ],
     [
-     "금(12월물)",
-     "$3,885.30",
-     "-2.9%"
+     "금",
+     "3,887.6달러",
+     "+0.06%"
     ],
     [
      "비트코인",
-     "약 $71,350",
-     "-3.4%"
+     "68,366달러",
+     "-4.15% (약 3개월 만에 7만 달러 아래)"
     ]
    ]
   },
@@ -101,83 +101,88 @@
    "rows": [
     [
      "엔비디아",
-     "-4.34%",
-     "젠슨 황 CEO 사임, CFO 크레스가 임시 CEO. 장중 -14.3%"
+     "-2.01%",
+     "젠슨 황 CEO 사임 뒤 이틀째 하락. HSBC가 '보유'로 하향하고 목표가를 170달러로 낮춤. 시총 4조 달러 아래로"
     ],
     [
      "애플",
-     "-0.14%",
-     "장중 사상 최고가($359.37) 뒤 보합"
+     "+0.39%",
+     "AI 인프라주를 피한 자금이 몰리며 사상 최고가"
     ],
     [
      "마이크로소프트",
-     "+0.36%",
-     "Exchange Online 장애로 상승폭 축소"
+     "+0.17%",
+     "아웃룩·팀즈 장애가 완화됨"
     ],
     [
      "알파벳",
-     "+1.79%",
-     "대형 기술주 중 강세"
-    ],
-    [
-     "아마존",
-     "+0.48%",
-     "소폭 상승"
+     "-0.98%",
+     "기술주 약세"
     ],
     [
      "메타",
-     "-0.82%",
-     "소폭 하락"
+     "+2.9%",
+     "대형 기술주 중 강세"
     ],
     [
      "테슬라",
-     "+1.69%",
-     "강세"
+     "-1.82%",
+     "기술주 약세"
     ],
     [
-     "브로드컴",
-     "+5.54%",
-     "엔비디아 경쟁사로 매수 이동"
+     "아마존",
+     "확인 불가",
+     "마감 등락률을 확인하지 못함"
     ],
     [
      "AMD",
-     "+5.86%",
-     "엔비디아 경쟁사로 매수 이동"
+     "-8.75%",
+     "엔비디아 혼란의 반사이익 기대가 되돌려짐"
+    ],
+    [
+     "브로드컴",
+     "-4.76%",
+     "레드번이 '중립'으로 하향 + 반도체 매도세"
     ],
     [
      "TSMC ADR",
-     "-1.90%",
-     "엔비디아 충격, 반도체 차익실현"
+     "약 -1.7~-1.9%",
+     "반도체 동반 약세 (매체별 수치 차이)"
     ],
     [
      "마이크론",
-     "-1.59%",
-     "직전 4거래일 SOX 17% 급등 뒤 차익실현"
-    ],
-    [
-     "SK하이닉스 ADR",
-     "-3.19%",
+     "-1.52%",
      "메모리주 약세"
     ],
     [
-     "네비우스",
-     "-16.84%",
-     "실적 발표 뒤 가이던스 실망"
+     "SK하이닉스 ADR",
+     "-4.30%",
+     "메모리주 약세"
     ],
     [
-     "코르테바",
-     "-24.3%",
-     "3분기 적자, 브라질 전망 약화"
+     "코어위브·네비우스",
+     "각 -9.92%",
+     "AI 인프라주 매도"
     ],
     [
-     "허브스팟",
-     "+6.32%",
-     "공동창업자 핼리건 CEO 복귀"
+     "시스코",
+     "-6% 안팎",
+     "실적은 양호했지만 마진 축소로 차익실현"
     ],
     [
-     "큐리그 닥터페퍼",
-     "-7.40%",
-     "부채 감축 위한 20억 달러 주식 매각"
+     "샌디스크",
+     "약 -7%",
+     "AI·메모리주 매도"
+    ],
+    [
+     "모딘",
+     "+28% 안팎",
+     "삼성전자의 인수 협상 보도(블룸버그)"
+    ],
+    [
+     "세레브라스",
+     "+16% 안팎",
+     "3분기 깜짝 흑자, 가이던스 상향"
     ]
    ]
   },
@@ -185,85 +190,83 @@
    "type": "list",
    "title": "🏭 섹터 동향",
    "items": [
-    "강세: 에너지 +1.5% (4일 연속 상승, 엑슨 +1.84%·셰브론 +1.44%)",
-    "약세: 헬스케어 -0.66%, IT -0.42%",
-    "S&P 500 11개 섹터 중 9개 하락",
-    "소형주(러셀 2000 -1.66%)가 금리 급등에 가장 크게 하락"
-   ]
-  },
-  {
-   "type": "list",
-   "title": "🌙 장 마감 후 실적·시간외",
-   "items": [
-    "시스코: EPS $1.40·매출 185억 달러로 예상 상회, 연간 가이던스 상향. 시간외 반응은 매체마다 엇갈림(-0.3%~+3%)",
-    "어플라이드머티리얼즈: EPS $4.16·매출 104.1억 달러로 예상 상회, 다음 분기 가이던스도 상회. 정규장 -3.6% 뒤 시간외 소폭 약세",
-    "세레브라스: 분기 매출 사상 최대, 4분기 가이던스가 예상을 크게 웃돌아 시간외 약 +13~15%",
-    "엔비디아 3분기 실적은 11/17(화) 장 마감 후 발표"
+    "약세: S&P 500 기술 섹터 -1.7%로 11개 섹터 중 최하위. 반도체·AI 인프라에 매도가 집중됨",
+    "약세: 항공주(NYSE Arca 항공지수 -1.4%). 미 연방항공청(FAA)이 관제 통신 문제로 전국 이륙을 중단시킴",
+    "약세: 국채금리 상승에 모기지 리츠 ETF(REM) -1.3%. 비트코인 하락에 코인베이스 등 가상자산주도 약세",
+    "강세: 셰브론·코카콜라·P&G 등 전통주가 다우를 지지. 차터커뮤니케이션 +4.6%"
    ]
   },
   {
    "type": "list",
    "title": "📰 시장을 움직인 이유",
    "items": [
-    "엔비디아 8-K 공시: 젠슨 황이 CEO·이사직에서 즉시 사임, 사유 미공개. 시총이 장중 6천억 달러 넘게 줄었다가 종가 기준 약 1,820억 달러 감소로 마감",
-    "10월 CPI가 예상보다 뜨겁게 나오며 금리 인상 우려 확대. 하맥(클리블랜드)은 금리 인상을 지지하되 점진적 방식을 선호, 데일리(샌프란시스코)는 추가 긴축이 필요할 것이라고 발언 → 10년물 5% 돌파",
-    "주간 신규 실업수당 청구 20만 건(예상 19.5만 건) 소폭 상회, 10월 기존주택판매 375만 건으로 2010년 이후 최저",
-    "트럼프 \"이란과 협상 필요 없다\" 발언에 브렌트유 +3.3%(95.82달러)",
-    "13일(현지) 10월 PPI 발표 예정"
+    "엔비디아 젠슨 황 CEO가 사임했고, 콜레트 크레스 CFO가 임시 CEO를 맡음. 후계 구도가 불확실해 반도체 전반에 투매가 나옴. 실적 발표(17일)를 정식 CEO 없이 치러야 함",
+    "10월 PPI: 전월 대비 +0.3%로 예상(+0.4%)보다 낮았음. 하지만 전년 대비 +6.5%로 2022년 11월 이후 최대이고, 근원 PPI는 +0.5%",
+    "12월 금리 인상 가능성이 사실상 100% 반영됨(CME 페드워치). 데일리·콜린스 등 연준 인사들도 매파적 신호를 보냄",
+    "10년물 금리가 장중 5.17%까지 올라 기술주 밸류에이션에 부담. 비트코인 7만 달러 붕괴로 위험자산 심리 위축",
+    "다음 주 일정: 17일 엔비디아 실적·10월 소매판매, 18일 FOMC 의사록, 19일 앤스로픽 나스닥 상장 예정"
    ]
   },
   {
    "type": "list",
    "title": "🇰🇷 오늘 한국 증시 시사점",
    "items": [
-    "반도체: 엔비디아 리더십 공백과 SK하이닉스 ADR -3.2%·마이크론 -1.6%로 삼성전자·SK하이닉스 등 HBM·AI 밸류체인에 부담. 다만 엔비디아는 장중 저점에서 크게 회복",
-    "금리·환율: 미 10년물 5.1%와 달러인덱스 19개월 최고 → 원화 약세와 외국인 매도 압력 가능성. 성장주·2차전지는 금리 부담",
-    "정유·에너지: 유가 급등은 정유주에 우호적, 항공·화학에는 비용 부담"
+    "반도체: SOX -3.4%, SK하이닉스 ADR -4.3%. 오늘 SK하이닉스·삼성전자에 매물 부담이 예상됨. 엔비디아 실적(17일)까지 변동성이 클 수 있음",
+    "삼성전자: 미국 냉각 솔루션 업체 모딘의 인수 협상 보도는 개별 호재. 반도체 약세를 일부 상쇄할 수 있음",
+    "2차전지·성장주: 테슬라 -1.8%, 미 10년물 5%대, 달러 강세(원/달러 1,330원대 중반)로 외국인 수급과 성장주 밸류에이션에 부담"
    ]
   }
  ],
  "sources": [
   {
-   "title": "Stock market news for Nov. 12, 2026 (CNBC)",
-   "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+   "title": "How major US stock indexes fared Friday 11/13/2026 - KRMG",
+   "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"
   },
   {
-   "title": "Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise (Yahoo Finance)",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html"
+   "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week - Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
   },
   {
-   "title": "NVIDIA Form 8-K (SEC)",
-   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+   "title": "10-year Treasury yield moves to 5.15% as traders weigh producer price report - CNBC",
+   "url": "https://www.cnbc.com/amp/2026/11/13/treasury-yields-fed-rates.html"
   },
   {
-   "title": "[뉴욕증시] 젠슨 황 퇴진·유가 급등, 하락 마감···AMD·브로드컴 '반사이익' (서울파이낸스)",
-   "url": "https://www.seoulfn.com/news/articleView.html?idxno=642707"
+   "title": "Stocks making the biggest moves Friday - CNBC",
+   "url": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html"
   },
   {
-   "title": "하루 만에 240조 증발…젠슨 황 쇼크 (한국경제)",
-   "url": "https://www.hankyung.com/article/2026111340507"
+   "title": "뉴욕증시, 엔비디아 우려에 혼조 마감…나스닥 0.91%↓ - 뉴스핌",
+   "url": "https://www.newspim.com/news/view/20261114000022"
   },
   {
-   "title": "Closing Bell: S&P 500 Falls and Nvidia Sinks 4% as CEO Jensen Huang Resigns (Avalon Capital Research)",
-   "url": "https://avaloncapitalresearch.substack.com/p/closing-bell-s-and-p-500-falls-and"
+   "title": "[뉴욕증시] 기술주 약세 속 다우지수만 0.1% 상승 - 파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611140642023929"
   },
   {
-   "title": "Cisco Tops Q1 Estimates, Raises FY27 Outlook (Benzinga)",
-   "url": "https://www.benzinga.com/markets/earnings/26/11/63223825/cisco-tops-q1-estimates-raises-fy27-outlook-during-multi-year-networking-supercycle"
+   "title": "엔비디아 2%대 하락에 뉴욕증시 혼조 - 이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2648131"
   },
   {
-   "title": "Applied Materials Announces Earnings Results, Beats Estimates (MarketBeat)",
-   "url": "https://www.marketbeat.com/instant-alerts/earnings-applied-materials-nasdaq-amat-announces-earnings-results-beats-estimates-by-010-eps-2026-11-12/"
+   "title": "[美증시 특징주] 엔비디아 불투명에 반도체주 또 급락 - 미디어펜",
+   "url": "https://www.mediapen.com/news/view/1137463"
   },
   {
-   "title": "After-Hours Movers: CBRS, CSCO, AMAT (Investing.com)",
-   "url": "https://www.investing.com/news/stock-market-news/afterhours-movers-cbrs-csco-amat-nmax-flo-432SI-5023311"
+   "title": "S&P 500 Top Movers for Nov. 13, 2026 - Chartmill",
+   "url": "https://www.chartmill.com/news/AMD/Chartmill-58679-SP-500-Top-Movers-for-Nov-13-2026-Charter-Communications-Leads-Gainers-AMD-Leads-Losers"
+  },
+  {
+   "title": "[오늘의 원화] 달러-원 1,336.7원…6.0원 올라 - 토큰포스트",
+   "url": "https://tokenpost.kr/news/insights/437782"
+  },
+  {
+   "title": "PPI Offers no Relief to Yields - ADM Investor Services",
+   "url": "https://www.admis.com/ppi-offers-no-relief-to-yields/"
   }
  ],
  "news_up_pct": null,
  "report": "us_close",
  "title": "간밤 미국증시 브리핑",
- "date": "2026-11-13",
- "generated_kst": "2026-11-13T07:48+09:00",
+ "date": "2026-11-14",
+ "generated_kst": "2026-11-14T07:48+09:00",
  "disclaimer": "투자 자문이 아닌 정보 요약입니다."
 }
