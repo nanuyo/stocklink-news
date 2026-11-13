@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:50:06+09:00",
+ "updated": "2026-11-14T08:00:10+09:00",
  "items": [
   {
    "title": "'Fast Money' trader talk potential impact of Anthropic IPO",
@@ -14,6 +14,12 @@
    "time": "2026-11-14T07:31+09:00"
   },
   {
+   "title": "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations",
+   "ko": "블랙웰 칩의 하드웨어 지문 발견: 중국 주요 인공지능 모델 네 곳에서 식별; 전 오픈AI 연구원이 6조 조합 비교로 이를 밝혀냄",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CY2lvbVhQSV9BUkZ3UmJiaUtxcnZxdnFiSUxTemk0bXlOMHpadzhXd2ZYd0FNRVh3LXotMVl3djJXbDVJa2x6WWttWHl6MFc1YWRFNFA4My1QWFQ5aDBmd2xtT0c4WDZpbmNMcGlxemtoSnlEc0E?oc=5",
+   "time": "2026-11-14T07:25+09:00"
+  },
+  {
    "title": "Anthropic IPO is overpriced, says CIO",
    "ko": "앤써픽 IPO는 과대평가되었다고 CIO가 말해",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE?oc=5",
@@ -26,15 +32,15 @@
    "time": "2026-11-14T07:10+09:00"
   },
   {
-   "title": "Amodei Highlights Computing Power, Capex Dilemma Ahead Of Anthropic IPO",
-   "ko": "아마데이가 컴퓨팅 파워와 자본 지출 문제를 강조하며 앤써픽 IPO 앞두고",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDZKdnFlbnlJbjNVTUJpS2I3dmtPdnhEeXJwSkJVU04yVkVaeEJnN3hORUh0ZlY3LURYbThhNGpkeUkxa1NRZjdOa05VNzhsNm1qRElaMjZaOVQwR293VUtXNGstVjJTUW9oWE4wbXFuYVdqMHhWNlZvSnh6V04tMGZ1QzVqclA0d3JxZTUzZWdXY2JxMFIwRnFIZ1E4cjgtOWpvYnNVdWJjcHBGWHdDTEtZNnliZ1ZXUHVrWnJzTC0tZEV5TUhxVUpHaw?oc=5",
-   "time": "2026-11-14T07:02+09:00"
-  },
-  {
    "title": "Investors flock to Anthropic IPO but question durability of AI lead",
    "ko": "투자자들이 앤써픽 IPO로 몰리지만, AI 선두 지위의 지속 가능성에 의문 제기",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHpiMnRCU2pDRDRDRHZCOE1pc1VTcU04WU9ZNklJOFVZZmFrekpvUmRQMDItb0F1NUJJSTB4MjVqLXlVUmxJMjlDYTZkanpMSVQwQjROclpOSDcyNTBNdm5SOWlnZFlwNEI0SWczQktnMXdQWFhIR1BLWFRLZ0JCYXdEVmFtTXVmUlh5NzlOaWxHcV8zR016bTVIejZ6T2d0czlycU94cjhNbFZLQm1GVWdNel9WU3NJZUljVg?oc=5",
+   "time": "2026-11-14T07:00+09:00"
+  },
+  {
+   "title": "[주간증시전망] 코스피, 美금리·AI 전망에 좌우…엔비디아 실적·앤트로픽 상장",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTXRHNjBwRVVkVVRiRW4wdGhQR0NZZlhld3lTNzBKbHBidV9kMlMxbmkzYVM1bjUzLVVISWQxRkkxRW9ZWWV2X0NFRnZSTVR2ZmN0bDJITk5jZ9IBWEFVX3lxTE1ma3VZdGREdVFhQ2cyZmpyd3BMUHkxRGQ2SkZiSU1xWlVCWXJaYTA0cmd2NzBMcHJYX0pRZ2ZwTzlHaWxoOFk3YU5sMk44aHFzcm9iTlhEaWM?oc=5",
    "time": "2026-11-14T07:00+09:00"
   },
   {
@@ -74,8 +80,8 @@
    "time": "2026-11-14T06:27+09:00"
   },
   {
-   "title": "Bitcoin could fall even further if investors cash out to buy into the Anthropic IPO",
-   "ko": "비트코인 가격 더 하락할 수 있어 투자자들이 앤트로픽 IPO에 투자하기 위해 현금화 가능",
+   "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+   "ko": "비트코인 가격 $69,000 이하로 하락 중... 투자자들이 앤스로픽 IPO에 투자하기 위해 현금화하면 더 떨어질 수 있음",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWY1S3lwODdSRDlsR3F2Z181UE1HZUhWOWZEckxNVUZ3azFpOU9zVldJeENrS0VYYlVOWmRsTndGU3NBSXlKNmpRbXlkRGNtS2ltS0Z3RTR0QUlWQVRfYmNBNzZwUl9pTXp3ak1CeTV0cjNwcHZoT1BWaFIwTmxWNlpfRHJRT21aeE13YVgzRTJsSW5IOTJjRjYwSTRiNm5iNU8xUnA3WE9lQklUd2Y0M1JOVjFkTUxRV1Exd2xuVnFSclF2?oc=5",
    "time": "2026-11-14T06:26+09:00"
   },
@@ -174,12 +180,6 @@
    "ko": "백만장자 투자자 하워드 막스는 AI 발전 속도가 앤트로픽과 오픈AI에 대한 위험이라고 말했습니다.",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWVTRUdBVmhpTWZFdjBZZnFuWmx2eExibHN5VWhkeTBwTGZ4Y1hRMFpkWkkxb0pkSXdwaDlhLVpaZ2ZaaTl5NGc0TWhjMDJOZWtFN250UFV0SjZhbE9DWGc3MEtLenpnbU01Yi1HcWR6ZkJUVFF5dm5TRzllYVQxazlLQnFFTkR3c0pwdjJJY1ZRclVURWhr?oc=5",
    "time": "2026-11-14T04:29+09:00"
-  },
-  {
-   "title": "Nvidia Crises, Anthropic IPO & Off-the-Charts Demand Have the AI World in a Tizzy",
-   "ko": "엔비디아 위기와 앤트로픽 IPO 및 차트 밖의 수요가 인공지능 세계를 뒤흔든다",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FeWhJZ0tnTW1JYXJIU0F0U3ptYVlLVW1WZlA1REs0MWw1d2ZQd3RIbEtfUXBxSndBX3pSLUlNQ0FieVFBMnhDV2VWWWlJcVhMOWt0OVJBRi0wWWc2NVMxRFlVRnJlZW8zUmNCTFBn?oc=5",
-   "time": "2026-11-14T04:27+09:00"
   }
  ]
 }
