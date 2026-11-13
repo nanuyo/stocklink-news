@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T00:40:06+09:00",
+ "updated": "2026-11-14T00:50:08+09:00",
  "items": [
+  {
+   "title": "Anthropic to IPO amid Nvidia fiasco",
+   "ko": "앤써픽, 엔비디아 사태 속 IPO 추진 중",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sUGk1c25oSHF3Vm13T3MwOVlrM2NnYzhrTnhCTjZaTHdOWURwVmlKTTJpZDhta2VtYmRTQVZrM01Qc3B5U1J3clZLZEdzV2REYXJMQWR0QTZEeWptRWljQWFCNkRCanJianRnU0IyYUZfbWhx?oc=5",
+   "time": "2026-11-14T00:43+09:00"
+  },
+  {
+   "title": "What AI CEOs expect ahead of Anthropic's upcoming IPO",
+   "ko": "앤써픽 CEO들이 앞두고 있는 AI 업계 전망: 앤써픽의 임박한 IPO를 중심으로",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUdWVFUyZjFfSTZXaVUxRkdhRDdpMlk2emtrOTV3LU1ZNl9NcUJ3TnBrSU5adGljTkpCc2E4Sjd4TTBNaWdiNk5iRXdkTmFtRGhTc3hNYU1IVWc0NUJiTWFyMEdGenpXXzF4RktlQ3F4OEhWT0FnakJ3MlZnaWpVcDIxNU9GeG5CYnR3RHR0Vjg5V1g2ZzNnc3c3Vjl4T1JH?oc=5",
+   "time": "2026-11-14T00:28+09:00"
+  },
   {
    "title": "At Least 18 Public Pension Funds Have Anthropic Exposure Ahead of IPO",
    "ko": "최소 18개 공공 연금 기금이 앤서프리크 노출 상태에서 IPO를 앞두고 있습니다.",
@@ -8,16 +20,16 @@
    "time": "2026-11-14T00:25+09:00"
   },
   {
-   "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models - the-decoder.com",
-   "ko": "전 오픈에이아이 연구원이 중국의 여섯 개의 인공지능 모델 내부에서 엔비디아 블랙웰 지문을 발견했다고 주장 - the-decoder.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEdFTUVPR3BPNFJuTFRLRThYUmh2VmdiNXk2MHV5X3ZDYVNpdVgtOWoyZnNFWEVuUGVWVnhsWTc2MENLNEZvMFY3dVBOR1FReG8zblFXMTZCMmdqazNpTkpPd2M4SlFPY1YxREctSTBONWZOcm1LdUNlY3lMNEpyQkk0NlpvSmY2N2daX2hvQmFFemlpenR6aHhoUENhZXg0N3JHTG40T1lXRmszN2dxeDhQeGl2YnctQmRDYTFJUTdVVkFiakxJUg?oc=5",
-   "time": "2026-11-14T00:25+09:00"
-  },
-  {
    "title": "SK Hynix (KOSE:A000660) Draws Focus As Senators Push Curbs On Chinese Memory Rival",
    "ko": "SK Hynix 주목받으며 상원의원들 중국 메모리 경쟁사 규제 강화 추진 중",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVcwS3hNUm1Ld2Jlb2ZJbThXTWd3MEdFTjVWOENfYTBXbWlJbm9TNUVnRkJaSThWU3djWmJjNzhqRjdPdjlVN0VJV2s1alY5ME1MM2doOUVYcXBqYTVGNTFOazlCemFLd1pDUGZnMlBLVnNvVXg4XzZCLXlVcVRQR1Q5WG5JVnJfUkpoZmdWV2FRZ0F5X3BBaXVHRnp0MmYxLUg4ZnhYTlktOHFsVDhKMFdBNVRzMVVLWndVRl9RNEZuQjhGS1dMSjBSdXdTSktJSHhqY1pqTGbSAd4BQVVfeXFMTWw5Z1BEWkFLOUdrVjB1N1RRQWxDY040dkpRbXhSSE9Vc2RUdzNjSXUwUWZteDBMZEp0VG83c09taWpRclotLXpGRENsMEJObWlzZHV2WTB6cXhKX1I5OGowSENQeVhXYzFPV3BrdFJQMV9zMmJpcmVaMnRTQjRSX01xX3VtRzd1THRlbDNRX01HM20xTGY4RjdoTmdiRnBLU3g2aHo4QUEzWUFEWS1xT2g0RUpTLXlTSlhuODJuZnZqZlp2UVJheDJDXzYyendqMmNnby1OMVl1SmpTbmFn?oc=5",
    "time": "2026-11-14T00:25+09:00"
+  },
+  {
+   "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+   "ko": "전 오픈에이아이 연구원, 여섯 개의 중국 AI 모델에서 엔비디아 블랙웰의 흔적 발견했다고 밝혀",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEdFTUVPR3BPNFJuTFRLRThYUmh2VmdiNXk2MHV5X3ZDYVNpdVgtOWoyZnNFWEVuUGVWVnhsWTc2MENLNEZvMFY3dVBOR1FReG8zblFXMTZCMmdqazNpTkpPd2M4SlFPY1YxREctSTBONWZOcm1LdUNlY3lMNEpyQkk0NlpvSmY2N2daX2hvQmFFemlpenR6aHhoUENhZXg0N3JHTG40T1lXRmszN2dxeDhQeGl2YnctQmRDYTFJUTdVVkFiakxJUg?oc=5",
+   "time": "2026-11-14T00:24+09:00"
   },
   {
    "title": "Cerebras Gains 20%+ Intraday After Adding Microsoft Partnership to Diversify Beyond OpenAI",
@@ -106,8 +118,14 @@
   {
    "title": "Nvidia’s New CEO Colette Kress Seems Tougher on OpenAI Than Huang Was",
    "ko": "네비아 신임 CEO 콜렛트 크레스, 오픈에이아이에 대해 휴앙보다 더 강경한 태도 보이고 있다",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdE5ROG41a0V2U09NYmFhVXJ5RmJXUE5sWFB5dVBwSVFWSHhvMmc4RGRiUVNFZUZ0ZnZNR2hyMWE2aFFudDY4QnB5bnlaWWJIMXo3WVBBZmV4ZHBNSTJNNGNWNk00eS1LRW1WNHlkWnR1aXNSSTZ0X2NXNkR0dXBwMk5hR3pBTzFkNDRpUHRZd1NPckk3QmJ0UVFLd1pqNmRfSmpQc1hkNmRRZDdlYlprVzl3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEFET2NIb2tPdTFudUxYUXFkZWpZNHlnbHJ6c2RDYTA2dTdNbjd4TkFVbXVFSmdQQzFwbFNQRTdvUjM2MEJpLW82bnFiUk9uRnVieEhGLVdfUFo4ZVFmdW84NDJQS09QM2xNUWhKVHg5Vm0waHdpbkNqR3dsendiLUtvRkY1b1F4NlZlWjl3bVZ2bGcwMzJ2SW5Mdw?oc=5",
    "time": "2026-11-13T22:56+09:00"
+  },
+  {
+   "title": "Anthropic IPO Access: Growth Opportunity for Interactive Brokers?",
+   "ko": "인터랙티브 브로커에게 앤서니코포리스 IPO 접근 기회 제공될까?",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd09FRVZXZVdCdDlTcVl1QWh0TDhieVVfVndBYkxnU0YzVi1FaXZNZG9DNUZKN1J4MVVtdEtnSjR1dHZnWExIbHlTNWdydDhHVEdLSDkxdlo4c2d5cHFqdmFnbkJ0cHd1NzA2ZW81dDF0NDgyVmNuMzVrd3JyMDBlQ0xZYnE2dk1ZN1VCdjEzTmx4RC1CdV9qMEQ5cGtJaWZlUld0SzhWbw?oc=5",
+   "time": "2026-11-13T22:54+09:00"
   },
   {
    "title": "Anthropic IPO Deep Dive. Is $1.5T a Fair Price?",
@@ -162,24 +180,6 @@
    "ko": "앤드리포닉의 1조4천억 달러 규모 IPO가 AI 수익 부진 시 은퇴자들에게 어떤 영향을 미칠까?",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GZEtrLWJMLUh2aVdGMmUxUjYxdlNjQzNSUWoyelhsZml1XzhBcUl2YmF0ZTNtS0hmaHNwSkNIcmNyTzg4dmt0UzIwRnpJZkNfOVpBRlpBQm1Zc0NPTjBhdVQ5a3NlbVFNV2VYdXR0cGd3V251VWM2UnJ2SW9Pakk?oc=5",
    "time": "2026-11-13T22:04+09:00"
-  },
-  {
-   "title": "앤트로픽 상장 첫날 사야 하나...크레이머 \"지금은 경계\"",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VUXd2Nkx0YnZGUElYamhXbnFJdnU4Q2tTYmQ0YmRPd3o5aXB2UDU2cVhrSWF2dENSNUJoZ21RQzE5TTh6TVl4Y0N3?oc=5",
-   "time": "2026-11-13T22:00+09:00"
-  },
-  {
-   "title": "The Stock Market Is Bigger Than Nvidia. But What About Anthropic?",
-   "ko": "주식 시장은 엔비디아보다 크지만, 앤트로픽은 어떨까요?",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTWV5N3pmeE1JNkhJWDlwYUtrdDgxSWF3RXRRdjlYaHRVRHNSWXhxaGY0V0RHUTFGV0l1SW1wNGVOUHlYUG9fRWZNX09aSkE5bk0ycndJT3ByMm43MDBrUDdCay0taWRILW51aGRvRmlmLW5kMl9nYTlxZzBScEhLeU1ycGRIZ0VfRHNub210dzMxVnlBZmUzalBhRjQ3Qjd1ZENSUEpOOHVxdnNoWXJWZmY3d2xPLXc1OTFWSjNweDF3Y2ozeHdtc1A4Uklya1dzQnFUOFRfNHE2SVdacFVsOGF6SXRaMHhJQVFHUExGbGN0X21fd2NDOW84RThhTmk4Z1ozWXpEcmxnSjlucHc?oc=5",
-   "time": "2026-11-13T21:39+09:00"
-  },
-  {
-   "title": "OpenAI Raised Only $15 Billion, Half What It Wanted",
-   "ko": "오픈에이아이 자금 조달 150억 달러로 목표치의 절반에 그쳐",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTQ4U19fSGdsZTRIRnh2VG4zRm16RV9ZdkltSHpiVng3UVZZS3lkbnN1ZnEzWXdRRmxtRXp3UkJZU0FVMFdfYTFaM0R5MjlJbkE0NXhJaVY2elRUa0F0TW1HR0drMjJPZTh2eENKZmZpNjBQbUR2Uktsa0xWWlRjT1RDc1lwbER0cDF6NjRjMXREUXViY2tNXw?oc=5",
-   "time": "2026-11-13T21:33+09:00"
   }
  ]
 }
