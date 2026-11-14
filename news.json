@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-14T13:30:05+09:00",
+ "updated": "2026-11-14T13:40:09+09:00",
  "items": [
+  {
+   "title": "How To Handle This Market; Nvidia Earnings, Anthropic IPO Ahead",
+   "ko": "이 시장 어떻게 다룰 것인가: 엔비디아 실적 발표와 앤서니픽 IPO 앞두고 있음",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
+   "time": "2026-11-14T12:56+09:00"
+  },
   {
    "title": "U.S. IPO Weekly Recap: 2 Sizable IPOs Price, A Multibillion-Dollar Deal Joins The Pipeline, And Anthropic Sets Terms",
    "ko": "미국 IPO 주간 요약: 두 개의 대규모 IPO 상장 가격 결정, 수십억 달러 규모 거래 파이프라인 합류 및 앤트로픽 조건 설정",
@@ -174,12 +180,6 @@
    "ko": "앤써픽 IPO는 과대평가되었다고 CIO가 말해",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE?oc=5",
    "time": "2026-11-14T07:20+09:00"
-  },
-  {
-   "title": "How GPU futures could help Anthropic hedge AI compute costs",
-   "ko": "GPU 미래가 앤써픽의 AI 계산 비용 절감에 어떻게 도움이 될 수 있을까",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1N5MDZKX210UW85ZmpBMWhnX3VfNnQ5Skh3cjVnUE1na1RDSGVBeFlHM0xJS09FcHRzTmNqWFRiRkhZSHpWLTJlYjFKYkNmeWE2OEZ6V2hMM09EV1ZIUTVCVjVvTWlISXR1YnYtMThPTHNxWnFXUGpCNC1kUXkyWUZncllFdw?oc=5",
-   "time": "2026-11-14T07:10+09:00"
   }
  ]
 }
