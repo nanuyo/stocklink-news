@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-14T20:20:07+09:00",
+ "updated": "2026-11-14T20:30:06+09:00",
  "items": [
+  {
+   "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+   "ko": "앤써픽은 전 연구원 콕슨에 따르면, \"원래 필요했던 계산 자원의 분수만큼으로도 마이토스를 재교육할 수 있다\"고 합니다.",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSWhmb2VKWjlndW5RMmRLOTljekpuSDk3R3Q4dlBFWlN2ZmpoMmx2cm9uS2hjaHAyRFEtbnpab0dndm94ZmYyZlM4MVlSOW1BWVNUeUxWcENXUzhWYXpjZm9UaVBtOWhDT0pZd2FhUHY3Mi1lWkd2aC1hNGY0NWE2NUY0aEpwdDUxbTlvUkQ4U21QbVJFSXp2SjE5MG5yaTlrOWpjSkh4Rm54RlVINE5oelVfdHkycm5raWpmY3o1QjdyaVgxd0VDWEktclZJRzlqTmhhbmpB?oc=5",
+   "time": "2026-11-14T20:25+09:00"
+  },
   {
    "title": "Short seller John Hempton calls AI compute 'fibre optics Mark II', but says he'll buy Anthropic's IPO",
    "ko": "존 헵턴 단기 매도자는 AI 컴퓨팅을 '광섬유의 두 번째 버전'이라고 부르지만, 앤트로픽의 IPO에는 투자할 계획임",
@@ -174,12 +180,6 @@
    "ko": "미국 IPO 주간 요약: 두 개의 대규모 IPO 상장 가격 결정, 수십억 달러 규모 거래 파이프라인 합류 및 앤트로픽 조건 설정",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG1YWXM2NDlON1BrTU1abmpmamJwMmpFTmNRZmVoSnpLNUZVdHlIOGFtUjFuWHoySVY3WURIV1RmTlUzV1g2UzIwNV9pVjVGMkpGQTNkSGJfVkR4dEljMzA0RWQ3NTVZQ1dHNHN1dG5mMmNJMEpQcTdNdkxLVW4yaGpLRUZ3b0ZxWHAybHdsUm5lNVVvMk9nY3k1OC1BUXRKNTZ2MWo2Z2dXY3FFMGNtaENwUVB1T096eDlDT3VjOA?oc=5",
    "time": "2026-11-14T12:50+09:00"
-  },
-  {
-   "title": "Goldman Sachs forecasts Anthropic cash burn above $65 billion in 2027",
-   "ko": "골드먼 삭스는 2027년 앤트로픽의 현금 소모 규모가 650억 달러를 초과할 것으로 전망합니다.",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WTVQanVuRGRVS1ItWjNqZXB0ZFlZMW9wemVNcU0wa1lvRDYxS1owWjAzUVUwT1JjX0FvUzlueGFpdGJ1c2dBNnB1SlZCaGVXNV8wNHBlUjhuVVc1QTZEREJ0NXg3RkZRLXFEOGxUTmw?oc=5",
-   "time": "2026-11-14T12:16+09:00"
   }
  ]
 }
