@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-14T09:30:06+09:00",
+ "updated": "2026-11-14T09:40:06+09:00",
  "items": [
+  {
+   "title": "앤트로픽 컴퓨팅 효율 4배 초과…모델 성능과 다른 지표",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Nd3V4ZnV6aWI0blVvMXkyZWJQdXBHY1F4TzZUYS03djRyVDl1bjBMNUQzQ0FEVEVRVEpUY2JwOTl1OUYxQUlzMER6NThzQ0lX0gFWQVVfeXFMTUZtYjlHN3MyNFBJNGs4S3ZjNHQ3OHg4ZlY3WERzbjl6TElPTG91T21TSjZfUjVKem5pN1lVNDZUNVRCWVJrRHhrM1RjcUgyVmVPOXROaUE?oc=5",
+   "time": "2026-11-14T09:31+09:00"
+  },
   {
    "title": "Former Anthropic researcher says an IPO roadshow slide helped push him out",
    "ko": "전 Anthropic 연구원이 IPO 홍보 슬라이드가 그를 해고하게 만든 요인 중 하나였다고 밝혀",
@@ -68,12 +74,6 @@
    "time": "2026-11-14T07:31+09:00"
   },
   {
-   "title": "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations",
-   "ko": "블랙웰 칩의 하드웨어 지문 발견: 중국 주요 인공지능 모델 네 곳에서 식별; 전 오픈AI 연구원이 6조 조합 비교로 이를 밝혀냄",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CY2lvbVhQSV9BUkZ3UmJiaUtxcnZxdnFiSUxTemk0bXlOMHpadzhXd2ZYd0FNRVh3LXotMVl3djJXbDVJa2x6WWttWHl6MFc1YWRFNFA4My1QWFQ5aDBmd2xtT0c4WDZpbmNMcGlxemtoSnlEc0E?oc=5",
-   "time": "2026-11-14T07:25+09:00"
-  },
-  {
    "title": "Anthropic IPO is overpriced, says CIO",
    "ko": "앤써픽 IPO는 과대평가되었다고 CIO가 말해",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE?oc=5",
@@ -116,6 +116,12 @@
    "time": "2026-11-14T06:52+09:00"
   },
   {
+   "title": "Wall St Week Ahead: Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+   "ko": "월스트리트 주간 전망: 엔비디아 실적 발표와 앤트로픽 IPO가 혼란스러운 인공지능 시장에 시험을 제기합니다",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkhwN0xoWW41NzBTZjRFMi1RV0tnYW84ak1zMGU3UHpxTkZ2UHNqako1QWh6NDRkRG5Eb1kwY0RCS0hydXVzTkg2clUwTXNBRUthM1R0SUg0azdDZkhaZlpFNzMtSDdNa09jZW9yb3N4UzdWUHpiTUl0cXl3dTQwb2M2V2R0Q1lSUFppUVVVaWYzejdsZk9GeWc4dE5oNGM2LS0yVFhkX2lpODlBMFZnVlJlVGJMb21XNE02c3BMa1U?oc=5",
+   "time": "2026-11-14T06:39+09:00"
+  },
+  {
    "title": "Market Rally Hard To Handle; Nvidia Earnings, Anthropic IPO Ahead",
    "ko": "시장 랠리 관리 어려워져...엔비디아 실적 발표와 앤트로픽 IPO 주목",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
@@ -125,12 +131,6 @@
    "title": "Anthropic CEO Amodei speaks with JPMorgan CEO Dimon about compute commitments",
    "ko": "앤드리포픽 CEO 아미데이가 제이피모건 CEO 디몬과 컴퓨팅 투자에 대해 대화 나눕니다",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVVTcDNVM0l3MlpNZDB2Z3BwdFFtQ18xa3dvSmQtQjhnTk1YNjc4YmxXYk5PWTYzRjZQTlMwVFg1NHZuMXNJdGs2SWJ3LTMxUUVDakg3TmRMTnpUdWx5RWFlVFZJMDAyckExUEJCc0VVRFlOZGVQX3hiUy02dkNXRjZXSVBBYVF6Vmx6UkFCcE0zWjhQZXpMUnVKRDdKWWttLWhIaDF5ZGl6b0M4S1RtejZBSVoyd3pKUi1JVnlmYkdVMHdPLWpMMQ?oc=5",
-   "time": "2026-11-14T06:32+09:00"
-  },
-  {
-   "title": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
-   "ko": "엔비디아 실적과 앤트로픽 IPO가 혼란스러운 인공지능 시장에 새로운 시험을 제기하고 있다",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRDUwQjA2VHVzclMydDZnSW9acGZncHJxUXdzM0hqVUttZU1hak9uZldFRGQ4clBFMHo3ZW02SnZBeGtKRmVPMk1wcGpVMEdjZ2xkazJsUDJmMTNzZVJEM1dhdU9vczFlbVpTaUkwZEFtUnlCaUdmbHhwNFdxaFhXX1d0U09MUVIzeTNabHZyTGE3MlhIWTgyYkl4Ul8wcU05Q0tJRDd2amJrVTFLTWZ3N2F4b2JLX0o4YWlVTzByXy1vYkZrNTBiemQwVlBLdw?oc=5",
    "time": "2026-11-14T06:32+09:00"
   },
   {
