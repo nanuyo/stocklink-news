@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:20:05+09:00",
+ "updated": "2026-11-14T11:30:06+09:00",
  "items": [
   {
    "title": "엔비디아 임원들 '젠슨 황 복귀 촉구 서한'...오픈AI 베낀 '가짜'",
@@ -26,7 +26,7 @@
    "time": "2026-11-14T10:53+09:00"
   },
   {
-   "title": "엔비디아 임원 집단 사직 서한, 알고보니 오픈AI 베낀 '가짜'",
+   "title": "'젠슨 황 복귀 요구' 엔비디아 임원 집단 사직 서한 '가짜'였다",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04QnRWbXozamI1M29SVU1DRlctOGlOZWJnbjRoOWZnTzJvOXdOd0dWTHVkTWNZOEVyaG8tUVIzYUdId0V3VS1GUGVaRFNwcV9nWGZESXp0Y0tteEtocXlRd2ZqSXVUaUpNMnRleG9B0gFzQVVfeXFMTUhZdDh6WWZWUk12Y1diVnVRNm45Y19vM2lyN3V1dkR1NlIzNUt3Z1VtdmdnTllaYS1jRGtiRW01X3BTWUFJOUhrdkkyNHF1QmZFV1BnUFRaVlBSRm42RG1GaDRXMGdwQ1hRTE8yUlFlcF84Zw?oc=5",
    "time": "2026-11-14T10:41+09:00"
@@ -122,12 +122,6 @@
    "time": "2026-11-14T08:00+09:00"
   },
   {
-   "title": "'Fast Money' trader talk potential impact of Anthropic IPO",
-   "ko": "'Fast Money' 거래인들이 앤서니코프 IPO의 잠재적 영향에 대해 이야기하다",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXpuZmZhZWJiMldMbGxxYm5jdVBiNTF1bkgtSmRhdm5CWG1ZVE9EUmhud2ZkakxZazJhQm1RQ09MalQzZVU1c1I1T0FBRE1NWmJZNjExVWhGRWhtLVotUkR6dkh4VWxodE54elRJNUtyMTA4cnBmQy13VWdoMEltY3lSUzR4YllZeXVXS1R4NXFVdFBTZnB3MlpSNWpIUWJE?oc=5",
-   "time": "2026-11-14T07:55+09:00"
-  },
-  {
    "title": "Anthropic IPO Could Raise $64 Billion as Orders Reach Six Times",
    "ko": "인공지능 기업 앤서니픽의 IPO가 주문량이 6배에 달하며 640억 달러 조달 가능성 보여줘요",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTVJFZEE2WWt0QjdIaWQ4Y3N6c0t5aWRxUTVFUHFvb0dPQ1VWcXB4c0NTb0Vmd0RORlBvQzlrT2hnY1FVRlZXYkJMZkJPWHJKd0puUGhOblV1TlJrZmFWX1FySG1MSXBmZ2dWMzF5Zlkwd2g4YXhwVER0eFAxWkVwVDZ6eGQ3a3pUMVRIeA?oc=5",
@@ -138,6 +132,12 @@
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa0VGYlRlekhlRDNRNFNVTElrYU1COFBaUjBnbWhTUzNqbjhWTUxXWXEzY0JsaDNkNldpNG1CSzljczFHXzd3a01ndm1wdE1weGFIdnJpRkZmS29hREJkNjJaNTU2UEhHLVJTUDdtT3QweFZqWS1SU0prYXk3WkJkdnBiT2hhXzNDOWYwTklQYWM?oc=5",
    "time": "2026-11-14T07:31+09:00"
+  },
+  {
+   "title": "'Fast Money' trader talk potential impact of Anthropic IPO",
+   "ko": "'Fast Money' 거래인들이 앤서니코프 IPO의 잠재적 영향에 대해 이야기하다",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXpuZmZhZWJiMldMbGxxYm5jdVBiNTF1bkgtSmRhdm5CWG1ZVE9EUmhud2ZkakxZazJhQm1RQ09MalQzZVU1c1I1T0FBRE1NWmJZNjExVWhGRWhtLVotUkR6dkh4VWxodE54elRJNUtyMTA4cnBmQy13VWdoMEltY3lSUzR4YllZeXVXS1R4NXFVdFBTZnB3MlpSNWpIUWJE?oc=5",
+   "time": "2026-11-14T07:25+09:00"
   },
   {
    "title": "Anthropic IPO is overpriced, says CIO",
