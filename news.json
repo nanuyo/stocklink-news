@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-14T16:20:05+09:00",
+ "updated": "2026-11-14T16:30:06+09:00",
  "items": [
+  {
+   "title": "Kraken Opens Anthropic IPO Requests With 5% Spread",
+   "ko": "크라켄이 앤트로픽 IPO 요청 시작 시 5%의 스프레드로 문을 열었습니다.",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWURkeGo0bjVnNzltUEdKaW45TFo4RUNaRUFaUzJsVkdQWHUtVlN4SzNrSU44cVRsU1FxZC1VTDJfWFlzWV9Wb29JSjR6R0RFSUhCc0s2LV9CWkUxTDYxZmhJTENqQmlUSkUydjgzWGltUjQtQ2xybVFseUdoR2p6YXpUZ2xZcldWbDdCQ0RZLVBBQmhYejhLREpvdlp2dHRM?oc=5",
+   "time": "2026-11-14T16:26+09:00"
+  },
   {
    "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령",
    "ko": "",
@@ -74,12 +80,6 @@
    "time": "2026-11-14T12:14+09:00"
   },
   {
-   "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
-   "ko": "중국 무역 흑자, 전년 대비 650억 달러 증가하며 두 번째 연속 1조 달러 돌파",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdFpfMGNqU3Myc1JSeDJFeU02cHNWYVl3LWNOckdUdHktbWhMaVdTTWxUam1saEI1b3U3MlREVVVQbXNDVVZCUXA4ZEs2dFhHdm1iaW5EbFlzU3ZTN2NqS0VfS2lhZUtzdFlJTk1LLWsxSDBIQ3lFMmxpNVBxRThmcWhXcDkzX29ySG1La3ZkazZsUU90UXJBVy1IYVBEYmxiLVNDU0lpTnpySVdOaHRQOWlySE0yaXlSN0xOTnV6UEMyNjFmMG51T0JGUTdNdTRNTEFhcERJRXNIdUtDSXRGRktCWDlqM21MUjYyWWN3Wk5LZU9qai1oNjVBdF9IQnRJMVRBUmZhOEx5Z2M?oc=5",
-   "time": "2026-11-14T12:03+09:00"
-  },
-  {
    "title": "엔비디아 실적 발표·앤트로픽 IPO…빅 이벤트 이어진다 [다음주 주요 변수 미리보기]",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kUHU4bnp1b05qMnJtSXlYUWk5SlQxaWFfR0tIZEpDUFVHVVRXR0FTVml3TkV0aE5BTko2VWMzbGJmS3hlN00zckQyeld3UU5XVFFRbWxSSW1idw?oc=5",
@@ -122,9 +122,9 @@
    "time": "2026-11-14T10:53+09:00"
   },
   {
-   "title": "'젠슨 황 복귀 요구' 엔비디아 임원 집단 사직 서한 '가짜'였다",
+   "title": "엔비디아 임원 집단 사직 서한, 알고보니 오픈AI 베낀 '가짜'",
    "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04QnRWbXozamI1M29SVU1DRlctOGlOZWJnbjRoOWZnTzJvOXdOd0dWTHVkTWNZOEVyaG8tUVIzYUdId0V3VS1GUGVaRFNwcV9nWGZESXp0Y0tteEtocXlRd2ZqSXVUaUpNMnRleG9B0gFzQVVfeXFMTUhZdDh6WWZWUk12Y1diVnVRNm45Y19vM2lyN3V1dkR1NlIzNUt3Z1VtdmdnTllaYS1jRGtiRW01X3BTWUFJOUhrdkkyNHF1QmZFV1BnUFRaVlBSRm42RG1GaDRXMGdwQ1hRTE8yUlFlcF84Zw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IWXQ4ellmVlJNdmNXYlZ1UTZuOWNfbzNpcjd1dXZEdTZSMzVLd2dVbXZnZ05ZWmEtY0RrYkVtNV9wU1lBSTlIa3ZJMjRxdUJmRVdQZ1BUWlZQUkZuNkRtRmg0VzBncENYUUxPMlJRZXBfOGfSAXNBVV95cUxNSFl0OHpZZlZSTXZjV2JWdVE2bjljX28zaXI3dXV2RHU2UjM1S3dnVW12Z2dOWVphLWNEa2JFbTVfcFNZQUk5SGt2STI0cXVCZkVXUGdQVFpWUFJGbjZEbUZoNFcwZ3BDWFFMTzJSUWVwXzhn?oc=5",
    "time": "2026-11-14T10:41+09:00"
   },
   {
@@ -138,12 +138,6 @@
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEp3dVBUcmRMUEwtTzFENnF4ZWM5OEpZQUhTTEoyN3lNWmZqSnZGXy15eV9sZkJxM2JSeGhrRXFqOFg5SkZRU0o3WHZnSmRuMkdwSVh6N1Q0b0FDX285US1PRS0zMHF0RnNJSW02SklmWTB5VVR6bzNnRFJ0dFpwWXl6Yw?oc=5",
    "time": "2026-11-14T10:32+09:00"
-  },
-  {
-   "title": "CoreWeave Has $22.4 Billion in OpenAI Contracts. Could OpenAI’s Cash Burn Threaten Its Growth?",
-   "ko": "코어위브, 오픈에이아이와의 계약 규모 224억 달러에 달해...오픈에이아이의 자금 고갈 문제 성장 위협할까?",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVdpbXVQU0FTUVpSVU96aGZMNWczREtFd3M0ZTgwM2ttUkRwbzNLQ1BwLW9hQWR2eG1Rc0R1NEtMbVExcWhLdzlVUW9wVzBsRGpJZWZJcHlzcmR3MDVvaHU3MHBLQ3N3b2FvSzBpMHRrblZQUWFKN090R3IxbHdxZDVpbkgzZ09nYWRsSDRoUXJRNzRxaWdMSTdIbFZDcG5fN2NVT0ZlV3RPMGZleFRWLTUzM2Fjdm84?oc=5",
-   "time": "2026-11-14T10:18+09:00"
   },
   {
    "title": "Stock Market Today, November 13, 2026: Tech Stocks Fall as Nvidia Earnings and Anthropic IPO Loom",
@@ -180,6 +174,12 @@
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWmhjR2ppUURwODVrcWdidlpTVklXM0NMMkU2eDctWTlLX3k3RngwOERFdEltTjRfblFnZmtSd2Z4bUpONVRnTllWdHl3WktfUTVwMllDdUM3WFp3STVBWDdlZ18yZTV2azFNTGt4NjY?oc=5",
    "time": "2026-11-14T08:41+09:00"
+  },
+  {
+   "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+   "ko": "샘 뱅크먼 프리드가 앤써픽 IPO로 거의 400억 달러를 벌었을 것입니다.",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Z3U1VPVmxLWjM2TjhxWDNnMWFtQklmeVFYZ3NjUXZhMkR5NXQ4bEhhUU5oRXdaWHdIam5qN0FXdFFOc3ptTGxtMzN1c3pzSkNLcjdkbEEyRWZNNmhRcFBwLVoxVTJkcHhiT1RlWF9qSG5CYzJMQUVwVlFPYXNTMGtzSkc?oc=5",
+   "time": "2026-11-14T08:39+09:00"
   }
  ]
 }
