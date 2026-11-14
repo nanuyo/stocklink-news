@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T10:40:05+09:00",
+ "updated": "2026-11-14T10:50:05+09:00",
  "items": [
+  {
+   "title": "엔비디아 임원 집단 사직 서한, 알고보니 오픈AI 베낀 '가짜'",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04QnRWbXozamI1M29SVU1DRlctOGlOZWJnbjRoOWZnTzJvOXdOd0dWTHVkTWNZOEVyaG8tUVIzYUdId0V3VS1GUGVaRFNwcV9nWGZESXp0Y0tteEtocXlRd2ZqSXVUaUpNMnRleG9B0gFzQVVfeXFMTUhZdDh6WWZWUk12Y1diVnVRNm45Y19vM2lyN3V1dkR1NlIzNUt3Z1VtdmdnTllaYS1jRGtiRW01X3BTWUFJOUhrdkkyNHF1QmZFV1BnUFRaVlBSRm42RG1GaDRXMGdwQ1hRTE8yUlFlcF84Zw?oc=5",
+   "time": "2026-11-14T10:41+09:00"
+  },
+  {
+   "title": "엔비디아 이사회 퇴진 요구 서한 확산…오픈AI 항의문과 판박이",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hbWpjaVVxelFXYzAzT25vNWlGVzY5Wm5ISVBrRlg4d281VVZYQ3c5SVVsd0dHTERuYU9DTnJUVlhFQzROMGw3WVkwTFd1ZFYtQ0w2S3lCM1lmbEQwdm9VaVRVTVp5bVZ0blhZc2VYS1dyUVRic1BhVWFydUhTTlU?oc=5",
+   "time": "2026-11-14T10:39+09:00"
+  },
   {
    "title": "CoreWeave Has $22.4 Billion in OpenAI Contracts. Could OpenAI’s Cash Burn Threaten Its Growth?",
    "ko": "코어위브, 오픈에이아이와의 계약 규모 224억 달러에 달해...오픈에이아이의 자금 고갈 문제 성장 위협할까?",
@@ -56,6 +68,12 @@
    "time": "2026-11-14T08:21+09:00"
   },
   {
+   "title": "Should investors be keen to buy Anthropic stock? The IPO is enticing – but oddly timed",
+   "ko": "투자자들이 앤써픽 주식을 사는 데 관심이 있을까? IPO는 매력적이나 시기적으로 묘하다",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWo1czJsS3FZaGt3eVppTkFGdHBPTW5mdFB2M29iN0k0cnVTVGYzMncwTFp5akNrVEhWamdISjZRVkZ0b3R2OWltcllsRVNmRHJwZWp2Wkw1dEFFN0MwOWhfazVyQ3R5XzE3X0ZwZHNVUDNZNEJ2emVvOUJDQndOYW1kZTVtWGpMNVMwbEFEMW12dVZPanNUYURJNE9vcnduaVBzMzRaX3Zfc01vV0h0QzRVUzAzMVlP?oc=5",
+   "time": "2026-11-14T08:12+09:00"
+  },
+  {
    "title": "[AI 승부처] 앤트로픽 상장 첫날 시총 1.5조 달러 초과 확률 33%…하루 12%p 하락",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HTnpwa1ljbDdYVDJkaXhrTWM0OTdCVWU2MWVyNEc2Y3NZbUwyektqeWFEdzBnSHEyNm5kclpCU3B0RTJlQmdzVmhn?oc=5",
@@ -96,12 +114,6 @@
    "ko": "앤써픽 IPO는 과대평가되었다고 CIO가 말해",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbWJjdW5EZHpuS2hwNTdtX25xRGJYRE9QMktYOXpKNnd5YWZfblBVT0F6TnB3ZUhyWjBGMnZnT2tFczBuc2xYNUFROXVFRFJ4WVFSVE1QZVIzMEM2VllualQ4RTVGMkE?oc=5",
    "time": "2026-11-14T07:20+09:00"
-  },
-  {
-   "title": "How GPU futures could help Anthropic hedge AI compute costs",
-   "ko": "GPU 미래가 앤써픽의 AI 계산 비용 절감에 어떻게 도움이 될 수 있을까",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1N5MDZKX210UW85ZmpBMWhnX3VfNnQ5Skh3cjVnUE1na1RDSGVBeFlHM0xJS09FcHRzTmNqWFRiRkhZSHpWLTJlYjFKYkNmeWE2OEZ6V2hMM09EV1ZIUTVCVjVvTWlISXR1YnYtMThPTHNxWnFXUGpCNC1kUXkyWUZncllFdw?oc=5",
-   "time": "2026-11-14T07:10+09:00"
   },
   {
    "title": "Amodei Highlights Computing Power, Capex Dilemma Ahead Of Anthropic IPO",
@@ -168,18 +180,6 @@
    "ko": "중국의 AI 연구소들이 수출 통제에도 불구하고 엔비디아의 Blackwell을 이용해 모델 훈련 중이라는 전직 오픈에이아이 엔지니어 주장",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2d0VmU0UHVrQlVvWElsNFVGTlhKcDc2YVR0SGxqM2dBUXlvSGpLZTNrbUhDTVhiLU0yU1lUamJ2MFpNc3V0SUxlY2xkc3dKemkxel9zbEVXaTVoVHhMdUliUERkZUNKQ2pvSnNKeUh3WDBXdkw1dVBQM09pMjBlSXdoc3JUOVpxZTZYZkphSVFzeDV5MkN5SGpLN0E3bmZVcnJtRThzNDJYSGNzSi1qUEdXUDZWYzRrbHY1RkVqeTA5WWxadzdTcE9USjMxVkZLU3p2cGZMODJpU1V5SDlBTDFyWUNnWXZpbGF1aEotVlFsMkU?oc=5",
    "time": "2026-11-14T06:16+09:00"
-  },
-  {
-   "title": "Anthropic IPO Buyers Have More Influence on Price Than SpaceX",
-   "ko": "인류 기업의 IPO 투자자들이 스페이스X보다 주가에 더 큰 영향을 미친다",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFNnalJQbXd0ajBKQzVHZFZuQlpzdktSNlN6MGZiNXlFaGZaOHVPbXlVYURmaVZkeE9xaTJPaFFjREdMVGJhMFZsU1pmeGpXUkpTcy1yVlFkN3MtbkhmWW5HQ2JtOXp2RlZXVUkxcF9lemc1eVlyNmJFMFlUUlg0WS1mVGJ5czVpcmQzbkswcjZ3b2Zha3dJNDNKOXJqeXVTQlJQbHdYQVNJdS01YnhkS3p3?oc=5",
-   "time": "2026-11-14T06:13+09:00"
-  },
-  {
-   "title": "Anthropic CEO sells investors on safety, 'no jerks' culture",
-   "ko": "앤써픽 CEO가 투자자들에게 안전한 문화와 '문제아 없는' 환경을 강조하다",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWNlN1FVR05seHNvQTB4d0J1VTVSV3dBY3lIQmFmaHRkTkd2Q3hWemJvOW1iLUlndS1kbkJGUE41Wi1FbG5SQURDVmkzTWdrcEdiYmkzanVUbHpkazhPUDBLS2dpR1d6NWVHM2J5cmFpT1JJX0QtN1JSTmc1ZGxYd1ctZklIbG92OXBjLW1odlgzN19hYllsMHJqWEtRLUE1LVE?oc=5",
-   "time": "2026-11-14T05:59+09:00"
   }
  ]
 }
