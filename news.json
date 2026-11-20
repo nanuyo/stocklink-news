@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-21T07:40:06+09:00",
+ "updated": "2026-11-21T07:50:05+09:00",
  "items": [
+  {
+   "title": "Oracle Says OpenAI Compute Contract Is Fully Funded After $20 Billion Capital Raise",
+   "ko": "오라클, 오픈에이아이 컴퓨팅 계약 완전히 자금 조달 완료 후 200억 달러 자본 조달 발표",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkczBlRHRhbWVGWXF2SG9UWWhGclU4b3k1Q1NwX3otM0dWT3FpeC1uUGxJeFhDQXVGN213bTVyM1R5bjdSOGNLSW9SVlYzVWJ4MU9jb3B2UWF2NlZFNVVCSFJNU1pWX0xCaGVjejhheTg3WlBEZHc?oc=5",
+   "time": "2026-11-21T07:35+09:00"
+  },
   {
    "title": "앤트로픽 '데뷔 효과' 끝났나…상장 이튿날 8.5% 하락 - 머니투데이",
    "ko": "",
@@ -146,6 +152,12 @@
    "time": "2026-11-21T06:25+09:00"
   },
   {
+   "title": "Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced 6% to Close at $88.30. Facebook Closed Its Day 2 10% Below Its IPO Price",
+   "ko": "앤써픽 주가는 첫날에 공모가인 83달러 대비 불과 5센트 차이로 마감했고, 그 다음 날에는 6% 상승하여 88.30달러로 장을 마쳤습니다. 페이스북은 첫날 종가가 공모가 대비 약 10% 하락한 채 마감되었습니다.",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVzBQUEZsWkFYNE5BYXc5NFAwamJFSEY3WXZhdERqT2N4b1lvcG9JZDBFMXZUMlFUUVBxX3kwYTZtek0xT1UxLUYyYkIxUnBPVGFHMGZLb2dGVzRNcVpUYzlxejVhbVhPQ04zSW1MQlZfN3ZGdERZLVFYZFpBeWxsa29IbWtOZUNTNWdsSDN5UjlvTkVyLVZPbThn?oc=5",
+   "time": "2026-11-21T06:17+09:00"
+  },
+  {
    "title": "뉴욕증시 급락, 앤트로픽 상장 상승 반납",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0VC1HV3pGdUtzT3Q2b1doTG90ZGJyNGxIR3FRdURlMmFBNWlLR09sRFFQaVROeldTX2c3cHhuN2Q3dXkwUHlxMGJiMmtXeG5QMEdqMkx2ZW5IWmpSRU1qRdIBeEFVX3lxTE1FTG13WjNFWmp6ZUpUQ05LUzJ3QzZrMllOMlBHMHNlRjlTU1dTd1UtSmNqQ01ZeXFwNmJtLTVCbWZuUHMyTE5rM2FJckM3QjlQZUlELU4xMFZ2ZWYyMWVLR3lqak5zUGRyMTc0alNReHFUUEl5dVNENw?oc=5",
@@ -158,12 +170,6 @@
    "time": "2026-11-21T06:12+09:00"
   },
   {
-   "title": "Men made up most of Vanguard’s self-directed investors in Anthropic debut",
-   "ko": "밴티지의 자가 주도 투자자 대부분 남성으로 나타나며 앤트로픽 데뷔",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXZibGVMeDA0M3dDUWhEdzdOU084SXBudkg4LW5rMW5xOVFjUUlGNVBIbVFoVUx5NGlwbV9YdWRhRFNjclo5aUx1RFF6X3NXTm9Td1dsdHZRdXNta0o3OW5sM1gwMVNPcjNxWFM2dGlaU2RaelVNc1pWSDI4cjY2S1hoLVJ4MHREc29MODR6TTJha3Qzd3hBWlVMdnhmdExaeHVvZ3hxYw?oc=5",
-   "time": "2026-11-21T06:11+09:00"
-  },
-  {
    "title": "앤트로픽에 투자하고 HBM 팔고 클로드 심는다···K기업의 AI 삼각 포석",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4UmZvbmFUWVVRWUNISWFjWEwtbzVvclNENUxRYjJyWnJpS1RkaFpDa2hvYkpsNlhLaUNhN1Fvd3kzWTJXN1JuanVBUHVwOWNTUDVIYWlBdWdUblVZdml1MTZqcTBQZHN0X1E?oc=5",
@@ -174,12 +180,6 @@
    "ko": "AI 시장 불안 속에서 앤써픽 주가 급락, IPO 상승분 거의 상쇄",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWx3SUw5VXNrMldJUzZ3UnQ4SGxJWXBHNTEwcWViWlJhMC1GaVJQZ3ZWNXdmajdFR3N6SHJaYlU2c0ZJcTFaOGpRdndOU0d0enNJdzdMY1NYdWt3Vk1QMnNSTFZUcHp4dXJCOUItQzJFck5GZDlkNXppT2lCRmJhcGl0bW80cEs2VVhTd240Q0pWRFFEUUxFTHo0VVVjaDVCc3hqVnJMSnp5Mm9UOHVObk9EakYxdw?oc=5",
    "time": "2026-11-21T06:09+09:00"
-  },
-  {
-   "title": "[단독] 스페이스X 넘어선 앤트로픽 청약 열풍…상장 직후 주가는 급락｜Global Money Club",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBQXZ5RVZZZ0RUbGh3UnBva21vV1NEUzl6cnQ5T04wZWZMXzd2b05jVWRvdk9Bem1QRXQyQWlaaGM2VVdGUkxwd0Uyb2JSMDg3aFJBZEtLT2dEN0E?oc=5",
-   "time": "2026-11-21T06:07+09:00"
   }
  ]
 }
