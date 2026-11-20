@@ -1,7 +1,7 @@
 {
  "tone": "down",
- "headline": "🌅 [11/19(목) ET] 간밤 미국증시 — 앤트로픽 상장 첫날 AI주 차익실현에 AMD 공매도 보고서·연준 금리인상 우려까지 겹쳐 3대 지수 2%대 급락",
- "summary": "다우는 1,101p(-2.19%) 내려 6월 이후 처음 5만선 아래로 마감했고, 나스닥은 -2.25%로 2만4천선이 깨졌습니다. 앤트로픽(ANT)은 공모가보다 17% 오른 채 마쳤지만 기존 AI·반도체주에서는 돈이 빠졌고, 12월 금리인상 가능성(96~100%) 반영도 부담이었습니다.",
+ "headline": "🌅 [11/20(금) ET] 간밤 미국증시 — AI 매도 폭발, 나스닥 -5.3%·S&P·다우 조정 국면 진입",
+ "summary": "엔비디아가 SEC 회계 조사 보도로 14% 급락했습니다. 반도체지수(SOX)는 약 10% 무너졌고, 나스닥은 2026년 상승분을 모두 반납했습니다. S&P 500은 7일 연속 하락해 2020년 2월 이후 최장 연속 하락을 기록했고, 사상 최고치보다 10% 넘게 떨어져 조정 국면에 들어갔습니다.",
  "blocks": [
   {
    "type": "table",
@@ -14,33 +14,33 @@
    "rows": [
     [
      "다우",
-     "49,097.06",
-     "-2.19%"
+     "48,147.33",
+     "-1.93%"
     ],
     [
      "S&P 500",
-     "7,175.83",
-     "-2.02% (6일 연속↓)"
+     "6,910.42",
+     "-3.70%"
     ],
     [
      "나스닥 종합",
-     "23,879.20",
-     "-2.25%"
+     "22,617.73",
+     "-5.28%"
     ],
     [
      "러셀 2000",
-     "2,655.11",
-     "-2.18%"
+     "2,581.79",
+     "-2.76%"
     ],
     [
      "필라델피아 반도체(SOX)",
-     "종가 확인 불가",
-     "-2.4%"
+     "확인 불가",
+     "약 -10.2% (단일 출처)"
     ],
     [
      "VIX",
-     "28.44",
-     "+15.8% (3월 이후 최고)"
+     "35.89",
+     "+26.2% (2025년 4월 이후 최고)"
     ]
    ]
   },
@@ -55,18 +55,18 @@
    "rows": [
     [
      "미 국채 10년물",
-     "약 5.05%",
-     "-1~2bp (장중 5.11%)"
+     "4.91%",
+     "-14bp (5일 연속 하락)"
     ],
     [
      "미 국채 2년물",
-     "약 4.78%",
-     "변동 확인 불가"
+     "4.61%",
+     "-16.8bp (단일 출처)"
     ],
     [
      "달러인덱스",
-     "장중 103.97 (19개월 최고)",
-     "+0.02%"
+     "약 103.9",
+     "19개월 고점 근처에서 소폭 후퇴"
     ],
     [
      "원/달러(야간)",
@@ -75,18 +75,18 @@
     ],
     [
      "WTI",
-     "약 $83~84",
-     "보합~+1% (출처별 상이)"
+     "$83.6",
+     "+1.4%"
     ],
     [
-     "금",
-     "약 $3,670",
-     "-1.4~-2% (14개월 최저)"
+     "금(12월물)",
+     "약 $3,515~3,540",
+     "-4.0~-4.6%"
     ],
     [
      "비트코인",
-     "약 $62,000",
-     "-0.7~-0.9% (7월 이후 최저권)"
+     "약 $58,800",
+     "-5.3% (7월 이후 최저)"
     ]
    ]
   },
@@ -100,79 +100,84 @@
    ],
    "rows": [
     [
-     "앤트로픽(ANT)",
-     "+17.1% ($97.17)",
-     "공모가 $83, 시초가 $111.50로 출발했으나 상승폭 반납"
-    ],
-    [
      "엔비디아",
-     "-3.3%",
-     "6일 연속 하락, 이달 -28%(젠슨 황 사임 여파), 개인 자금이 ANT로 이동"
+     "-13.8~-14.0%",
+     "SEC 회계 조사 보도(로이터). 주간 -23%로 2008년 10월 이후 최악"
     ],
     [
      "애플",
-     "-0.9%",
-     "전반적 매도세"
+     "-1.8%",
+     "기술주 동반 약세"
     ],
     [
      "마이크로소프트",
-     "-2.0%",
-     "오전 상승분 반납"
+     "-2.7%",
+     "기술주 동반 약세"
     ],
     [
      "알파벳",
-     "-3.5%",
-     "앤트로픽 수혜 기대로 장 초반 상승 후 차익실현"
+     "-2.6%",
+     "기술주 동반 약세"
     ],
     [
      "아마존",
-     "-3.8%",
-     "앤트로픽 수혜 기대 소멸, 경기소비재 약세 주도"
+     "-3.9%",
+     "기술주 동반 약세"
     ],
     [
      "메타",
-     "-3.3%",
-     "오전 상승분 반납"
+     "-5.9%",
+     "소송 여파에 AI 매도까지 겹침"
     ],
     [
      "테슬라",
-     "-2.4%",
+     "-7.6%",
      "위험자산 회피"
     ],
     [
      "브로드컴",
-     "-2.1%",
-     "장전 +2.9%(앤트로픽 수혜) 후 하락 전환"
+     "-12.2%",
+     "구글이 2027년 TPU 출하를 약 20% 줄였다는 밍치궈 조사"
     ],
     [
      "AMD",
-     "-7.7%",
-     "헌터브룩 공매도 보고서(블랙리스트 중국 기업 대상 수출통제 위반 의혹), AMD는 부인"
+     "-13.4%",
+     "반도체 투매, 전날 공매도 보고서"
+    ],
+    [
+     "TSMC(ADR)",
+     "-9.3%",
+     "주간 -20%로 2002년 이후 최악"
     ],
     [
      "마이크론",
-     "-2.1%",
-     "반도체주 상승분 반납"
+     "-13.9%",
+     "반도체 투매"
     ],
     [
-     "유나이티드헬스",
-     "-5.6%",
-     "메디케어 어드밴티지 감사 강화로 3일 연속 급락"
+     "앤트로픽",
+     "-8.5~-9.1%",
+     "상장 2일차 차익실현. 공모가 $83 근처까지 밀림"
     ],
     [
-     "팔로알토",
-     "+6.4%",
-     "가이던스 상향"
+     "인튜이트",
+     "-12.8%",
+     "매출 성장 전망 하향, 메일침프 매각"
     ],
     [
-     "네비우스",
-     "-9.4%",
-     "AI 인프라주 매도"
+     "코어위브 / 네비우스",
+     "-12.1% / -16.1%",
+     "네오클라우드 투매"
     ],
     [
-     "코어위브",
-     "-6.1%",
-     "AI 인프라주 매도"
+     "갭",
+     "+11.4%",
+     "3분기 실적 호조"
+    ],
+    [
+     "지스케일러",
+     "약 +10~20% (출처마다 다름)",
+     "크라우드스트라이크 인수 협상 보도"
     ]
    ]
   },
@@ -180,80 +185,83 @@
    "type": "list",
    "title": "🏭 섹터 동향",
    "items": [
-    "S&P 11개 섹터 모두 하락, NYSE 하락:상승 종목 비율 4.37:1",
-    "가장 약한 섹터는 경기소비재(약 -3%, 아마존 영향)",
-    "헬스케어 -2% (유나이티드헬스 급락)",
-    "필수소비재 -1.48%로 상대적으로 덜 빠짐",
-    "반도체 약세 속 인텔·퀄컴은 소폭 상승"
+    "강세: 에너지·유틸리티 상승. 식품·필수소비재로 방어 자금 유입",
+    "약세: 반도체 주도로 기술 섹터 급락. 기술 ETF(XLK)는 주간 약 -12%",
+    "약세: 산업재 하락(캐터필러 -5%)",
+    "약세: 데이터센터 인프라, 네오클라우드, 크립토 관련주(코인베이스 등 -6~-10%)"
    ]
   },
   {
    "type": "list",
    "title": "🌙 장 마감 후 실적·시간외",
    "items": [
-    "인튜이트·로스스토어스가 장 마감 후 실적 발표 예정이었으나 결과와 시간외 반응은 확인되지 않음",
-    "AMD는 시간외에서도 추가 하락했다는 보도(이데일리)가 있음"
+    "금요일 장 마감 후 주요 실적 발표는 확인되지 않았습니다",
+    "다음 주 일정: 23일(월) 콜스·딕스·벌링턴 실적, 25일(수) GDP·PCE 발표"
    ]
   },
   {
    "type": "list",
    "title": "📰 시장을 움직인 이유",
    "items": [
-    "앤트로픽 IPO: 사상 최대인 $813억 조달. 거래가 시작되자 지수가 저점을 찍었고, 기존 AI주를 팔아 ANT를 사는 흐름이 나타남",
-    "AMD 공매도 보고서: 헌터브룩이 중국 수출통제 위반 의혹을 제기해 반도체 전반의 투자심리 악화",
-    "연준 매파 신호: 의사록에서 일부 위원이 0.25%p보다 큰 인상도 가능하다고 언급, 바 이사는 '인플레이션이 너무 높다'고 발언. 12월 인상 확률 96~100%",
-    "지표: 필라델피아 연은 지수 6.3(예상 약 18~20)으로 급락했지만 지불가격지수는 58.2로 뛰어 스태그플레이션 우려. 신규 실업수당 청구 20.3만 건(예상 19.7만 건)",
-    "장 초반 나스닥이 +2%까지 올랐다가 하락 반전. S&P 500은 200일선(7,348) 아래로 더 내려가고 7,300 지지선도 무너짐"
+    "엔비디아 SEC 회계 조사 보도(로이터): 오후 늦게 나오면서 낙폭이 커졌습니다",
+    "AI 거래 이탈: 앤트로픽 상장 효과가 차익실현으로 바뀌었고, 구글 TPU 감산설과 AI 자금조달 비용 우려가 겹쳤습니다",
+    "연준 매파 발언: 쿡 이사가 '금리 인상이 늦으면 뒤처질 위험'이라고 했습니다. 12월 25bp 인상 확률은 90%대입니다",
+    "미시간대 11월 소비심리 확정치 51.5: 예상치와 같고, 10월(48.0)보다 개선. 1년 기대인플레이션은 3.7%로 낮아졌습니다",
+    "옵션 만기일 영향: 국채로 안전자산 수요가 몰려 10년물 금리가 4.91%까지 떨어졌습니다"
    ]
   },
   {
    "type": "list",
    "title": "🇰🇷 오늘 한국 증시 시사점",
    "items": [
-    "반도체: SOX -2.4%, 엔비디아·마이크론 하락, AMD 급락으로 삼성전자·SK하이닉스는 약세 출발 부담",
-    "AI 밸류체인: 앤트로픽 상장으로 SKT 보유 지분 가치가 4.3조 원이라는 보도가 있어 통신·AI 투자주 개별 차별화 가능",
-    "금리·달러: 미 10년물 5%대, 12월 인상 기정사실화로 외국인 수급과 2차전지 등 성장주에 부담"
+    "반도체: SOX 약 -10%, 마이크론 -14%, TSM -9%. 삼성전자·SK하이닉스 등 반도체 대형주에 큰 하락 압력이 예상됩니다. 한국 ETF(EWY)도 -8.5%였습니다",
+    "AI 인프라·전력기기·HBM 장비주: 데이터센터와 네오클라우드 투매의 영향이 이어질 수 있습니다",
+    "2차전지: 테슬라가 -7.6%로 약해 관련주 투자심리도 위축될 것으로 보입니다. 반대로 방어주와 필수소비재는 상대적으로 강할 수 있습니다"
    ]
   }
  ],
  "sources": [
   {
-   "title": "Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight (Yahoo Finance)",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+   "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction (Reuters via Yahoo)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
   },
   {
-   "title": "Stock market news for Nov. 19, 2026 (CNBC)",
-   "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+   "title": "Stock market today: Dow and S&P 500 enter correction, Nasdaq sinks 5% (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
   },
   {
-   "title": "The Close: Thursday, November 19, 2026",
-   "url": "https://theweekendspread.substack.com/p/the-close-thursday-november-19-2026"
+   "title": "How major US stock indexes fared Friday 11/20/2026 (AP)",
+   "url": "https://mymotherlode.com/news/national/11327378/how-major-us-stock-indexes-fared-friday-11-20-2026.html"
   },
   {
-   "title": "Why the Stock Market Fell Today: Dow Drops 1,100 Points",
-   "url": "https://aroundprague.cz/en/news/us/why-stock-market-fell-today-dow-drops-1100-points-bitcoin-july-low"
+   "title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds (Motley Fool)",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/"
   },
   {
-   "title": "앤스로픽 웃고 월가 울었다…뉴욕증시 2%대 급락 (이데일리)",
-   "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01669526645647688"
+   "title": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections (NBC News)",
+   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
   },
   {
-   "title": "앤트로픽 상장 첫날, 뉴욕증시 일제히 조정…다우 5만선 아래로 (한국경제TV)",
-   "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200009"
+   "title": "Stock Market Today Live, November 20, 2026 (StockTitan)",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
   },
   {
-   "title": "앤트로픽 상장에도 2%대 급락…다우 5만선 아래로 (MTN)",
-   "url": "https://news.mtn.co.kr/article/2026112007122058663"
+   "title": "Market Review: November 20, 2026 (Investrade)",
+   "url": "https://investrade.com/market-review-november-20-2026/"
   },
   {
-   "title": "앤트로픽 상장에도 웃지 못한 美 증시…AI 관련주 하락세 (ZDNet Korea)",
-   "url": "https://zdnet.co.kr/view/?no=20261120052957"
+   "title": "Nvidia stock extends rout as SEC probe reportedly investigates its accounting (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
+  },
+  {
+   "title": "치킨스탁 미국시장 리포트 2026-11-21",
+   "url": "https://www.chickstockfi.com/report/2026-11-21?market=us"
   }
  ],
  "news_up_pct": null,
  "report": "us_close",
  "title": "간밤 미국증시 브리핑",
- "date": "2026-11-20",
- "generated_kst": "2026-11-20T07:48+09:00",
+ "date": "2026-11-21",
+ "generated_kst": "2026-11-21T07:48+09:00",
  "disclaimer": "투자 자문이 아닌 정보 요약입니다."
 }
