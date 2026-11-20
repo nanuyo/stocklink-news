@@ -1,0 +1,133 @@
+{
+ "date_et": "2026-11-09",
+ "direction": "up",
+ "headline": "📈 상승 우세 59% (하락 41%)",
+ "up_pct": 59,
+ "down_pct": 41,
+ "summary": "엔비디아 이사회가 젠슨 황 CEO 조사에 착수하면서 NVDA는 프리마켓에서 약 5% 하락했습니다. 그래도 지난주 AI 급락 뒤 아시아 반도체 반등(대만 가권 +4.9%, TSMC +4.7%), AMD 등급 상향, JP모건의 AMZN·META AI 추천, 유가 하락으로 나스닥100 선물이 0.7% 올라 섹터 전반은 상승 쪽이 우세합니다. 다만 NVDA만은 하락이 두드러지는 차별화 장세가 예상됩니다.",
+ "futures": "나스닥100 선물 +0.7% (CNBC, 08:13 ET 기준). 일요일 밤 개장 직후에는 -0.8%였다가 상승 전환했고, 같은 시각 S&P500 선물은 +0.7%, 다우 선물은 +1%입니다.",
+ "up": [
+  {
+   "news": "9일 아시아 반도체주가 크게 반등했습니다. 대만 가권지수는 4.9% 올라 7월 말 이후 최대 상승폭을 기록했고 TSMC는 약 4.7%, 훙하이는 장중 8% 넘게 올랐습니다. 유럽장 초반 ASML도 1.7% 올랐고, 지난주 AI 급락에서 벗어나는 반발 매수가 이어지고 있습니다.",
+   "tickers": "TSM, ASML, SOX",
+   "impact": 2,
+   "weight": 1.0,
+   "score": 2.0
+  },
+  {
+   "news": "오펜하이머가 AMD를 '시장수익률'에서 '시장수익률 상회'로 올리고 목표가를 600달러(금요일 종가 대비 약 34% 상승 여력)로 제시했습니다. 3분기 호실적과 매출·이익 추정치 상향이 근거이며, AMD는 프리마켓에서 3.2% 올랐습니다.",
+   "tickers": "AMD",
+   "impact": 2,
+   "weight": 1.0,
+   "score": 2.0
+  },
+  {
+   "news": "JP모건이 아마존을 AI 최선호주(포커스 리스트)에 넣고 2027~2028년 AWS 매출이 40% 넘게 성장할 것으로 전망했습니다. 메타도 AI 광고 효과를 이유로 최선호주로 꼽았습니다. 프리마켓에서 AMZN은 약 3%, META는 약 2.5% 올랐습니다.",
+   "tickers": "AMZN, META",
+   "impact": 2,
+   "weight": 1.0,
+   "score": 2.0
+  },
+  {
+   "news": "트럼프 대통령이 이란에 추가 공습은 없다는 신호를 보내자 WTI는 약 3% 내린 88달러, 브렌트유는 3% 넘게 내린 95달러 수준이 됐습니다. 지난주 나스닥이 조정 국면에 들어가며 과매도 판단(슈왑의 리즈 앤 손더스)도 나와 위험선호가 살아나고 있습니다.",
+   "tickers": "SOX, 나스닥100 전반",
+   "impact": 2,
+   "weight": 0.7,
+   "score": 1.4
+  },
+  {
+   "news": "엔비디아가 리벨리온·SK텔레콤과 한국 소버린 AI 인프라 협력을 발표했습니다. 리벨리온은 차세대 NPU R200에 NVLink Fusion을 쓰기로 했습니다. 한국 과기정통부 차관은 이미 계약된 엔비디아 GPU 공급이 차질 없이 진행될 것으로 본다고 밝혔습니다.",
+   "tickers": "NVDA",
+   "impact": 1,
+   "weight": 1.0,
+   "score": 1.0
+  }
+ ],
+ "down": [
+  {
+   "news": "NYT와 FT 보도에 따르면, 미국 정보기관이 중국 스파이로 의심하는 인물(엔비디아 고객사 Megaspeed 관련 여성)과 젠슨 황 CEO의 관계가 드러났습니다. 이에 엔비디아 이사회가 일요일 독립 조사에 착수했습니다. 황 CEO는 불륜을 인정하고 사과했으며 회사는 CEO직을 계속 유지한다고 밝혔습니다. NVDA는 프리마켓에서 약 5%, 프랑크푸르트에서는 6% 넘게 떨어졌습니다. 의회 조사 가능성과 다른 반도체주로의 파급 우려가 함께 제기됩니다.",
+   "tickers": "NVDA, SOX, 엔비디아 공급망(TSM, MU, AVGO)",
+   "impact": 3,
+   "weight": 1.0,
+   "score": 3.0
+  },
+  {
+   "news": "로이터에 따르면 중간선거로 의회를 장악한 민주당이 내년 회기에 AI 법안을 대거 준비하고 있습니다. 데이터센터 전기요금 소비자 보호, 첨단 AI 독립 테스트 의무화, AI 기업 책임 강화가 골자입니다. 일부 의원은 데이터센터 건설 중단(모라토리엄)도 주장하고 있어 AI 인프라 투자가 둔화될 수 있다는 우려가 이어집니다. 다만 아직 계획 단계이고 대통령 거부권 등으로 실제 입법 가능성은 낮습니다.",
+   "tickers": "MSFT, GOOGL, META, AMZN, ORCL, NVDA",
+   "impact": 2,
+   "weight": 0.7,
+   "score": 1.4
+  },
+  {
+   "news": "미국 프리마켓 초반 인텔, 마벨, 퀄컴, ARM이 각각 1% 넘게 떨어져 엔비디아 이슈의 일부 파급이 나타났습니다.",
+   "tickers": "INTC, MRVL, QCOM, ARM",
+   "impact": 1,
+   "weight": 0.8,
+   "score": 0.8
+  },
+  {
+   "news": "엔비디아 논란으로 삼성전자·SK하이닉스 등 한국 HBM 공급사의 대미 수출 규제 준수 부담이 커질 수 있다는 관측이 나왔습니다. 한국 시장에서는 외국인이 6,580억 원을 순매도해 KOSPI가 0.8% 하락 마감했고, SK하이닉스는 장중 4.8%까지 올랐다가 상승폭을 대부분 반납했습니다.",
+   "tickers": "MU, NVDA, 메모리 업종",
+   "impact": 1,
+   "weight": 0.6,
+   "score": 0.6
+  }
+ ],
+ "calc": "U = 2.0 + 2.0 + 2.0 + 1.4 + 1.0 = 8.4, D = 3.0 + 1.4 + 0.8 + 0.6 = 5.8 → 상승 59% / 하락 41%",
+ "checkpoints": [
+  "오늘 09:30 ET(23:30 KST) 개장 직후 NVDA 낙폭이 5%에서 멈추는지, 엔비디아 이사회·의회의 추가 발표나 조사 요구가 나오는지 확인",
+  "NVDA 약세가 TSM·MU·AVGO 등 공급망으로 번지는지, 아니면 AMD·AMZN·META 쪽으로 차별화 매수가 이어지는지",
+  "11/10(화) 08:30 ET(11/10 22:30 KST) 10월 CPI 발표",
+  "11/10(화) 장 마감 후 CoreWeave 3분기 실적(컨퍼런스콜 17:00 ET = 11/11 07:00 KST로 보도됨) — AI 클라우드 수요·capex 신호",
+  "11/11(수) 재향군인의 날: 주식시장은 정상 개장, 채권시장은 휴장",
+  "11/12(목) 장 마감 후 어플라이드 머티어리얼즈 실적(컨퍼런스콜 16:30 ET = 11/13 06:30 KST), 같은 주 시스코 실적도 예정",
+  "11/13(금) PPI 발표, 이란 협상 및 유가 흐름"
+ ],
+ "sources": [
+  {
+   "title": "Dow futures rally 500 points as oil prices drop; traders brace for more data and earnings: Live updates (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Stocks making the biggest moves premarket: Nvidia, AMD, Eli Lilly, Berkshire (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html"
+  },
+  {
+   "title": "Asian chip stocks in South Korea and Taiwan gain despite Nvidia scrutiny (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/09/asia-chip-stocks-south-korea-taiwan-nvidia.html"
+  },
+  {
+   "title": "Nvidia's shares slide as chip giant probes CEO Huang over spy claims (Business Standard/Reuters)",
+   "url": "https://business-standard.com/markets/news/nvidia-s-shares-slide-as-chip-giant-probes-ceo-huang-over-spy-claims-126110900547_1.html"
+  },
+  {
+   "title": "Nasdaq futures rise after steep AI selloff as chip stocks stabilize (Reuters via TradingView)",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46N0QW:0-nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize/"
+  },
+  {
+   "title": "Taiwan stocks jump 4.9% as Asia rebounds from the AI rout, but foreign selling drags the Kospi lower",
+   "url": "https://mlq.ai/news/taiwan-stocks-jump-49-as-asia-rebounds-from-the-ai-rout-but-foreign-selling-drags-the-kospi-lower/"
+  },
+  {
+   "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion (GlobeNewswire)",
+   "url": "https://www.globenewswire.com/news-release/2026/11/09/3398037/0/en/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion.html"
+  },
+  {
+   "title": "Nvidia controversy stokes export scrutiny risks for South Korean chipmakers (The Tribune/ANI)",
+   "url": "https://www.tribuneindia.com/news/business/nvidia-controversy-stokes-export-scrutiny-risks-for-south-korean-chipmakers"
+  },
+  {
+   "title": "Democrats planning flood of AI bills when they take control of Congress (Yahoo/Reuters)",
+   "url": "https://www.yahoo.com/news/politics/articles/democrats-planning-flood-ai-bills-110522968.html"
+  },
+  {
+   "title": "Q4 2026 Applied Materials Earnings Conference Call (Applied Materials IR)",
+   "url": "https://ir.appliedmaterials.com/events/event-details/q4-2026-applied-materials-earnings-conference-call"
+  },
+  {
+   "title": "CoreWeave Announces Date of Third Quarter 2026 Financial Results and Conference Call (CoreWeave IR)",
+   "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx"
+  }
+ ],
+ "generated_kst": "2026-11-09T22:36+09:00"
+}

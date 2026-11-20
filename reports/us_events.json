@@ -1,0 +1,199 @@
+{
+ "tone": "info",
+ "headline": "📅 11/19(목) 실적·지표 — 엔비디아 실적 소화 속 실업수당·필라델피아 연은 지수, 장후 키사이트·인튜이트",
+ "summary": "엔비디아는 이미 17일(현지)에 실적을 냈습니다. 오늘 밤에는 22:30 실업수당청구와 필라델피아 연은 지수가 나옵니다. 장전에는 알리바바(AI 클라우드)가, 내일 새벽에는 키사이트(AI 광통신 테스트 장비)·인튜이트·엘라스틱이 실적을 발표합니다.",
+ "blocks": [
+  {
+   "type": "table",
+   "title": "🧾 경제지표",
+   "columns": [
+    "시각(KST / ET)",
+    "지표",
+    "예상",
+    "이전",
+    "중요도"
+   ],
+   "rows": [
+    [
+     "22:30 / 08:30",
+     "신규 실업수당청구(11/14 주)",
+     "19.6만~19.7만",
+     "20.0만",
+     "중"
+    ],
+    [
+     "22:30 / 08:30",
+     "계속 실업수당청구(11/7 주)",
+     "-",
+     "169.7만",
+     "하"
+    ],
+    [
+     "22:30 / 08:30",
+     "필라델피아 연은 제조업지수(11월)",
+     "20.6",
+     "20.9",
+     "중"
+    ],
+    [
+     "22:50 / 08:50",
+     "해맥 클리블랜드 연은 총재 발언",
+     "-",
+     "-",
+     "하"
+    ],
+    [
+     "00:00(금) / 10:00",
+     "컨퍼런스보드 경기선행지수(10월)",
+     "+0.1%",
+     "0.0%",
+     "하"
+    ],
+    [
+     "01:00(금) / 11:00",
+     "캔자스시티 연은 제조업지수(11월)",
+     "-",
+     "16",
+     "하"
+    ],
+    [
+     "02:30(금) / 12:30",
+     "굴스비 시카고 연은 총재 발언",
+     "-",
+     "-",
+     "중"
+    ],
+    [
+     "03:00(금) / 13:00",
+     "10년 TIPS 입찰",
+     "-",
+     "2.653%",
+     "하"
+    ],
+    [
+     "04:15(금) / 14:15",
+     "바 연준 이사 발언",
+     "-",
+     "-",
+     "중"
+    ],
+    [
+     "06:00(금) / 16:00",
+     "바킨 리치먼드 연은 총재 발언",
+     "-",
+     "-",
+     "하"
+    ],
+    [
+     "08:30(금) / 18:30",
+     "폴슨 필라델피아 연은 총재 발언",
+     "-",
+     "-",
+     "하"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "💼 AI주 실적",
+   "columns": [
+    "시각(KST / ET)",
+    "종목",
+    "EPS 예상",
+    "매출 예상",
+    "주목 포인트"
+   ],
+   "rows": [
+    [
+     "21:00 / 07:00 (장전)",
+     "알리바바(BABA)",
+     "$1.56~1.63",
+     "약 $403억~405억",
+     "AI 클라우드 성장률(약 50%대 예상)과 대규모 설비투자·현금흐름 부담"
+    ],
+    [
+     "22:00 / 08:00 (장전, 콜 시각)",
+     "월마트(WMT) ※참고",
+     "$0.64",
+     "약 $1,874억",
+     "AI주는 아님. 미국 소비 체력과 시장 분위기 확인용"
+    ],
+    [
+     "06:30(금) / 16:30 (장후)",
+     "키사이트(KEYS)",
+     "$3.36(가이던스 $3.34~3.40)",
+     "약 $19.4억",
+     "1.6T 광트랜시버 증산, 공급 제약, 1분기 가이던스"
+    ],
+    [
+     "06:30(금) / 16:30 (장후)",
+     "인튜이트(INTU)",
+     "$2.46~2.47",
+     "약 $43억",
+     "AI 에이전트의 수익화와 연간 가이던스 유지 여부"
+    ],
+    [
+     "06:00 이후(금) / 장후",
+     "엘라스틱(ESTC)",
+     "확인 불가",
+     "확인 불가",
+     "AI 검색·벡터DB 수요와 클라우드 성장률"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "⚠️ 체크포인트",
+   "items": [
+    "엔비디아 실적(11/17, 매출 $1,158억)은 이미 나왔습니다. 오늘은 그 여파 속에서 키사이트 실적으로 AI 인프라(광통신) 수요를 다시 확인하는 날입니다.",
+    "22:30 실업수당청구·필라델피아 연은 지수가 예상보다 크게 빗나가면 금리와 기술주가 흔들릴 수 있습니다. 연준 인사 발언도 이어집니다(굴스비·바).",
+    "알리바바의 AI 클라우드 성장률과 설비투자 규모는 중국 AI 지출 흐름을 보여 줍니다. 미국 AI 반도체 심리에도 영향을 줄 수 있습니다.",
+    "다음 일정: 금 22:25(KST) 월러 연준 이사 발언, 토 00:00 미시간대 소비자심리 확정치(예상 52, 이전 48.0)."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "Finviz Economic Calendar (Nov 16, 2026 week)",
+   "url": "https://finviz.com/calendar/economic?dateFrom=2026-11-16"
+  },
+  {
+   "title": "TD Economics - Upcoming Releases (Nov 13, 2026)",
+   "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm"
+  },
+  {
+   "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+   "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx"
+  },
+  {
+   "title": "Earnings Calendar for the Week of November 16, 2026 (StockTitan)",
+   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-16-2026"
+  },
+  {
+   "title": "These Are the Stocks Reporting Earnings Today (TipRanks)",
+   "url": "https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-november-19-2026"
+  },
+  {
+   "title": "Keysight's Supply Chain, Not Demand, Sets the Bar for a Record Fourth Quarter",
+   "url": "https://finviz.com/news/421346/keysights-supply-chain-not-demand-sets-the-bar-for-a-record-fourth-quarter"
+  },
+  {
+   "title": "Can Strong Revenue Growth Boost Keysight's Q4 Earnings (Zacks)",
+   "url": "https://www.zacks.com/stock/news/3030409/can-strong-revenue-growth-boost-keysights-q4-earnings"
+  },
+  {
+   "title": "Alibaba's Cloud Surge Faces a Cash Burn Test",
+   "url": "https://finviz.com/news/421184/alibabas-cloud-surge-faces-a-cash-burn-test-as-shares-slide-toward-range-lows"
+  },
+  {
+   "title": "Alibaba's AI cloud revenue set to surge over 50% (SCMP)",
+   "url": "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts"
+  }
+ ],
+ "news_up_pct": null,
+ "report": "us_events",
+ "title": "AI 미국주식 실적·경제지표 일정",
+ "date": "2026-11-19",
+ "generated_kst": "2026-11-19T19:40+09:00",
+ "disclaimer": "일정은 변경될 수 있으며 투자 자문이 아닙니다."
+}
