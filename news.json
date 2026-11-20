@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T06:40:16+09:00",
+ "updated": "2026-11-21T06:50:09+09:00",
  "items": [
+  {
+   "title": "Watch Anthropic IPO Could Mark End of the AI Trade",
+   "ko": "앤스로픽 IPO가 인공지능 산업의 종말을 알릴 수 있을까?",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUx3X3dmdEpjWkJrM0ViNURIeHZEbURuYlVyaXJCOVpNZmFwQW1YWlV6Zmo0X3dDcEhYQ1NmbHZpaEtMUnRJV1hnWUg4VGxQcWJWWEgtQ1lSVllKTlFTbzA0VjlacVFQTDlEYlNCelhKTFJKak9VNV9ucmtaV2loMHd3MmxCdlVTQUViSUlLWmpaV1JKQVZKU2lrRkVzQlZ5?oc=5",
+   "time": "2026-11-21T06:39+09:00"
+  },
+  {
+   "title": "[속보] 기술주 매도에 나스닥 5.3% 폭락…앤트로픽 상장 상승세 반납",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkQTRUMklfWkNaV1I5M0tNV0xnbDlFbWhZNHR5SFJPZXdzcGlkU3FWTUtDQ21PLTgyWlo1NTZsTTM0azJoTnRTSW45cm9NU19DLWRMTFYzZGduMHhRalgwZGVoNl9zb1k?oc=5",
+   "time": "2026-11-21T06:39+09:00"
+  },
+  {
+   "title": "Tech stocks end the week on a down note, despite Anthropic's mega-IPO",
+   "ko": "테크 주식이 주간 마감에 하락세를 보이며, 앤스로픽의 대규모 IPO에도 불구하고",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVpnX3c3WnlYc1ZCQ3FvUDBUbGpEZ0pha2M0VnhSVnZyU2puYURBR1haYTE0NFFPTXJsM2lhTHh3ZHlmSldiZWVuZ2NlTUk1XzRVcFAxRnBOMjNZUTdPejM5NEFVMkxMYXFuZUM3VDJwQ2lHTXJxaVg0bUs2VEt3czFra1c5eXl3M0FaeWZhWUk2aWcyd0pLX0Mzb3ZpTTV5WmZMeTNYakNodklhSEk2d2NB?oc=5",
+   "time": "2026-11-21T06:38+09:00"
+  },
+  {
+   "title": "앤트로픽, 상장 이틀째 8.5% 급락…장중 공모가까지 떨어지기도",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52aUNlYjJTeG1Yb09objNrUmNkRkhLWEdCYWJ6b1dFaTZlUmtvcEo1bEQ2QUZ0NWhjU1Ntazhpa0lURndPWnBtdG9LeThjbTg4amx0d1hJTXlVYWvSAWBBVV95cUxNMFFlLXJqdURzWTJCeUtWSGl1Nm0yU0pHMUlIUDBOV2JzSTl3TGxOc01acmZmTTRNMExxVmdvRThoLVZpRzcyVmVyTEV2NjdQVEg0VTg3YzNaSERhQ2lGUWE?oc=5",
+   "time": "2026-11-21T06:33+09:00"
+  },
   {
    "title": "앤트로픽 상장 이튿날 급락…나스닥 5.28%↓",
    "ko": "",
@@ -8,16 +32,16 @@
    "time": "2026-11-21T06:31+09:00"
   },
   {
+   "title": "Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
+   "ko": "즉시 확인: 앤트로픽 데뷔 이후 나스닥 하루 만에 5% 하락했으나 투자자들은 여전히 인공지능을 신뢰하고 있다",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSi1oZG9URHdnSVhJWWs1THZ6b1JBVWJHODR5ZE5fajVzaS1zZGhfdGlfajJkTUpmeUduODNlNTN0bTFSUEZCZHROd1IzSF9DeWxKUmYyT0IyVTh6Zy1ab1ZXd1BfSjFQcC1paFhiS3NTM1NSQUlMNmhDa1pUNl9WMW9xM3NTTzI5aF95NXNaVnI2WXV6TlhxZ3h3WHh2NldhZzhvekxPb1dQczVXcXZYT2tkWjAxNS1uYmhF?oc=5",
+   "time": "2026-11-21T06:30+09:00"
+  },
+  {
    "title": "Oracle: Co and OpenAI Are Making Rapid Progre",
    "ko": "오라클: 코와 오픈에이아이 빠르게 성장 중",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3d6cTlPc0E5aENLanE5ZlI0dGE0X0RxV0h2NWhEYTkzcmVSelROaHVNamtIMlFZbk5zdGxwRjBKSUIySmNLRDl6bkJMSW1JeTZwWkJoYzREVVRlTmVHRm1rWE9IV3A1bFdrdzJiV0p4a1hiWW1uR0RDdW9td0dNcmVXMUhHU0JWN1ZGVVlBZVAyNUw1bzVUbU1OdncyU0U?oc=5",
    "time": "2026-11-21T06:25+09:00"
-  },
-  {
-   "title": "Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
-   "ko": "나스닥은 앤스로픽 데뷔 다음 날 5% 급락했지만 투자자들은 여전히 AI에 대한 신뢰를 보이고 있다",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVW4zcHJXc2lQY2ZZNmVMbGZNWHRsZnByUkNreFEwRnQxMWx1TW9udVV3ODRhUGZyek9yUnNjQUQxYUREYUNDRjFqM2c1MlBjQ1gyQmdHVFBlM1ZhaTk3bVRNZnlydlptcWxKdlhqTXJlbElNNXZXZDZNeHpSVmZ4OXBYNHFibWJHSVdFMlp3dlNlS0ZXUFFPN0ZRbw?oc=5",
-   "time": "2026-11-21T06:17+09:00"
   },
   {
    "title": "Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced 6% to Close at $88.30. Facebook Closed Its Day 2 10% Below Its IPO Price",
@@ -38,6 +62,12 @@
    "time": "2026-11-21T06:12+09:00"
   },
   {
+   "title": "Men made up most of Vanguard’s self-directed investors in Anthropic debut",
+   "ko": "밴티지의 자가 주도 투자자 대부분 남성으로 나타나며 앤트로픽 데뷔",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXZibGVMeDA0M3dDUWhEdzdOU084SXBudkg4LW5rMW5xOVFjUUlGNVBIbVFoVUx5NGlwbV9YdWRhRFNjclo5aUx1RFF6X3NXTm9Td1dsdHZRdXNta0o3OW5sM1gwMVNPcjNxWFM2dGlaU2RaelVNc1pWSDI4cjY2S1hoLVJ4MHREc29MODR6TTJha3Qzd3hBWlVMdnhmdExaeHVvZ3hxYw?oc=5",
+   "time": "2026-11-21T06:11+09:00"
+  },
+  {
    "title": "앤트로픽에 투자하고 HBM 팔고 클로드 심는다···K기업의 AI 삼각 포석",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4UmZvbmFUWVVRWUNISWFjWEwtbzVvclNENUxRYjJyWnJpS1RkaFpDa2hvYkpsNlhLaUNhN1Fvd3kzWTJXN1JuanVBUHVwOWNTUDVIYWlBdWdUblVZdml1MTZqcTBQZHN0X1E?oc=5",
@@ -56,8 +86,8 @@
    "time": "2026-11-21T06:04+09:00"
   },
   {
-   "title": "Anthropic’s IPO Bust Punctuates $4 Trillion AI Wipeout on Wall Street",
-   "ko": "앤써픽의 IPO 붕괴가 월가의 4조 달러 규모 인공지능 시장 침체를 상징하다",
+   "title": "Anthropic’s IPO Bust Deepens $4 Trillion AI Wipeout on Wall Street",
+   "ko": "앤스로픽 IPO 붕괴는 월 스트리트의 4조 달러 규모 AI 손실 확대",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5",
    "time": "2026-11-21T06:03+09:00"
   },
@@ -128,58 +158,28 @@
    "time": "2026-11-21T05:37+09:00"
   },
   {
+   "title": "Anthropic’s Record IPO Tests Gold’s Risk-Off Appeal—How To Know If The Downtrend Is Here To Stay",
+   "ko": "앤스로픽의 기록적인 IPO: 금의 위험 회피 경향 시험—하락 추세가 지속될지 판단하기",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUGZCbzNhVWttRGtzRTBmWW04X3hKeEYyRjc1dGNSN25wc001UG45VnE3YW5GSGpacThka3k3ZjB1NXJyY0Q5ZzlZQnR1ZTBaV2twVmtTZWRmdHZrNEZ4SmZDcEFFSS1Hdy1GalZ3cGQzZzE1NVoxeWYwbm5FZ3VqUEFyc2dfcEJUVVNUbHduMUdDRU5iMVZtYkhFc0kwbzFOQlZrQUt6STVHYi1fc000UlNUXzNRdUFxVG9aVFZmRlA5WEczR0o2VUZmZW9BM2tEekdTM2pKTU5WZw?oc=5",
+   "time": "2026-11-21T05:34+09:00"
+  },
+  {
    "title": "코스피, 앤트로픽 IPO·AMD 악재에 4800 미끌...10개월만 - 머니투데이",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BNkVNWl9aTHB2c2ZFWDMwUjZieU52UENhRi1naWNjR1F4VkFERXNxcDdLMWRrQlJVSkNRR3VVWk5hOXp4VGFobmNMRXgtaG1vTWIwTzRJX1NkUnU5V2VmX3NYdTRXM1It0gFuQVVfeXFMTmxQcDZDVDJGeHJnZDNvYjIxZWpGeHhiM2xtVlZfOUdOZmQxWUsxbF9XUldzb3NSSVdxYzJ2TGdmbmtyTGdCMU16MHhGaFRTLTRZZVJURXZPVGI2Umd1UW53aFlUNXo4WjhseHpFdmc?oc=5",
    "time": "2026-11-21T05:34+09:00"
   },
   {
+   "title": "AI Server Boards Are Now Draining the PCB Supply Chain",
+   "ko": "AI 서버 기판이 PCB 공급망을 고갈시키고 있다",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEZCWnNBUW1hd3gtSWI2Qkkzc2dhSUhQWFFsYlNrWEhfOXExdWxMZkVmRlgxbkNNRkh2TnpXckpkNWIwM0E0QzZTNUNJclkwdEc4d1V1b0hJT0FvNmF0NU82Vk9hdTJaaWdoVmYyNlozNnBkOWVfak9SUDRhRVJselk4WG9oSFo0eVpQOVNmaWFBdklGdGluQdIBmAFBVV95cUxOOEZCWnNBUW1hd3gtSWI2Qkkzc2dhSUhQWFFsYlNrWEhfOXExdWxMZkVmRlgxbkNNRkh2TnpXckpkNWIwM0E0QzZTNUNJclkwdEc4d1V1b0hJT0FvNmF0NU82Vk9hdTJaaWdoVmYyNlozNnBkOWVfak9SUDRhRVJselk4WG9oSFo0eVpQOVNmaWFBdklGdGluQQ?oc=5",
+   "time": "2026-11-21T05:19+09:00"
+  },
+  {
    "title": "Anthropic’s IPO Drew More Retail Investor Demand Than SpaceX",
    "ko": "앤서픽의 IPO가 스페이스엑스보다 더 많은 소매 투자자 수요 유도",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0ZwT0VDazYxQWhZa29KQUpOTHZkeGNzWTE4aGZfeXdnd0ZjZFRpTTdYU3R6NE1RSUoxVlQ2dnc4cmlMMllsSGNfTG1LSG5wZTA3dlhNVWZOWXFxSUxIQUxpOU0yOGRmM1hnVGo5YzF5aVhGeUtteXYwMl94QnFtcXJILWlBenlRNjlGSXlSMG8yMHBkSEc2V3pfVENnVlBERGgyeVBWX3JrZGR6Wm0wNg?oc=5",
    "time": "2026-11-21T05:12+09:00"
-  },
-  {
-   "title": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
-   "ko": "클레어 크리에이터 앤트로픽이 실제로 1.3조 달러 가치가 있을까? - 최신 뉴스",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2k1MHotX0Zkam5USm9jZmJ0NGU5Ym82RUNGVjlkRndWSnVMc1Iyc0RSaDg0OURqX1RyaEwzZmx3ZG16Rk1heVlrc0lTSlUzay00UVlNdmhKcWt5UnNyazd5emdVLUo5WGN5X3l4UHVrNVM0TDlyNkpYZjNqQkhkeGM0MUdfUUxnRl9nMEF1SEE0NmhGbHU4LWEwRDFDbnZRamVLQlJxdnl0Q0tLc3lwWUxOdVE?oc=5",
-   "time": "2026-11-21T05:11+09:00"
-  },
-  {
-   "title": "Anthropic shares fall a day after blockbuster IPO",
-   "ko": "앤터픽 주가, 대규모 기업공개 다음 날 하락",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWXdRRmxWOFNxR2NhcHRNVlFLaXJGVGtlY1dQcWs3U1M1dHNKVGxLbEJ5RGRvT0Q4WjB2c2FjeldhcVlWMGNqYTNJLXFXRXU5bVB4NTRlZUVlNnc?oc=5",
-   "time": "2026-11-21T05:00+09:00"
-  },
-  {
-   "title": "OpenAI Debuts MedChemBench to Gauge AI's Drug-Discovery Chops, GPT-6.2 Astra Leads at 84.5%",
-   "ko": "오픈에이아이, GPT-6.2와 함께 신약 개발 능력 평가를 위한 MedChemBench 공개, 아스트라는 84.5%로 선두 유지",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mWUNWcFp6M1B3UGRxUjBZM056VWVZN0VuUFpXV3F6ZXFIdVBvUlhLSHFCYnVFTkhMRE01eTJjVXg4WU5RbVNpbEgyMFpVMHFDaDNtblhMTUxIYnNXNHpwTXhFaklIbTF0UFJadFd4LUdTTWhpZHc?oc=5",
-   "time": "2026-11-21T04:55+09:00"
-  },
-  {
-   "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says",
-   "ko": "앤트로픽의 톰 브라운, 트럼프 자녀를 위한 투자 계좌에 기부 계획 중인 것으로 알려짐",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
-   "time": "2026-11-21T04:54+09:00"
-  },
-  {
-   "title": "OpenAI’s GPT-6.2 Astra finally arrives, promising better performance and fewer safety problems",
-   "ko": "오픈에이아이의 GPT-6.2 아스트라 드디어 출시, 더 나은 성능과 안전 문제 감소 약속",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUlLeUZselhuTUdid3JJc0FyTU45cjdScG00elh5ZnVoOExYQmtPTDlRWlF6dWtxc25ndkhNN19HdFZfSmlYM0lmQUVjWDg2SU5XRGd6VmFvRlZOMjFodDlwOTVkOEpGbkV3LWtoOFNHODg5VGJGcktYc0ozWGJEaGNfc0Q?oc=5",
-   "time": "2026-11-21T04:46+09:00"
-  },
-  {
-   "title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
-   "ko": "앤써픽, 2조 달러 가치인가 아니면 1조 5천억 달러 가치인가? 평가 어떻게 이해할까?",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzhvTFYxa3AyUGJGVFJNcFJycUxBRXdoWjdnQV8xRkt0aFVOcmxTcnRPNndXNDhZOVdnS3E5QzdPTDlpS2dIVG44U3ZiSk1VZ0FOamV2T0JfOXdTOWVhbjl4aEdqdEEzeThWa01LNlJHM2Y1ZHlDUEg0OTNPeUNNS2lnNDkyS1hKdXZFM2pPcjhmRGRBMmdpUVkwSWhqdldrd3o1NmRGMnFqMzlXbG1ydDM4SHJoel9zS19MM28tMXpkY0NJVGQ5WUNB?oc=5",
-   "time": "2026-11-21T04:31+09:00"
-  },
-  {
-   "title": "Anthropic IPO launch: How tech stocks are performing Friday",
-   "ko": "안트로픽 기업공개 시작: 금요일 기술 주식의 성과는 어떠한가?",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16aTJVSnAzRkhjZGJwUGpwTm0tY0NWSnVPd3ZRaEh0NlZUNEJMQm5TZ3NGZlkwbEVnV3RzcXJiaE56aVRJT1ctaUgzZC1nZUxxMFktVGg2am5idUNOLXdoWVlHaUQyTlRwV19GbFVDRQ?oc=5",
-   "time": "2026-11-21T04:28+09:00"
   }
  ]
 }
