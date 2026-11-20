@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-20T19:10:09+09:00",
+ "updated": "2026-11-20T19:20:06+09:00",
  "items": [
+  {
+   "title": "GPT-6.2 Astra tops 3D benchmark, but Gemini 4 Carbon leads floor plan test",
+   "ko": "아스트라 3D 벤치마크 최고점수 기록했으나, 지미니 4 카본은 평면도 테스트에서 우위 보여",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xczNyM1JRajU4TmhrTDFEczBOdmFzOF9GcFNDNGg4cDJReTBKYVEtaXhlY0daUmpWMXFlOHdsMUw0X2JtQzR2eUJ1blFtdmFZdkRweUhaZXkxZ1RoNHNDR1U4OE00ZFFIWGdMSUFxUQ?oc=5",
+   "time": "2026-11-20T19:10+09:00"
+  },
   {
    "title": "Anthropic's revenue hits $17B as it discounts to defend ~$1.5T value",
    "ko": "앤써픽의 매출 170억 달러 돌파, 할인 전략으로 약 1조5천억 달러 가치 방어 중",
@@ -86,12 +92,6 @@
    "time": "2026-11-20T17:49+09:00"
   },
   {
-   "title": "Anthropic At $1.3 Trillion: Five Lines",
-   "ko": "앤써픽 1조 3천억 달러: 다섯 줄 요약",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzNvYTY2NmE0NWxxbC1LUFFJcXJNRF84RVpJRHBEV3BXUzhOOTd0OGZObjAyLW5xZnVEc0I5MFFGWGptc3NtUFVQaGo1b21Gb2UtbGVuN1pTQUVtSEpUV2tVRDlwdUZYZDVGVTZVODVoTEd6YlhYbXI4RnFodVJpV3BjeFF3VDYtVm54WXM2aXhRcU13b1VwYWpTQUI?oc=5",
-   "time": "2026-11-20T17:43+09:00"
-  },
-  {
    "title": "Amazon, Nvidia Fell As Anthropic Gained $185 Billion",
    "ko": "아마존과 엔비디아 하락 속 앤써픽 1850억 달러 상승",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXVXdUFnNTRnZWZZUkZfU29BWFNfNzFjUHFHWmQyRUxQbXJTVmVOeWVGYUFlYlRCekhFa0JMRmdzRUdtOVVDTjhWbmJCUzFfcHMzYVZMY1FvUWx2b2dSTm0wOXl5bHgxYzFhZW1YMDM4NkQ0TWVSYm5pUDd5OUdXVUZua2MzSy04N1JrUEZxdlV1aFE5My0xTEMtSzlzNGQ5WFVvVS1Fbk9pMEpCc1VwTA?oc=5",
@@ -112,14 +112,8 @@
   {
    "title": "앤트로픽 쏠림·대중규제 우려 … 반도체株 곤두박질",
    "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TQmJadVFHUjAzU0RnMG1vdi05Unp0bWwyUEVwdnZMajlqcUg1cmI0Ung4RDJlQnRKOFdBemRiMS1vOTFMbHJlOWJBek5mZGcyZXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81M01CQXVoM3Z5c0FXMUZTWTNmb0FXRnEyNDV0WDY4VHBUOVNDMGxfbC1Rbk5lUzNNbzZ1RkhzSUlMSXN6YjZWNVl1X0J2cWVHa1E?oc=5",
    "time": "2026-11-20T17:38+09:00"
-  },
-  {
-   "title": "Anthropic's 7 co-founders are worth about $20 billion each in record IPO payday. Here's who they are.",
-   "ko": "앤써픽 공동 창업자들은 기록적인 IPO 수익으로 각각 약 200억 달러 가치 창출",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJMHBqandtdmFweWl5MTFpTFhSWkNTWEFyU1BXSXdIV2tuclpfU085SHhIa3NzQ3IzRHZOX0wzT3ktTHJtdHE2aGFmSXJKYWNSb2g2cGFPLUJKM1B1TXZnaHBfVGZ0R08ybWtnV3FGZw?oc=5",
-   "time": "2026-11-20T17:32+09:00"
   },
   {
    "title": "Ashton Kutcher’s Sound Ventures Holds $70 Billion in Anthropic and OpenAI",
@@ -146,9 +140,15 @@
    "time": "2026-11-20T17:17+09:00"
   },
   {
+   "title": "역대 최대 IPO 달성한 앤트로픽, 국내 수혜주는? - 머니투데이",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ENGRZNnBwT2Iyd01EMFpuN2JDUHdRYnpUTXZtaUJuWWpqNllqZEdZZjFBTUdQeGZLQ0gxSi1vTXlSQ3FocFgtZEQxcWxSVGhVQ2hReHdZRExJRHBrLS1EQzlJd0xaUWxs0gFuQVVfeXFMTzJ4Nk8wOWtWTHl2NjRzblUzU19EdE1qcDg0SE1JcU01c1hPNGlVR2UyMTcwdVNTbWpqQmlQejBVVXd1OGQxdVFseEVQa0NZMmlFcmpOV3VrWktFMlZLTEJucEhrZFUwcXZhYXJydGc?oc=5",
+   "time": "2026-11-20T17:11+09:00"
+  },
+  {
    "title": "앤트로픽 상장 급락했던 지수, 약세 지속",
    "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12TWdNSDlaXzFPa1VOTXlZbmc0NW9rdE95ZmVlYWFVRUgwRnFoQXZlb0xaLU4wSXJiV3lpWGI3d0xOTDY4aWh1MG91VkYtQm8yV0p0c3dqV29IaWRrVko1NUl5aU1TUmE3UER1bUJlRFF5XzFhOUU5LdIBeEFVX3lxTE12TWdNSDlaXzFPa1VOTXlZbmc0NW9rdE95ZmVlYWFVRUgwRnFoQXZlb0xaLU4wSXJiV3lpWGI3d0xOTDY4aWh1MG91VkYtQm8yV0p0c3dqV29IaWRrVko1NUl5aU1TUmE3UER1bUJlRFF5XzFhOUU5LQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yUXp2WnE4bEQ4elRvbm1XWEdxNFB1NV9MUUZ1eW5saUtWcXg1ZnZwZnBhbWxJcHNfY1hDb3Zpbk1ScFVfOVBvaHhZaXd0Qm9RZ1BmTkYwOTNraDFhY0FUYzNzTlY1dFVWOGJ5TWo0a0tCSzVOTGxoaNIBeEFVX3lxTE12TWdNSDlaXzFPa1VOTXlZbmc0NW9rdE95ZmVlYWFVRUgwRnFoQXZlb0xaLU4wSXJiV3lpWGI3d0xOTDY4aWh1MG91VkYtQm8yV0p0c3dqV29IaWRrVko1NUl5aU1TUmE3UER1bUJlRFF5XzFhOUU5LQ?oc=5",
    "time": "2026-11-20T17:03+09:00"
   },
   {
@@ -170,16 +170,16 @@
    "time": "2026-11-20T16:58+09:00"
   },
   {
-   "title": "우리운용, 美 단기채 공모주 펀드 앤트로픽 IPO 참여",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Obkt3dldKU0RqclluQkNJejlZVjliTld5MkQ5U1JZcVhJU3JFZ3hKbzV3ZkxXMWN3anVCWHk4V3U0ZFNXZzhkZXBGdnJlOGoyM3FteUhJWnJNNmdWLUw0emlxc3ZxaGo3NTg3QzVmd01CT3lF0gF0QVVfeXFMTk5uS3d2V0pTRGpyWW5CQ0l6OVlWOWJOV3kyRDlTUllxWElTckVneEpvNXdmTFcxY3dqdUJYeThXdTRkU1dnOGRlcEZ2cmU4ajIzcW15SElack02Z1YtTDR6aXFzdnFoajc1ODdDNWZ3TUJPeUU?oc=5",
-   "time": "2026-11-20T16:50+09:00"
-  },
-  {
    "title": "앤트로픽 상장 돌풍…시장 기대만큼 가치 있을까",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VN0JPRzRZOEVGajhWczljNmhNbTJYdE5aRWFFWm5FTzZmUHA0SVZPQW9tbEd3Vl9Qb0FEY2xwMEMydWZzYzJRN3RtQjAzUXlUSUwxQWZ4dU8zNkNRLWfSAWNBVV95cUxQd0w0YTNITUd0R2tMTG9taGVXWjJoVkYwMUcySm5neDA1dEdXN3E4YmZXZlYybmZWZzZFbjh6aTZ0NEptUzJJOTBrYmRBRmhmTEVaX21nUzlQY2lOVW9sTl82cTg?oc=5",
    "time": "2026-11-20T16:43+09:00"
+  },
+  {
+   "title": "앤트로픽 상장 '5조 잭팟'에도…SK텔레콤 주가 12% 급락",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54R2Y5TFA0LU1ORlA1S0V3OG1MMkVJVG13TEZGcDZyUDZxNTFsdmRJS2pXMFBaSVk5X0hWVndmMjF2UlJmTEZ0Vm1raw?oc=5",
+   "time": "2026-11-20T16:42+09:00"
   }
  ]
 }
