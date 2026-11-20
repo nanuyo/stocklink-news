@@ -1,11 +1,11 @@
 {
- "tone": "up",
- "headline": "📈 상승 우세 64% (하락 36%)",
- "summary": "앤트로픽이 IPO 공모가를 희망 범위보다 높은 $83로 정했고 공모 규모도 늘렸습니다(약 $81B, 기업가치 약 $1.5T). AI 투자심리가 살아나 선물과 시간외 반도체주가 강하게 올랐습니다. 다만 뉴스만 보면 하락 요인이 더 큽니다. 연준 의사록이 매파적이었고 10년물 금리는 5.07%입니다. NVDA는 경영진 공백 우려가 이어지고, 대만 시장은 미·중·러 정상회담을 앞두고 약했습니다. 나스닥100 선물 +1.81% (11/19 02:45 ET).",
+ "tone": "down",
+ "headline": "📉 하락 우세 84% (상승 16%)",
+ "summary": "밤사이 아시아 반도체주가 폭락했습니다(대만 가권 -5.65%, TSMC -4.5%, SK하이닉스 약 -6%, 도쿄일렉트론 약 -7%). 여기에 AMD 공매도 보고서와 엔비디아 중국 칩 반출 의혹 조사가 겹쳐 AI·반도체주의 하방 압력이 큽니다. 시간외에서도 SOXX -1.49%, AMD -3.41%, MU -1.94%, TSM -1.89%로 약세가 이어졌습니다. ASML(암스테르담 +2.17%)만 예외입니다. 나스닥100 선물 -0.91% (11/20 02:50 ET).",
  "blocks": [
   {
    "type": "table",
-   "title": "📊 시장 가격 신호 (합성 +1.57% → 상승 89%)",
+   "title": "📊 시장 가격 신호 (합성 -1.55% → 상승 11%)",
    "columns": [
     "지표",
     "직전 종가 대비",
@@ -14,53 +14,53 @@
    "rows": [
     [
      "나스닥100 선물",
-     "+1.81%",
-     "11/19 02:45 EST"
+     "-0.91%",
+     "11/20 02:50 EST"
     ],
     [
      "SOXX",
-     "+1.92%",
-     "11/18 19:55 EST"
+     "-1.49%",
+     "11/19 19:55 EST"
     ],
     [
      "NVDA",
-     "+0.66%",
-     "11/18 19:55 EST"
+     "-0.91%",
+     "11/19 19:55 EST"
     ],
     [
      "AVGO",
-     "+1.58%",
-     "11/18 19:55 EST"
+     "-0.84%",
+     "11/19 19:55 EST"
     ],
     [
      "AMD",
-     "+1.29%",
-     "11/18 19:55 EST"
+     "-3.41%",
+     "11/19 19:55 EST"
     ],
     [
      "TSM",
-     "+1.19%",
-     "11/18 19:55 EST"
+     "-1.89%",
+     "11/19 19:55 EST"
     ],
     [
      "MU",
-     "+1.86%",
-     "11/18 19:55 EST"
+     "-1.94%",
+     "11/19 19:55 EST"
     ],
     [
      "TSMC(대만)",
-     "-3.45%",
-     "11/19 13:30 CST"
+     "-4.76%",
+     "11/20 13:30 CST"
     ],
     [
      "SK하이닉스",
-     "+3.41%",
-     "11/19 15:00 KST"
+     "-5.92%",
+     "11/20 15:00 KST"
     ],
     [
      "ASML(암스테르담)",
-     "+1.94%",
-     "11/18 17:30 CET"
+     "+2.17%",
+     "11/19 17:30 CET"
     ]
    ]
   },
@@ -76,25 +76,25 @@
    ],
    "rows": [
     [
-     "앤트로픽 IPO 공모가 $83(희망 $70~78 상회), 공모 규모 확대로 약 $81B 조달, 기업가치 약 $1.5T. 오늘 나스닥 상장(ANT)",
-     "AI 전반·NVDA·AVGO·AMZN·GOOGL",
-     "3",
-     "0.9",
-     "2.7"
-    ],
-    [
-     "텐센트 3분기 설비투자 지급액 225% 증가(651억 위안)로 AI 인프라 수요 확인",
-     "NVDA·AMD·TSM·MU",
+     "알리바바 실적 호조, 영업이익 +443% → 홍콩 주가 +2.4%",
+     "AI 클라우드·BABA",
      "1",
      "0.8",
      "0.8"
     ],
     [
-     "SK하이닉스·삼성전자, 앤트로픽 기대감에 서울 증시에서 상승",
-     "MU·메모리·HBM",
+     "앤트로픽 상장 첫날 +17% 마감($83→$97.17), AI 수요는 확인 (다만 시간외 하락)",
+     "MSFT·GOOGL·AMZN·NVDA",
      "1",
      "0.7",
      "0.7"
+    ],
+    [
+     "도이체방크 \"시장 매우 과매도\" — 기술적 반등 여지",
+     "SOX 전반",
+     "1",
+     "0.5",
+     "0.5"
     ]
    ]
   },
@@ -110,113 +110,107 @@
    ],
    "rows": [
     [
-     "연준 10월 의사록 매파적: 거의 모든 위원이 추가 인상 예상, 월러 이사는 0.5%p 인상 지지 시사. 12월 0.25%p 인상은 거의 확실시, 10년물 5.07%",
-     "고밸류 AI·반도체 전반",
-     "2",
+     "아시아 반도체 폭락: 가권 -5.65%(주간 -14.9%, 1997년 이후 최악), 코스피 -5.2%, 닛케이 -5.1%, 어드밴테스트 -9%",
+     "TSM·MU·ASML·SOX 전반",
+     "3",
      "1.0",
-     "2.0"
+     "3.0"
     ],
     [
-     "NVDA 실적은 예상을 넘었지만 수요일 -2.9%. 11월 들어 -26%, 젠슨 황 사임 뒤 경영진 불확실성 지속",
-     "NVDA·SOX",
+     "헌터브룩, AMD 공매도·중국 연루 의혹 보고서 → 정규장 -7.7% 이후 시간외 추가 하락",
+     "AMD",
      "2",
-     "0.7",
-     "1.4"
+     "0.9",
+     "1.8"
     ],
     [
-     "대만 증시 약세(TSMC 현지 -3.45%). 트럼프·시진핑·푸틴 선전 회담 앞둔 경계, 중국은 미국 칩 규제 보복 예고",
-     "TSM·ASML·반도체장비",
+     "캘리포니아 법무장관, 엔비디아 중국 칩 반출 의혹 조사 소환장 발부 (CNBC 보도, 일부 매체는 '검토 단계')",
+     "NVDA",
      "2",
-     "0.7",
-     "1.4"
+     "0.8",
+     "1.6"
     ],
     [
-     "앤트로픽 청약 자금 마련에 다른 보유주를 판다는 보도(AFP). 대형 기술주 수급 부담",
-     "MSFT·GOOGL·META·NVDA",
+     "소프트뱅크 -14.5%(2024년 8월 이후 최악), 오픈AI 노출 우려 → AI 투자심리 위축",
+     "AI 인프라·ORCL·NVDA",
      "2",
-     "0.6",
-     "1.2"
-    ],
-    [
-     "텐센트 홍콩 -6.7%: 이익 감소, 잉여현금흐름 -691억 위안. AI 투자 회수 우려 부각",
-     "AI 하이퍼스케일러",
-     "1",
-     "0.7",
-     "0.7"
+     "0.8",
+     "1.6"
     ]
    ]
   },
   {
    "type": "text",
    "title": "🧮 뉴스 점수 계산",
-   "text": "U = 2.7 + 0.8 + 0.7 = 4.2, D = 2.0 + 1.4 + 1.4 + 1.2 + 0.7 = 6.7 → 뉴스 상승 39% / 하락 61%"
+   "text": "U = 0.8 + 0.7 + 0.5 = 2.0, D = 3.0 + 1.8 + 1.6 + 1.6 = 8.0 → 뉴스 상승 20% / 하락 80%"
   },
   {
    "type": "list",
    "title": "⏰ 오늘 장중 체크포인트",
    "items": [
-    "트럼프·시진핑·푸틴 선전 회담 결과: 칩 수출통제·대만 관련 발언 (회담 예정 01:30 ET / 15:30 KST)",
-    "알리바바 실적 발표 콜 07:00 ET (21:00 KST): 중국 AI 설비투자 가이던스",
-    "월마트 3분기 실적 08:00 ET (22:00 KST)",
-    "필라델피아 연준 제조업지수 08:30 ET (22:30 KST)",
-    "경기선행지수 10:00 ET (11/20 00:00 KST)",
-    "앤트로픽(ANT) 나스닥 첫 거래: 10시~정오 ET 예상 (11/20 00:00~02:00 KST). 첫날 주가 흐름이 AI주 심리를 좌우",
-    "10년물 TIPS 입찰 $19B, 연준 인사 발언: 금리 민감도 확인",
-    "인튜이트 실적 콜 16:30 ET (11/20 06:30 KST)",
-    "화웨이 형사재판 배심원 평결 여부 (미정)"
+    "09:30 ET (23:30 KST) 정규장 개장 — AMD·NVDA 갭 하락폭 확인",
+    "10:00 ET (24:00 KST) 미시간대 소비자심리 확정치",
+    "앤트로픽(ANT) 상장 2일차 흐름 — AI 투자심리 가늠자",
+    "월간 옵션 만기일(11월 셋째 금요일) — 변동성 확대 주의",
+    "엔비디아 조사 관련 추가 보도 — 젠슨 황 하원 비공개 면담은 12/1 예정",
+    "S&P500 7거래일 연속 하락 여부 (전일까지 6일 연속 하락)"
    ]
   },
   {
    "type": "text",
    "title": "🧮 최종 확률",
-   "text": "뉴스 39% × 0.5 + 시장 신호 89% × 0.5 = 상승 64% / 하락 36%"
+   "text": "뉴스 20% × 0.5 + 시장 신호 11% × 0.5 = 상승 16% / 하락 84%"
   },
   {
    "type": "text",
    "title": "🎯 최근 적중률",
-   "text": "최근 5회 최종 확률 적중 100% (5/5) · 뉴스만 80% (4/5) · 시장 신호만 80% (4/5)"
+   "text": "최근 6회 최종 확률 적중 83% (5/6) · 뉴스만 83% (5/6) · 시장 신호만 67% (4/6)"
   }
  ],
  "sources": [
   {
-   "title": "US Stock Futures Jump on Blockbuster Reception to Anthropic IPO - Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo"
+   "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
   },
   {
-   "title": "Wall Street futures climb, Nasdaq jumps 2% on Anthropic's $1.5 trln mega IPO - Investing.com",
-   "url": "https://ca.investing.com/news/stock-market-news/wall-street-futures-climb-ahead-of-anthropics-15-trillion-mega-ipo-4968360"
+   "title": "AMD stock dives on short-seller report of alleged China exposure (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
   },
   {
-   "title": "Nasdaq-100 futures gain as traders gear up for Anthropic's highly anticipated debut - CNBC",
-   "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+   "title": "AMD Falls on Hunterbrook Short Call That Cites China Risks (Bloomberg)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals"
   },
   {
-   "title": "Stocks slide despite bumper Nvidia profits, Anthropic IPO - AFP/Yahoo Finance",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-booming-nvidia-results-024500677.html"
+   "title": "AMD shares slide as report says China links could invite US scrutiny (MarketScreener/Reuters)",
+   "url": "https://www.marketscreener.com/news/amd-shares-slide-as-report-says-china-links-could-invite-us-scrutiny-ce785ed2dc81f320"
   },
   {
-   "title": "Trading Day: Markets mixed in a Nvidia, Anthropic, minutes swirl - Reuters/Yahoo Finance",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-markets-mixed-nvidia-221528504.html"
+   "title": "Nvidia California Bonta subpoena China chips (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
   },
   {
-   "title": "Tech firms rise after record Anthropic IPO but Nvidia casts shadow - AFP/Yahoo Finance",
-   "url": "https://sg.finance.yahoo.com/news/asian-stocks-drop-anthropics-record-025108875.html"
+   "title": "California AG Says Nvidia Scandal Has Raised 'Red Flags', Could Lead to Probe",
+   "url": "https://gvwire.com/2026/11/17/california-ag-says-nvidia-scandal-has-raised-red-flags-could-lead-to-probe-bloomberg-news-reports/"
   },
   {
-   "title": "US moves to block China's remote access to AI chips amid Nvidia scandal - Al Jazeera",
-   "url": "https://aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal"
+   "title": "Stock market today: Dow sinks 1,100 points as Anthropic IPO grabs spotlight (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html"
   },
   {
-   "title": "What to watch Thursday, Nov. 19 - MLQ.ai",
-   "url": "https://mlq.ai/news/what-to-watch-thursday-nov-19-anthropics-nasdaq-debut-walmart-results-and-trump-meets-xi-and-putin-in-shenzhen/"
+   "title": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points (Motley Fool)",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"
+  },
+  {
+   "title": "Anthropic prices its IPO at $83 a share (The Next Web)",
+   "url": "https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise"
   }
  ],
- "news_up_pct": 39,
+ "news_up_pct": 20,
  "report": "us_premarket",
  "title": "미국장 개장 전 AI·반도체 브리핑",
- "date": "2026-11-19",
- "generated_kst": "2026-11-19T17:00+09:00",
+ "date": "2026-11-20",
+ "generated_kst": "2026-11-20T17:00+09:00",
  "disclaimer": "확률은 뉴스 점수 기반의 단순 추정치이며 투자 자문이 아닙니다.",
- "final_up": 64,
- "market_up": 89
+ "final_up": 16,
+ "market_up": 11
 }
