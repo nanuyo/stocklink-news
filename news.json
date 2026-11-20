@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-20T15:20:04+09:00",
+ "updated": "2026-11-20T15:30:06+09:00",
  "items": [
+  {
+   "title": "The Anthropic IPO Went Fine But Stocks Crashed Anyway. What Gives?",
+   "ko": "인류 중심적 기업의 IPO는 성공적이었지만 주식 시장은 급락했습니다. 이유는 무엇일까요?",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMzFDenBHRjJKOXRIaGo3Z1gzdkdqX1ZiajgzRmRhTmxkeVlmc3RkbmtydFpCaFl3em1PSVVJaDktNWx1Y1JVeGJiYzA0TlFBbkcyVzNuRkhUZ1QxVW8xMnlGTWROb2tteGhEOVZjcHNUWmhid0hfNm9STHowLVVzbDZzLWhQS0I3dkxkNnpWbHRHdVFZQ2F3QmZybEx1LVFRNmNKcjljbw?oc=5",
+   "time": "2026-11-20T15:18+09:00"
+  },
   {
    "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
    "ko": "유럽에서는 앤트로픽 잊고 블루 라군에 대한 IPO 열기가 뜨겁다",
@@ -104,6 +110,12 @@
    "time": "2026-11-20T14:00+09:00"
   },
   {
+   "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+   "ko": "아시아 주식 시장 급락... 앤트로픽 데뷔로도 인공지능 거품 우려 해소되지 않아",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTlLRHZDNTRIaV9TZFlkd3VqNHZUTHZ2OVI1N01jdlM1ZnF2RWdFT25RV2dKN0l5THVNQndQTzhrVlpRUmNrRjh4MloxWHo5OXRwTzBJQy1vLVRDUU5yMFpEblRycUYyZnI3MFJEaHBrU1Awa3JTdDlha2tYd0FlbU5FOVI2SW5Nb3hISDg2R0d5RTVXTHctZmhWcEdjU2ptVzdPMUVtLW8yR1l2YjV3UV9GcXBZdGxaR3FF0gHAAUFVX3lxTE9qaEdWMGtKak9xeE5PSTJIeklFdG11ZmIySmR4UHFMV3pENnRvSnp5LVozRThVaE52SDA2Q1VnXzBrYUFjXzFFZmJmLVBFTkxudDFXQ2MxVTNiRlNHTWxabEw3NXRLMlN0VWY5U3I3YXhRZ0tUU2FRdGR0MGxTSW4tMlY1QXVTX0xoYnFRVERZaUY4U0d5RWQyZW9ITlNDY0xOanllVFhpTEgtSmVQa3JHTDNpQWNidGVQUjVJcWxKVg?oc=5",
+   "time": "2026-11-20T13:55+09:00"
+  },
+  {
    "title": "Was Anthropic’s record US$81 billion listing a vote of confidence in AI – and what’s next?",
    "ko": "앤써픽의 기록적인 810억 달러 상장이 인공지능에 대한 신뢰 표명이었는지와 그 다음은 무엇일까요?",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamRTcG5lYW4yUGFZLVJsRDdKM0dJbjNId180bUZHbDY2UWg0MXgxWVlJSjdVWjBZd0xMWGJydXd5dnNKZmJMaVVlSjBrUU5xdklmVTNQd3g2RldnRXVCYVlhdXBTOGt0a2ptRWJZMENXRkU3eGY0MXdRVTFOUFBteHdfUW42ZEN1YTkta0hzRlFWR2VEUVRBX1BRQTYyZXBKU2FwYmZfcGZHQi1qTlh6VHEzSmVHQUtZT3NEUQ?oc=5",
@@ -140,12 +152,6 @@
    "time": "2026-11-20T13:29+09:00"
   },
   {
-   "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
-   "ko": "아시아 주식 시장 급락... 앤트로픽 데뷔로도 인공지능 거품 우려 해소되지 않아",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTlLRHZDNTRIaV9TZFlkd3VqNHZUTHZ2OVI1N01jdlM1ZnF2RWdFT25RV2dKN0l5THVNQndQTzhrVlpRUmNrRjh4MloxWHo5OXRwTzBJQy1vLVRDUU5yMFpEblRycUYyZnI3MFJEaHBrU1Awa3JTdDlha2tYd0FlbU5FOVI2SW5Nb3hISDg2R0d5RTVXTHctZmhWcEdjU2ptVzdPMUVtLW8yR1l2YjV3UV9GcXBZdGxaR3FF0gHAAUFVX3lxTE9qaEdWMGtKak9xeE5PSTJIeklFdG11ZmIySmR4UHFMV3pENnRvSnp5LVozRThVaE52SDA2Q1VnXzBrYUFjXzFFZmJmLVBFTkxudDFXQ2MxVTNiRlNHTWxabEw3NXRLMlN0VWY5U3I3YXhRZ0tUU2FRdGR0MGxTSW4tMlY1QXVTX0xoYnFRVERZaUY4U0d5RWQyZW9ITlNDY0xOanllVFhpTEgtSmVQa3JHTDNpQWNidGVQUjVJcWxKVg?oc=5",
-   "time": "2026-11-20T13:29+09:00"
-  },
-  {
    "title": "Anthropic Stock After Record IPO Has The Bull Case Changed?",
    "ko": "기록적인 IPO 이후 앤트로픽 주가, 강세 전망 바뀌었나?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVl4Tkp1V3lIdnZRYVBkQWNQcFdWX2NsaXJMbVNJUmhCMkp2VnRtYkR6UFlkNDVnYkJ6dnYtQVZ5NEtDM25kajFkQVVWbzFGRW5FQjctMWhqYmRCV2RUQjBFSEtHa3lYajVIMWdsOTV6QUVSNWlqQ2pQODR5azV3ZnR1RWN4QThTSnVpdDVsVGwtRWdhb1FPMU9IX3g?oc=5",
@@ -174,12 +180,6 @@
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12NGhnanhNN3pLd0F5eDh0SjFSRjVSWnlMQzVfNElnUC11ZnRDVU9lWjdQRmtVOTh5TUh6aVR0bUhZUlZNQXkxbE5FbnQxMGY5Rk11bVZBMEU5TE1qTTNVZFlXUHFzaEZwZ1NnZUlxWEVOdEJa?oc=5",
    "time": "2026-11-20T12:52+09:00"
-  },
-  {
-   "title": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
-   "ko": "기술주 하락: 앤써픽 IPO가 더 넓은 AI 매도 추세를 막지 못하며",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5",
-   "time": "2026-11-20T12:51+09:00"
   }
  ]
 }
