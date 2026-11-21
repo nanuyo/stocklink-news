@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-21T23:20:09+09:00",
+ "updated": "2026-11-21T23:30:11+09:00",
  "items": [
+  {
+   "title": "[위클리 인텔리전스 #30] 의료기기 라운드와 역대 최대 벤처투자, 앤트로픽 IPO",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zajYwNDFFQnpGdlVFWDBPZVBZck9faE1VQmZfdGUwMWN5OVA5RXNfb1liVjlxckVWemJsazFXOG5ldGxzOE4zWm9WTGlfNE0?oc=5",
+   "time": "2026-11-21T23:21+09:00"
+  },
   {
    "title": "Samsung Stock And 2 AI Infrastructure Picks For Data Centre Supply Chain Shifts",
    "ko": "삼성 주식과 데이터 센터 공급망 변화를 위한 2개의 AI 인프라 주요 기업 선정",
@@ -14,10 +20,22 @@
    "time": "2026-11-21T23:09+09:00"
   },
   {
+   "title": "Los Angeles mansion seller offers to accept OpenAI or Anthropic equity in $30 million deal",
+   "ko": "로스앤젤레스 저택 판매자가 3천만 달러 거래로 오픈에이아이 또는 앤트로픽 주식을 수용 제안",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1lJdWF1TjZfODNJYXdsVzQ5NU5GOFFQQlRRTnBMMWFQU09ROHNacjJYaGM4XzB5MTd3RzdkaEl0TWExUUo0anpwTWE2WmdJOGQ4WUtuc1VoVkVyMXdsNWhUZ3B3OEI4cTl2U2pKR1BiYkUyVkVVVk56TWE1ZUhCWXBjc2VfNlBhRTBlQWtGVDFoZkFuOVItMW1VNEpIQkEw?oc=5",
+   "time": "2026-11-21T23:09+09:00"
+  },
+  {
    "title": "Anthropic begins trading as a $1.5 trillion company in the biggest IPO on record",
    "ko": "앤써픽, 역대 최대 규모 IPO로 시가총액 1.5조 달러 기업으로 상장 시작",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDlfTk5OTUdadkJTYWlSYWtoaFhZNm12RDUyMHg0Y09SN3ZPcEI0Vy1sYWRvYUc5NXRheWljUk1zQXZnbXhjYmVxSUlOM215N3JmWjVFeS00dnVQUHNUcEdmQzV5SEdFR0JHbHpkR3ZVVDQ1N0ZWc1RxS2R6NnlKYXhJNDJHMGFpaXdnWmdCQ3JLd1dxbWZlbU00RU5hUjE0N01RaE1IZW1zXzNiMm1HWVQtYlZ2d0ZUUURLTnFB?oc=5",
    "time": "2026-11-21T23:03+09:00"
+  },
+  {
+   "title": "What could Anthropic’s $1.5 trillion buy in San Francisco? We did the math",
+   "ko": "샌프란시스코에서 앤트로픽이 1조 5천억으로 무엇을 살 수 있을까? 우리는 계산해봤다",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HbVFiNFdDUVNvdXNxMTAzNlhPMzE3ZUJldU43b1JOZlpCTzB0aEplZnJsZEVseEF3QmNQZ1hGNXREU1Jqd1RwRTRoT1pTRmtJX09FbFZUNHpCNm92QUNxWVFFbDZGajg1UktpYklB?oc=5",
+   "time": "2026-11-21T23:00+09:00"
   },
   {
    "title": "Anthropic Stock: Why Are Analysts Divided After Record IPO?",
@@ -30,6 +48,12 @@
    "ko": "앤써픽의 IPO 이후 주가 하락으로 인공지능 분야의 부흥 기대가 낮아지다",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEeDhlZlN4aThjRTFBd2Roa0hqbHBseVc5RkFOS3dVc0YzRnUwcThhekJaZDhvR1k5V1o1NF9OdVJwengySkNFMnJUMC1pVmZwbWJ4RWtLa0NnVTBNNTJ6S1hDay1pMlBOVUg0?oc=5",
    "time": "2026-11-21T22:43+09:00"
+  },
+  {
+   "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions - the-decoder.com",
+   "ko": "오픈에이아이, 새로운 GPT-6.2 아스트라와 솔 모델을 위한 프롬프트 팁 공유하여 답변 간결화 및 불필요한 질문 줄이기 - the-decoder.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDNlQlVaenA0WlJ3dHVtTWlzTklTV1h2eUhlMjdnbDNhZlN5NDZsZFhGTENkRi1lMVVuSFR5LVVwUjVxcDhDNjF2cFR4U0ZGMTJoQ1VXYXgwNjNrZkxxVU9mRDdzdGtOWXVVTVBQRUFtVVRrREU4NkVfeDVkdkcwZlVSNGV1bG0tUE50QWc0RlBUQ0EzRGhLMEphZkh3Nl9OSVRSVGdROXdLSUFhTHpxVFRoQVBaZy1tMVBGQ2RwdjNERHUwdERtR0Z3?oc=5",
+   "time": "2026-11-21T22:32+09:00"
   },
   {
    "title": "Anthropic co-founder Tom Brown to donate to Trump Accounts after company’s $93.5B IPO, following SpaceX president’s lead",
@@ -56,6 +80,12 @@
    "time": "2026-11-21T22:00+09:00"
   },
   {
+   "title": "UC signs $1.2 million-a-year OpenAI deal despite faculty calls for delay",
+   "ko": "UC, 교수진의 연기 요구에도 불구하고 오픈에이아이와 1년에 1억 2천만 달러 규모 계약 체결",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFBCOFpoR3I4Y29Hc0Q2T0Y3YUFKUWxGQkU2dDBqT1VKVTNRM29MdTJYZ1phTVdQdzVUdkFHeUkzU1E0MHVKRTd3eTBrREt5a01yY2E3RHQySlNLRUZGYkw5dm50cEV4S3RQWnVXN2JVUEwtejhISVI2ODI5WVNMLVZHdU5hSUhRVVRMTHJobTR6d01Nbk9rV0JBaXZrM3ppeEVOSFVOYkQ?oc=5",
+   "time": "2026-11-21T21:54+09:00"
+  },
+  {
    "title": "AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO",
    "ko": "AMD, 앤써픽과 직접적 이해관계: 이 회사의 IPO를 통해 최대 50억 달러 규모 기대",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbG5FSGhnLWJQaUFfbFg4dnNRanFsZGdOdTRSX2x2RjZoOTlRaUZiSUE3NE94bEFYR1p4TzJWakg5NVZSU3ZGUzRHbTdIcTdTY1RrdzhDZXVOZXZFREJMRFBWOTV5b1JybGR0alRmQ0VXcGgxUlZvTW1rNjFSMXFlQVhDeS1GTks4eXJFby1fYjJ5LW1TY1dLVTBidW9DaFE?oc=5",
@@ -80,6 +110,12 @@
    "time": "2026-11-21T21:00+09:00"
   },
   {
+   "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+   "ko": "오픈에이아이, 음성 에이전트용 GPT-라이브 1.1 출시 및 비활성 비용 월 $0.02로 인하",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9NVnpyaGtfLXJXQTNEZ1p2SDN1bDZMT2luSGdwbS1ITXp6ek5pUHRjUF9DeVNqR1hCSFo3QjRLRXZRWWZybG5LenJxNjdTbFpzOUtxV3VjMUlhTDBSa2IxWUM4cHB1dFJJUjRROGxkTWhieDlzRnFSNHctaU12WW5oZ9IBgwFBVV95cUxPZl9NVnpyaGtfLXJXQTNEZ1p2SDN1bDZMT2luSGdwbS1ITXp6ek5pUHRjUF9DeVNqR1hCSFo3QjRLRXZRWWZybG5LenJxNjdTbFpzOUtxV3VjMUlhTDBSa2IxWUM4cHB1dFJJUjRROGxkTWhieDlzRnFSNHctaU12WW5oZw?oc=5",
+   "time": "2026-11-21T20:46+09:00"
+  },
+  {
    "title": "Nvidia’s moat looks shallower as Anthropic shows AI chips are becoming interchangeable",
    "ko": "엔비디아의 독점적 지위가 약화되고 있는 듯, 앤트로픽이 보여주듯 AI 칩들이 상호 교환 가능해지고 있다.",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpNzdpR3VWVU1YdDVGWlcycGVpV2ZXOENvcktsZ01IMER3NWMyelB3TnVBU2MxSDkxNGlXMzFsaWhPZ1VRcDBpcGt3UmRlcWZSckV3T1FMbDdkcnNIYjh0SDdUYlBHNGY4V3p6TnZBWW8tSVdBb21qSkhEdUY?oc=5",
@@ -102,6 +138,18 @@
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEUm9XbElfZUdzZTJNNEhyVEQ3SUpNTERFdnhNb2lLX3FVcnREZVczVkNHWFZNSEo3NnRxSzFiX29yM3R2Y2ZlbWJsWnlldWNWR21RRm80dTRDcTB6UGREaFVMY0loVmtoQVM4RG5n?oc=5",
    "time": "2026-11-21T20:02+09:00"
+  },
+  {
+   "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution",
+   "ko": "UC, 전 대학 차원에서 오픈에이아이와 계약 체결하며 교수진은 신중 촉구",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teVBVYVBpX09MbkhFa0tJUWR1QkNhMUFROUR0WUFLRnd6TnhCYTh6RURoUlNRckVWQ1loZEQ1bE1NeFBpWmpKOUdHeG5oQ1VEMUY4LW0ybGVaRzYtcU9wai0zaVlub2ZKcjh1enZIdXJKZWZDdk1XNzk3NFdPWUk?oc=5",
+   "time": "2026-11-21T20:00+09:00"
+  },
+  {
+   "title": "역대 최대 규모의 앤트로픽 IPO, 그러나 AI 투심은 여전히 제자리",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lby1INFNwblZMTHRDUU5sVzk5SFhNdzNjWjhqcGpRLVFzbmFMNWVpZnM5Ym5QR3Y0OUlpR2h5S1lWYnNxSmdvMjJWMUw2UTV0QUE?oc=5",
+   "time": "2026-11-21T19:30+09:00"
   },
   {
    "title": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags",
@@ -132,54 +180,6 @@
    "ko": "앤써픽 주식, 역사적인 IPO 이후 정말 사야 할까? 명확한 답은 과거에서 찾을 수 있다.",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPal9RU1JBdFN4ZDIteWhOQ29nSVBSY3pYZ3Y3VW1kRS16UVVfb1Nlb2d6b1NrOTgyMHdDUlc1X3VuQ05XMEJ2TExqNVowVDJtZUxEU19nQ0k2a3FPRi1FY3FZbFpqN1VkLTdIcDMzNUFmODY5WjJSaENvT3ljWWZVQjZqM0xfYnEyNnMwNG9rMjl2Y05Hb1ZXVXhFdXlHaUFzTXc?oc=5",
    "time": "2026-11-21T18:44+09:00"
-  },
-  {
-   "title": "역대 최대 IPO 앤트로픽, 조달 자금 상당 부분이 칩·데이터센터 대금으로…주가는 공모가 근접",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QbmcteGx6elo3MWJpb19Cb2o4TXlOdkhvYlhHM2pnblkzNDU2djgwc1VtY29CaGFTd0dDR09HZWtoZXZUZENvdS13YXJGS2V6SDJzNFBpXzBmcTJwRHhTa1c3Ym9jaFFQeXJQQjJTSQ?oc=5",
-   "time": "2026-11-21T18:22+09:00"
-  },
-  {
-   "title": "CXMT Corporation (688825.SS) Stock Price, News, Quote & History",
-   "ko": "CXMT 주식회사(688825.SS) 주가, 뉴스, 시세 및 역사 정보",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EanNDeVRRT2VGSG9zWkc5ZzBhRWZud1Z0SkN5MmZpalJNWHYyN2l0WjdBOWlVbEp3ZmRLZDM5VlU3dHI1UHpndWw1V3JkQXZoZ19xOWpqdVo?oc=5",
-   "time": "2026-11-21T18:00+09:00"
-  },
-  {
-   "title": "앤트로픽의 주가는 기업공개(IPO) 이후 급락했다.",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkaHpQb0t4bm5OU19XcHNZT3p0bHJwLXEtWmZYUHVMNTQwNG5ZanpwUzFYazBQTFloblYyLVpxMTdLZHpkN0l5WmtJbWV5ZDV2QkpSM0VrMkMwNWd4VnRZUjVvUHdBRGpSemM2OFM4cjhiUXBmM1VyY1lTVVI?oc=5",
-   "time": "2026-11-21T17:33+09:00"
-  },
-  {
-   "title": "Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock",
-   "ko": "투자자 포커스: 앤서니픽의 기록적인 IPO와 엔비디아의 실적 발표 그리고 저평가된 영국 방산주",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5",
-   "time": "2026-11-21T17:16+09:00"
-  },
-  {
-   "title": "역대급 IPO의 역설… 앤트로픽 상장 후 ‘AI 고점론’ 왜 커졌나",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41Wk93M01MdU9ObGpDeUZuN25nbjl2TlVVYlpXVlZVdUdZaGZnVDhocGY4U1ZsUGdoUktiMWRFdDBFVVJfeDl1ZWEzcEZfTVlpUXd0WUdQcjlHUUsydkZxR29aZ1hQTkpJWHFCTGVn?oc=5",
-   "time": "2026-11-21T16:43+09:00"
-  },
-  {
-   "title": "앤트로픽, 나스닥 상장으로 7인 창업자 240조 원대 억만장자 등극",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIdnE5UFBZWF8yd1Y3M3VWVlhQRFRGV05fTmUyai1UQ3ZSVG1NZk5SR2Z4T19mdi04YUpjWmxBUUlCemtReTZwVUdkQ0JLa0VkUzJ2SzBGOXMzdk9uYjJtUkkxZHk?oc=5",
-   "time": "2026-11-21T16:14+09:00"
-  },
-  {
-   "title": "[AI 커닝의 시대]① 앤트로픽 상장날 '멈춰라' 시위… AI 스마트안경 이미 시험장에",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HVTZvUmh5RWJmdDF1WlA5Y1dmZXJGRzRHclJILTZSVTVHYlB1STBLNk15NFVzV0dYbUhXMlhIRWctcFZqTXpCUUNreEctZEo0aEVoRVlJZ1cwZ0gyX0FSRjlCN1lpMk5Jc3R5ZEZxbVrSAXRBVV95cUxNOEwzMS1VX01zaWZDV1ZMWlJUQzJ1d2NRU0VDNDkxQ2NtYlpyM3dfelJHbWtjSFpzNmxHMG15SkMzN0MyN01sclhjdUZmallCN2NoUDVRMjRzMVZnY0pXYmR6Wk1ISGZjUTkzWkZ5Y1BoWm5mMg?oc=5",
-   "time": "2026-11-21T16:11+09:00"
-  },
-  {
-   "title": "Anthropic IPO fails to prevent a tech stock wipeout",
-   "ko": "앤써픽 IPO가 실패하며 기술 주식 대폭락 이어져",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzk4NzhEUGpTWGM3YjNtaEJ4ZUF3a2Mwa2tkbk1Mb1BwX3dJYmIwUGYydnNxa3hfZzdFVW5NUmFUMmk0YlA2a1JwWF9DOVpCTG9lbDIwZVg3QndnOGNMVF9UWkxfVGVBZ2JEZXNwWFNiZWc5NkZaY1pwSlJNQ1BoVDFjWi02VHM4OG50VEtsdnk?oc=5",
-   "time": "2026-11-21T16:01+09:00"
   }
  ]
 }
