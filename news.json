@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:20:07+09:00",
+ "updated": "2026-11-21T18:30:05+09:00",
  "items": [
   {
    "title": "Nvidia crisis and Anthropic IPO scale-back highlight AI sector challenges",
@@ -18,6 +18,12 @@
    "ko": "투자자 포커스: 앤서니픽의 기록적인 IPO와 엔비디아의 실적 발표 그리고 저평가된 영국 방산주",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5",
    "time": "2026-11-21T17:16+09:00"
+  },
+  {
+   "title": "GPT-6.2 Astra와 Sol 소개",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lZjJNMTU0TEE3alJ0TUdfR2V6R2twVFlFN0FQTkFqUkpnX2Z6N1hHX0prMWpFY2hhMUlDcjFCWnRKdzZhQkNFbDFMMWF3dzEzZnBGWDhhY2V0UVFnZEhyc1pLemswNDZQQ2JvOW5R?oc=5",
+   "time": "2026-11-21T17:14+09:00"
   },
   {
    "title": "Anthropic IPO success boosts hopes for OpenAI listing",
@@ -82,20 +88,14 @@
   {
    "title": "앤트로픽 상장 효과 제한적…AI 투자 회의론 지속",
    "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZdXp3cDdaYm02Z3NkU2RIQk83WlZTZVRrbHBNUEE4bG1fYk1Fd2NqUGhRNng4R2p2M2o2ZXlYa2dTT1pPZVRDc3V3R1lmcEI4VFpsMEhuZVY3WkxqVDJVYWdXR013QWFV0gFsQVVfeXFMUC1jQWZ6d2pTYU9XVEpOX1RCMjRLbjdKZnRlSXNYbnJNU1cwUWRmaFRVZ0RHRUlncncyR0ljVU5CMktMMldneFFGOVAxSmdFNWdmdXFTcldCRVIyc0M2SVV5OTM4T3FxTjdyZUJQ?oc=5",
-   "time": "2026-11-21T15:00+09:00"
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtY0FmendqU2FPV1RKTl9UQjI0S243SmZ0ZUlzWG5yTVNXMFFkZmhUVWdER0VJZ3J3MkdJY1VOQjJLTDJXZ3hRRjlQMUpnRTVnZnVxU3JXQkVSMnNDNklVeTkzOE9xcU43cmVCUNIBbEFVX3lxTFAtY0FmendqU2FPV1RKTl9UQjI0S243SmZ0ZUlzWG5yTVNXMFFkZmhUVWdER0VJZ3J3MkdJY1VOQjJLTDJXZ3hRRjlQMUpnRTVnZnVxU3JXQkVSMnNDNklVeTkzOE9xcU43cmVCUA?oc=5",
+   "time": "2026-11-21T15:07+09:00"
   },
   {
    "title": "오라클 \"오픈AI 구축, 추가 벤더 계약에 좌우되지 않아\"",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTk5DNTRwNGxYaFhUWGdFaG52TnM3eF9mZGxIdjZDUllWQ0pEMlRiTXhGU0I0S3RkSmpzRTdwdzNHVEE5RHd0MEJpLVFvdW1rOGE0WFQycW10TkJoRV8xZjFZMFdFUmNEZGlSOC1pS3UxQjRxdHBqU1N5czBRMUhDTENR?oc=5",
    "time": "2026-11-21T14:57+09:00"
-  },
-  {
-   "title": "[AI 머니게임의 덫②] 이익 증명 전에 몰린 돈…AI 상장 열풍의 이면",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6ZEUwQ2haU085azlvRHU5ekt3STB0a05pcTBSSzRTTDA2b1V0MnoxczhzSVA1VnJXb2pweVNfWkZPUWN5MUpUOFg4dmlKQ2pKVS1ScGZqaUk4dGhkajUtR2VmWDVhUWF0UTdR?oc=5",
-   "time": "2026-11-21T14:49+09:00"
   },
   {
    "title": "Global Tech Selloff Snares Chinese Stocks Amid Doubts About the AI Boom",
@@ -110,12 +110,6 @@
    "time": "2026-11-21T14:37+09:00"
   },
   {
-   "title": "앤트로픽, IPO 기록 경신하며 모든 임직원이 미화 백만장자가 되다.",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHNna0Y4VlZjWVdNTnpEOHFZZThaQWJjbnpnbGVEVC0zM2txUUtPY2k3T3lLQU5udEpMMmZHMVU0dHlfcWVxV1RXam9LaVdBTm1xeFRNZWoyUzJVeWdvZDQ4cjhvdDVvRU1pcnlQSWlwN3htNy1NZGpyWVBBS0JlMlBBNVEtejhKZFJPTDlPRURDZw?oc=5",
-   "time": "2026-11-21T14:31+09:00"
-  },
-  {
    "title": "DDR6 RAM의 탁월한 성능을 공개합니다.",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXdVpUSllSX2VuN1QxMnhIcDFjZ1lEMEdtUkRBYzhsaFBrWl8wN2JWV2NyUWRubF9JMVBiZFFlSFJSMXJjRW5mSjJMVmNESVpucEF4NjRZaDN0NmJiMVN5R1F1U3hNeFhLaERsU1l6Xzk?oc=5",
@@ -126,6 +120,12 @@
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04Ri1yWUJMcjlpMUxuOE9XRWxrekd2Q0tFZzc2OFpEYzVZUHJSbk5ZSG95eEpubFV3TzJzdW01MDc5NzhiSTVRZTJtTERRZVhXWWJVSkhpQ1BkRFVEUmhoS19xLW91ZVk0dUhV?oc=5",
    "time": "2026-11-21T14:08+09:00"
+  },
+  {
+   "title": "AI기업 첫 상장…앤트로픽 CEO \"안전과 성공 둘다 잡겠다\" - 머니투데이",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByU3h5c0poQjdRMktqX3hMZHl5R0JtTnZyX2ZsaXZHTzdtU1FqRDl4TDlKcGRTR2x2YS1QR2VBa0FTUnJxVEhXV3lUTzZJMVh1ZDU2ZS1qY1BNZ0RrbWotdGNvTFN4WW1fdUJaLUt1SVExd3gyYVHSAXtBVV95cUxOZ01RNVB1TVhzYVhYM2xDV1d3MzFlUzRob2hDSktPUE8wT2g0VnFXSUlEZDZhOEttS3VDdEIwYlkyLWphWEE5aHZ6anhfNTB2NFNUQXAyUFZPUzJvWUFxVTZxcEROUHlnc0F2R1NPV2tyMmRKMFUzRkI2YnM?oc=5",
+   "time": "2026-11-21T13:59+09:00"
   },
   {
    "title": "Anthropic's 20X Sales Valuation Makes Samsung And Hynix Look Like Bargains, Warns Dan Niles",
@@ -142,7 +142,7 @@
   {
    "title": "앤트로픽, 상장 이틀째 8.5% 하락 마감…장중 공모가 '근접'",
    "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xS0p0bnNqVWkyRUZjVktGZnVIQ0UtNV84VEJqSW9MM21WMU9hNDF1VzFOb0RjRlk2OFlQSW9UenVyWnVwWFdlcWc5MmRUWGFWbTZId1R0dU9veVZOWFpjb2FqRWM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbFphdW5QSm8wMnBqYkhxR3RVX3pWUnVaUElvUWp3WU5ZZERpZXNhVlRFSVowcVk3Q2RTVjBLZVlxUjROTzIyR3F3M1RCZ2xGYUF5eVoxeUxmU2VDdjZKWl9QdndLX1ZEeGcw?oc=5",
    "time": "2026-11-21T13:55+09:00"
   },
   {
@@ -170,16 +170,16 @@
    "time": "2026-11-21T13:15+09:00"
   },
   {
+   "title": "美 반도체주 매도하고 앤트로픽으로 '우르르'… 삼전닉스, 동반 약세 - 머니투데이",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRU1ZtR0RlSV9XME5YS3dLTmFjU1NFMEU2dm5SXzNXRHlJVWhOSG41bldQblZMa2xGeFNveDh1dUUya2tObjBYWTNxcDZkNGFIUkJobjFtU1l6NU10RUVWQnlDX1NxREpK0gFuQVVfeXFMTXd3MkVNeDg1VXlUTjd4TzctQzNpa2tScFo0Q05mUldoQUhILUNiQ1o3Tm9pTkk4MnNpNG91dnJHV1Y4a05Fb3VqR2dZYkVvdC16cENMeFd1Z2hJRC16cHZ3cUlWVGhYMUNtWTFZNVE?oc=5",
+   "time": "2026-11-21T13:11+09:00"
+  },
+  {
    "title": "In 2018, she joined OpenAI and left in 2020 to start Anthropic in 2021; five years later, she’s a billion",
    "ko": "2018년 오픈에이아이에 합류했다가 2020년 퇴사 후 2021년 앤드리픽을 설립한 그녀는 이제 5년 만에 억만장자가 되었습니다.",
    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTm5TY2kzQ2tkbnZwVmdTYmljTm1Hd0ZXenV0MWJGbExib1R4SEN4WGdOZGFOelJmX0dOdmxILTBuLXpqTTdEMF9CYzBzcmFOaEVxeC1ibGczaXFFTUtCR051THA3SnVTVlZFVGVQeEFGM2Fydml4cE1LTHAyMkJjdlQwNmZjLVhiLUJuVHFqNXpWbi0wS0JwRXktT2piR092Q1JzSGFBV2pPeDRTU2Zmdm81Z3Yyb2FxU19xajZoRTFINmhUSWNPV3I1VDZUMDg2VnpZU1ZLbzJHLXpUZVhOcjdWcnFLcGRUejdoOVBoS2d0N1AtU0xvc21MSk9KVGpTQUNaLTdCbkxIUDJ6Q3NKeTUwQ3pnVXdYemo4eFZEd3FNUjUtblV4VDRybEw2Tno0TERCUUx6aTFWXzFuOXctQWx1UGI0UnlWeUVNdk9oeXhYTlhSRmVCU3VzLUgwazJwTWxDWWNha1lsdXQyOWtkSnhFTnJZeVlPQVdOc1Q3ZEdzaUhiRkJybWRtbXpzdjVIdUJpYktaVVdXNUd4VWtYQ3VlUWRDNXpHN08tSmJhdkpCUdIBtwNBVV95cUxPc2JCZWZhUjJhYWwxMmE4MzQ4Nm5heUhJWmNfSGRuWVBRZkFQN2tGdWJ3RUlwNmJMcl9qNU41bEczR2Yya1lFWS1hb0dJem5PeUVjTC1kR2NncnVZbWNJZkhGNGVoT09veGdYVXA5VktyYTlTSS1ndWt2OTE1WTdYRXJsdjNpbkhHYnNFRFp6NTh1dHpkUVBjWXR2ZE5XN0kxLXZoM3RYNXNlVGxaYTdMZWJLa0VnVDVfVlZBdmhhTV9mSTFuWXhuM1ZGeEVUOTdZT25mZURBWlp0VjJWQ2E3Y3NWdkk4aURMc2hEMVUxSVhhaUdlM1luRDlFS2VTaFNDTkM4T1R2eUxWZWNLNmZoblNNSGdlZmJyV09ORkotTDJNNk9GY0Njejc4VGtmTVUySkZpamh5aUhwWVlhU29MNzBQWDZFdE0wZ205dFZFNUFHdi04VXpQWjV0Ym5oT1RRQWtLSkRZYnI0QlplN3Y2dVNvV0tCaFNrM2pjYVFtY050LVNTWWVuSWtTVy1iN1RuaTlhTEhMZWVNWEdjaHZMWm55M0tqRTVBMi01dGZ5dmJjQTlWMGZN?oc=5",
    "time": "2026-11-21T13:07+09:00"
-  },
-  {
-   "title": "앤트로픽, 상장 초반 상승세 꺾였다…하루 만에 시총 순위 12위",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOVkxR1d5V1NIUDZaQjVnQzhlZ2pmSkFLSV9md2xSLWN0b2pRa1EweHluSmVXaW93aWpKTzQ1ZVFqODludVBvREtDNGxxUXlBcGNiUDdYc1VJRF93U2tVeW9PN1h1VGtm?oc=5",
-   "time": "2026-11-21T12:59+09:00"
   }
  ]
 }
