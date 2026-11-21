@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-21T20:20:10+09:00",
+ "updated": "2026-11-21T20:30:07+09:00",
  "items": [
+  {
+   "title": "Nvidia’s moat looks shallower as Anthropic shows AI chips are becoming interchangeable",
+   "ko": "엔비디아의 독점적 지위가 약화되고 있는 듯, 앤트로픽이 보여주듯 AI 칩들이 상호 교환 가능해지고 있다.",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpNzdpR3VWVU1YdDVGWlcycGVpV2ZXOENvcktsZ01IMER3NWMyelB3TnVBU2MxSDkxNGlXMzFsaWhPZ1VRcDBpcGt3UmRlcWZSckV3T1FMbDdkcnNIYjh0SDdUYlBHNGY4V3p6TnZBWW8tSVdBb21qSkhEdUY?oc=5",
+   "time": "2026-11-21T20:20+09:00"
+  },
   {
    "title": "Artemis co-founder plans Bitcoin exit after Anthropic IPO",
    "ko": "아르테미스 공동 창업자, 앤트로픽 IPO 이후 비트코인 출구 전략 계획 중입니다",
@@ -10,7 +16,7 @@
   {
    "title": "Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal",
    "ko": "앤써픽 IPO: 아마존과 구글의 인공지능 클라우드 딜 전략",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGFVS1hiSUJzbjY4b1VONUM3dmVWLW1QcEloM19BSElzbXZJYXl6WVlWMzQ0MERJY0pYQ2lTUkZJUHB0MVYyU1B4b2pfMnpCNElzX1p6c1Riek50SjJBQWZwaThhTWZxYmpselAyY200bHc4T0UyT0hsdGZxdkc3TFUwMWNJdHNmZlRwY3FuZWJRc1h1cE00a3paSlctRUxuZ3NGT2J4TWpUY3RzT213N0g2NWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzZQaWxDcTNpTWhzZEVnV2xHalRtNHNlTXdjNk4zTUxfaExVY0diTlFtSDRQeV9JYVZyYTV0cWxUX3dmSUt5bm1fRWFTMXhUZkFQZ2phNFlrd01Pa1ZCQWJKLVNDdGxWSHJVY1FpNy1mR3ZFYmhRY1FKYmRtanFrN1Y2eEtZSnRSbkhLUE1Ja3hib3lqVnhYMXZZOA?oc=5",
    "time": "2026-11-21T20:08+09:00"
   },
   {
@@ -36,6 +42,12 @@
    "ko": "브로드컴, 앤트로픽의 최대 290억 달러 리스 보증 제공  앤트로픽, IPO 상승분 반납",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVJjdWRhTnlRVy1uRzdJZVh6TG9fRVYtNXdweXlpNjdURl9tMy16Ni1Ub0ItLU40OW4zM25xaUxsOEQtRHhOamlEZmoyd1Y0TW1MRGYyUURqa3VDUy05WlZ6SmZBdTkyUU5kelY4SFlDV1RxMnR4STJfUms2OEk5cTNsR0FhZDNGSXVfMnM4NWV0dkhhWFctZFlPTjQ1MmVyWk9SYWtR?oc=5",
    "time": "2026-11-21T19:35+09:00"
+  },
+  {
+   "title": "Actor Ashton Kutcher Made Billions of Dollars from Anthropic’s IPO: How Much His Fund’s Stake Is Now Worth",
+   "ko": "아티스트 애쉬튼 커처, 앤트로픽 IPO로 수십억 달러 수익... 펀드 지분 가치는 얼마인가?",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlFkQThfUTdKRHpockF2Mzh6S1VFczJZX2I5X2xMVE1PanpnVnNsUzlUT2Nwa21HQ29hVGZrTnoySVBfdVdEUzJyNGU4dmZpbTZWNHBDc2JUaWNZU3g4LU9uY3ZKWEJEb096OXFDVTdISmJTZjZaRXhYRTJwM0NudFRGYnNkLWdNVlJ6Tl92RnRIaGJDRFF2TTd1RndEOEMyb1ZTQW9BZjVENzBMTTJCN2syLUM1MXBKQk5FX2NMN1M1STBfQWM2Qw?oc=5",
+   "time": "2026-11-21T19:28+09:00"
   },
   {
    "title": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags",
@@ -84,12 +96,6 @@
    "ko": "엔비디아 위기와 앤트로픽 IPO 축소는 인공지능 분야의 과제를 부각시킨다",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkgtYk1xUHVsb1RFX2pVbkxhdDZjT3FBdEtxUzVOeGF4emxpcTEtSkF4dVNVZV9QZGY2ZFU3WkxKRlRiSlQ1UWg4UWU0RmxBNlc3MGpaUXNvZHozeXlzYjAtc2ozSW9DZjNJTHFZaEpIc1h0aU4xQ1JOcm5peHBSbE5WcEhKX0ItNUVUSUxEMy1idEdXOFZ6TDI2RkRoYjBWeDR3?oc=5",
    "time": "2026-11-21T18:18+09:00"
-  },
-  {
-   "title": "Whale's Insight: Can Bitcoin Find Support After Anthropic’s Record IPO?",
-   "ko": "고래의 통찰: 앤써픽의 기록적인 IPO 이후 비트코인이 지지선을 찾을까?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWF9iUmIzZmhjM2g4NWozaHlDWDV5SUdKcUVVRjZxcXNTTGstank5T2pKbEFRcHNJVm8taTlpOHl1RmZjMHROMTF0cWhKNnVPM29yV054WGlTRmdnWUhTaUhieXdlaEU4RUpranNqRkFQWlE5TUxZS2NOOTJRZkp3QVF4RGQ1WVVZZ0o1NDhZYXRvWkJvYTRWalZIOWVMVzZPUUFpV0dnWVN1LW11?oc=5",
-   "time": "2026-11-21T18:10+09:00"
   },
   {
    "title": "CXMT Corporation (688825.SS) Stock Price, News, Quote & History",
@@ -174,12 +180,6 @@
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCTUQwQm1wa3lYWm15bWVuTVF3czZlMWZyLUJrOFMwYjRJYklGcXBFYXRZcjBNbnA5aU5VZl9ocmdoXzB4SDBEMHE5bHd5TFRoQURVZGNuNEdPbEhRWFRQaV9wamktSTg?oc=5",
    "time": "2026-11-21T15:26+09:00"
-  },
-  {
-   "title": "앤트로픽 상장 효과 제한적…AI 투자 회의론 지속",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZdXp3cDdaYm02Z3NkU2RIQk83WlZTZVRrbHBNUEE4bG1fYk1Fd2NqUGhRNng4R2p2M2o2ZXlYa2dTT1pPZVRDc3V3R1lmcEI4VFpsMEhuZVY3WkxqVDJVYWdXR013QWFV0gFsQVVfeXFMUC1jQWZ6d2pTYU9XVEpOX1RCMjRLbjdKZnRlSXNYbnJNU1cwUWRmaFRVZ0RHRUlncncyR0ljVU5CMktMMldneFFGOVAxSmdFNWdmdXFTcldCRVIyc0M2SVV5OTM4T3FxTjdyZUJQ?oc=5",
-   "time": "2026-11-21T15:00+09:00"
   }
  ]
 }
