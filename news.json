@@ -1,11 +1,41 @@
 {
- "updated": "2026-11-21T17:30:04+09:00",
+ "updated": "2026-11-21T17:40:09+09:00",
  "items": [
+  {
+   "title": "앤트로픽의 주가는 기업공개(IPO) 이후 급락했다.",
+   "ko": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkaHpQb0t4bm5OU19XcHNZT3p0bHJwLXEtWmZYUHVMNTQwNG5ZanpwUzFYazBQTFloblYyLVpxMTdLZHpkN0l5WmtJbWV5ZDV2QkpSM0VrMkMwNWd4VnRZUjVvUHdBRGpSemM2OFM4cjhiUXBmM1VyY1lTVVI?oc=5",
+   "time": "2026-11-21T17:33+09:00"
+  },
   {
    "title": "Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock",
    "ko": "투자자 포커스: 앤서니픽의 기록적인 IPO와 엔비디아의 실적 발표 그리고 저평가된 영국 방산주",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5",
    "time": "2026-11-21T17:16+09:00"
+  },
+  {
+   "title": "Anthropic IPO success boosts hopes for OpenAI listing",
+   "ko": "앤써픽 IPO 성공으로 오픈AI 상장 기대감 상승",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jOWlobWR3OXFfRG01aFdidF9NREotQ3V2eThQdXFla3lScExpZVViZUI5V3BWRHI5V0ZXTHNYd3ItRl9Sejd6VmhMRDJveVk2VzAyY3E3WQ?oc=5",
+   "time": "2026-11-21T17:00+09:00"
+  },
+  {
+   "title": "Key facts: Anthropic Reports $33.2B Revenue, Raises $10B; Cash Could Exceed $230B",
+   "ko": "주요 사실: 앤써픽 매출 332억 달러, 100억 달러 조달 발표; 현금 총액 230억 달러 초과 가능성",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVR1Nkh2VDBqOWdxV0ZxZ3pydUplSDhjSk9xUHdFVkpmYi1iZjJrVjJRUkZGMlNDcG0zZDZaVFk2UUVlbW9QWDlqZHNCeHZnbHlrM1FQYzZKSm9QMkpTeUJMOF9lSW5WUFF4NmwxS211cTdHa0xrM2ZacnJVSmhyazk0NlRubVlENV80S0gtMzNTVFNiRTJqT0psVW9iZVBWTkIwQ3pSd1ZpSC1DSnJHLTk4M0JYbVRueFVNUmItZXBObzlsOTdxaXpVTVR3cWllUEJ3?oc=5",
+   "time": "2026-11-21T17:00+09:00"
+  },
+  {
+   "title": "Key facts: SPCX Chip Lease; Anthropic AI Payments; $85.7B IPO",
+   "ko": "주요 사실: SPCX 칩 임대 계약; 앤써픽 AI 결제 시스템 도입; 857억 달러 규모 IPO 추진 중",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVVmaTZNMzhuZENUQkhMSGhjeDFfZ3k4WGtlVlJVNlc3TGJmQl9tOW5ZXzRsRk01ZlhvZnUxeGx4cFBnYldMSnl4ZUdkRVZLSEp2YXEtN2NYMGZya1lsUFZhV1ZXNTdEZGtVVktlUjVRTEROaWpKaDZkaXVwWnd0d3NSQUZpWERhcmxSMEtPNEhYV2N4c1hKVlBBQTFFZGxDekZFbnlxZjFTRkZBa0ZlZjVOUEMtdEtEM2JR?oc=5",
+   "time": "2026-11-21T17:00+09:00"
+  },
+  {
+   "title": "Key facts: Anthropic's $47.2B Azure Pledge; Intel Chips; MSFT $1B Stake",
+   "ko": "주요 사실: 앤써픽의 마이크로소프트 애저에 대한 472억 달러 약속; 인텔 칩 활용, 마이크로소프트 10억 달러 투자 유치",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkU2MVNvazFLdzZkaEc3Qi15RXljajVmSkVLY1BqNXI4S09rWllSaGpzU2ZIS0VOWldWQ3Z2UmozT055SHBCLXZONU5KOEh4QUtVY3pyQnQtSi1EU0FGNUdJT3FndG9zTjFLSW9vMzRJMDd1Q0FzR2pnMUUxTTBOYmstek8tUzkzbHVPanZHYUhEMURZZTdKMFRkUHBWMGZiRmNSQVpCUG1qZG1lRUVwSG44QjBMZDJ2V1ltQVdINTFWM3BVd3Jz?oc=5",
+   "time": "2026-11-21T17:00+09:00"
   },
   {
    "title": "역대급 IPO의 역설… 앤트로픽 상장 후 ‘AI 고점론’ 왜 커졌나",
@@ -36,18 +66,6 @@
    "ko": "앤써픽 IPO가 실패하며 기술 주식 대폭락 이어져",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzk4NzhEUGpTWGM3YjNtaEJ4ZUF3a2Mwa2tkbk1Mb1BwX3dJYmIwUGYydnNxa3hfZzdFVW5NUmFUMmk0YlA2a1JwWF9DOVpCTG9lbDIwZVg3QndnOGNMVF9UWkxfVGVBZ2JEZXNwWFNiZWc5NkZaY1pwSlJNQ1BoVDFjWi02VHM4OG50VEtsdnk?oc=5",
    "time": "2026-11-21T16:01+09:00"
-  },
-  {
-   "title": "The Anthropic Investor Most Worried About AI Is Worth $20B",
-   "ko": "앤써픽 투자에서 가장 우려되는 투자자, 가치 200억 달러에 달해",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMlFXc09GUVhkTDFGZzV2S21UZkUzeGhZdUtYc2xXNnhVV1ExcTNzMzdMcDhLNGhSSXVYakN6cHV6bGx2eUFPWlVqOHpTTklzOHlXOHg1N1I5ajVFTkxnR0JsaDF1MVZTajJaa21UXzZaOV9DcS1kSU1takhvS0o2SlpRZ2IwVk1UQnJWS3FTelBCVlE3M3JTZHYzVGtsMG1uVXM4c2JMNVY3MDgxc21OLUEyeVgzVk1BbUdkNFBzZW5NQ2tuU0ZYRHRjWmI1SEpiRFFwNFNSMmQ5Zw?oc=5",
-   "time": "2026-11-21T16:00+09:00"
-  },
-  {
-   "title": "Anthropic's post-IPO slide shows hype not enough to ease AI investor fears",
-   "ko": "앤써픽의 IPO 이후 하락은 과도한 기대가 인공지능 투자자들의 우려를 해소하지 못함을 보여줘",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjlJbTZQUmcydnE5dFI4N2t0Wm9tcDhUZjVSMW9ZWVNyd3hXTldnUjN6QkdMcEVKOUZnWVVrbFV5ZEtWb09GVmp0YmZROEV5YlUxWGs4OUhlemR6RHVsS0Y0WDNnajdTU1FMcmtNY0ZxdHMyUm1vci1KQzlibUVvLXJHaDBGZzVlXzIzNHJUZmtqbVNPTzcyZnhXT1VUMlgzeXVUVU4xQWVTc2R3Y2dCT0l5UlhsQXA2RE1DUzhsdnBSeWg1VThkaUoxWEViMmM?oc=5",
-   "time": "2026-11-21T15:56+09:00"
   },
   {
    "title": "’AI 거품론’에 美증시 대폭락…앤트로픽은 공모가 위협",
@@ -146,6 +164,12 @@
    "time": "2026-11-21T13:15+09:00"
   },
   {
+   "title": "In 2018, she joined OpenAI and left in 2020 to start Anthropic in 2021; five years later, she’s a billion",
+   "ko": "2018년 오픈에이아이에 합류했다가 2020년 퇴사 후 2021년 앤드리픽을 설립한 그녀는 이제 5년 만에 억만장자가 되었습니다.",
+   "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTm5TY2kzQ2tkbnZwVmdTYmljTm1Hd0ZXenV0MWJGbExib1R4SEN4WGdOZGFOelJmX0dOdmxILTBuLXpqTTdEMF9CYzBzcmFOaEVxeC1ibGczaXFFTUtCR051THA3SnVTVlZFVGVQeEFGM2Fydml4cE1LTHAyMkJjdlQwNmZjLVhiLUJuVHFqNXpWbi0wS0JwRXktT2piR092Q1JzSGFBV2pPeDRTU2Zmdm81Z3Yyb2FxU19xajZoRTFINmhUSWNPV3I1VDZUMDg2VnpZU1ZLbzJHLXpUZVhOcjdWcnFLcGRUejdoOVBoS2d0N1AtU0xvc21MSk9KVGpTQUNaLTdCbkxIUDJ6Q3NKeTUwQ3pnVXdYemo4eFZEd3FNUjUtblV4VDRybEw2Tno0TERCUUx6aTFWXzFuOXctQWx1UGI0UnlWeUVNdk9oeXhYTlhSRmVCU3VzLUgwazJwTWxDWWNha1lsdXQyOWtkSnhFTnJZeVlPQVdOc1Q3ZEdzaUhiRkJybWRtbXpzdjVIdUJpYktaVVdXNUd4VWtYQ3VlUWRDNXpHN08tSmJhdkpCUdIBtwNBVV95cUxPc2JCZWZhUjJhYWwxMmE4MzQ4Nm5heUhJWmNfSGRuWVBRZkFQN2tGdWJ3RUlwNmJMcl9qNU41bEczR2Yya1lFWS1hb0dJem5PeUVjTC1kR2NncnVZbWNJZkhGNGVoT09veGdYVXA5VktyYTlTSS1ndWt2OTE1WTdYRXJsdjNpbkhHYnNFRFp6NTh1dHpkUVBjWXR2ZE5XN0kxLXZoM3RYNXNlVGxaYTdMZWJLa0VnVDVfVlZBdmhhTV9mSTFuWXhuM1ZGeEVUOTdZT25mZURBWlp0VjJWQ2E3Y3NWdkk4aURMc2hEMVUxSVhhaUdlM1luRDlFS2VTaFNDTkM4T1R2eUxWZWNLNmZoblNNSGdlZmJyV09ORkotTDJNNk9GY0Njejc4VGtmTVUySkZpamh5aUhwWVlhU29MNzBQWDZFdE0wZ205dFZFNUFHdi04VXpQWjV0Ym5oT1RRQWtLSkRZYnI0QlplN3Y2dVNvV0tCaFNrM2pjYVFtY050LVNTWWVuSWtTVy1iN1RuaTlhTEhMZWVNWEdjaHZMWm55M0tqRTVBMi01dGZ5dmJjQTlWMGZN?oc=5",
+   "time": "2026-11-21T13:07+09:00"
+  },
+  {
    "title": "앤트로픽, 상장 초반 상승세 꺾였다…하루 만에 시총 순위 12위",
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOVkxR1d5V1NIUDZaQjVnQzhlZ2pmSkFLSV9md2xSLWN0b2pRa1EweHluSmVXaW93aWpKTzQ1ZVFqODludVBvREtDNGxxUXlBcGNiUDdYc1VJRF93U2tVeW9PN1h1VGtm?oc=5",
@@ -156,30 +180,6 @@
    "ko": "도이 존스 퓨처스: 시장은 코로나 이후 최악의 주간을 겪고 있으며, 엔비디아와 앤써픽 등으로 인해 두려움 지표가 희망을 제시할까요?",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGZqY3FoUjhCTGtSbnJQMmlMMlNQWGxuQ1UyR09vYVpCY2xHcU5la0pPb0FGbnkzZ3AwRThVNXdMcXk4cEZ4elRxd1VKVHRqTEdxUGtHeUZNS1RPQkVKdUpXeVJscjg1Qm1zUHpjMDlzYUQ5UUE0X3FVTzRqRC1FWVRGU0NXWUI0Rk1FWERnVWxkWEtRbTJNc3Nldms4emVsSF9yMU4xaDU4SWh6TDgydjJWa3ZYQ2pFaUp2TFhmdUh6cFU?oc=5",
    "time": "2026-11-21T12:51+09:00"
-  },
-  {
-   "title": "역대 최대 규모의 앤트로픽 IPO, 그러나 AI 투심은 여전히 제자리",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zQzIyemsyWjRjWjdGRDNhMC1KYmNMYzBnaWFlN1hMYUx3M3VId1RTcUd1ZW5neVJRUDJwNVdGeEhlRTY1RU9UTERGVnJZcVJ0N2JrM0pEMV8?oc=5",
-   "time": "2026-11-21T12:49+09:00"
-  },
-  {
-   "title": "Los Alamos National Laboratory And Open AI Mark One Year Of Partnership",
-   "ko": "로스 알라모스 국립연구소와 오픈AI가 파트너십을 시작한 지 한 해가 되었습니다.",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSXRYWmRwR0JWc3V1S2tWdzBfRXAzLXY3RElIZFRORFBLVkJjN1Q5YVZXNDdMSERPSDgzLWl3ZjFvVkh0dE5UZU1weUxlTFZxei1GaUZNOXg4SE1mMTllSlpsMkYxVnBlcl9sdTRMWUozTjdHNVNpQ3p3ZFFLZVdzdTBiVFd4RGZnWUFzQkhfUEprOVVhRmxfQ0M4cGZEYXlZcVZubC0zLVd4VjlZamFhX3JfRQ?oc=5",
-   "time": "2026-11-21T12:47+09:00"
-  },
-  {
-   "title": "Sandisk falls 14% on its first day after the 8-for-1 split as TrendForce warns NAND prices will fall",
-   "ko": "샌디스크 첫 거래일 분할 후 14% 하락...트렌드포스, 낸드 가격 하락 경고",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHdHVWd6NXhzaTdlVjhDWWRIVHJybDhRQmdTaW9qeVhBR0JnMmlpSEtodi15V2dONHptWUdyODRWM0JUMTdubllUNEVBUThDOEphWWhwMnRUSVJOOHBDTUEtWFJaOGZFYmxpdmZWajBwQnBxaWxZd2RBdXFOa0FwVjRrYUFqaVZZZVlwR2EtLXhqZUp4cDk2MWt0UE9Xc1llOGFMLU56V1BiX0IyUXB2X3dwZjJfenhjaHdUODRuang0ZDdEOFE?oc=5",
-   "time": "2026-11-21T12:45+09:00"
-  },
-  {
-   "title": "Oracle says OpenAI contract fully funded, targets over $30 billion free cash flow in FY29",
-   "ko": "오라클, 오픈에이아이 계약 완전히 자금 조달 완료...FY24년까지 300억 달러 이상의 자유 현금흐름 목표",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXNFR2E3MmZraDJWLUhBSEZzRWZGdTZjbGZfNlFJZUFaeVN4TFUzRzlXVnhybXg1Nk12NWFGZnJSNUdfZVNxV08xLWw5YXVRMXlsa3ZJVGNFT0VSOWFDcXV3RVpvSjk1ODUwdVZEMnd5NThrTlBfeW9URUxMcVV6MjVrNXRuTDI0WlRSblpPTVRPbXJ0dUZFRGowamtfUGlTM2p0Qkd2eGdnMkZUanI5VFRRSXZSVTFETjA0M3pCRlRTOUVLLUpLUWN2Zl83ZnhiMEdJX0VNVTNOZmhGRFd3Y1JUdG1femtUUmfSAfABQVVfeXFMT1AybWNORE9ib3gxNG1Ccms4bjVVZjh5MHJYV3RGZ1JLeVF5TW5zMnhmN19aXzVnSXAwdlIzekFaX3F1c2p2SHJQTDkwNHdjWHdZcnB2UFpVS05kZi1ORXFQZlYyd1hiM2xOTU5jenlQM0N0dmNqU2FvTWo2c0toOGpDZlhSM0ltTTA0b2ZtM3kxWmV5Rjg5WnNpc25yWFpYRFNtMDhKdXNlV1BmeVMyNE0yVXE1SDJzOG1KX2N1R1R2eVNtOWMzRjA4VE1GdmdFY3pnMERlcUR1ZkQzVEYyRFRkWFBsTld4YmZ4TllEb0VC?oc=5",
-   "time": "2026-11-21T12:45+09:00"
   }
  ]
 }
