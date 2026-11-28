@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-29T01:10:06+09:00",
+ "updated": "2026-11-29T01:20:05+09:00",
  "items": [
+  {
+   "title": "OpenAI retires the Flex API tier, no discount on GPT-6.2 Astra and Sol",
+   "ko": "오픈에이아이, 플렉스 API 계층 은퇴 발표, GPT-6.2 아스트라와 솔에 할인 없음",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RYlY5Z1VQVFhzcExObjZoaE15T0VMcDB1ZFVpSktpUEl4cWp5RWlhTTdIekNzazJHNkE1ZFBjZEhTNUtnSGEtbUs0R3BUT1RsZXZiOVhPam9OUHkxbkQzM3FOYUVTVDhITFRFeVloTUw1cTZjdDlpNDRORTg?oc=5",
+   "time": "2026-11-29T01:15+09:00"
+  },
   {
    "title": "Huawei to Unveil HBM Design Rivaling Samsung, SK Hynix",
    "ko": "화웨이, 삼성과 SK하이닉스에 버금가는 HBM 설계 공개 예정",
@@ -48,12 +54,6 @@
    "ko": "앤써픽에게는 악재: 세미분석에 따르면 오픈에이아이가 클라우데 옵루스 5.5와 거의 비슷한 성능을 보이며 비용은 5분의 1 수준으로 근접했다",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEp1WEV3OG1pVGhsbzI3NmhZS2gwN1o0QkZ1cUVjRm41Qi1YdnpFMzJCQ0xMVGc3QV9QSzNQQlAwZHlVcDlfUXRUbWVIY2pCTC1xdXo2R2g1ZFdTb1RLazlxSFlNWDNac1FFekpyQjlMdk1WMmNHNkdDaVBMbV94Qk9vNllOR0p0Z3EtM2xSWjlHMjRLSk01QURGdkMzeGVOWnhHUXlEelVFVm1rMUEyTDgtSnNPU1pVRmpRYWdSWjEtVDRhNWJTU3dPbm5fUQ?oc=5",
    "time": "2026-11-28T21:18+09:00"
-  },
-  {
-   "title": "Anthropic Falls Below IPO Price as Wall Street's AI Rally Fades - The Financial Exchange Show",
-   "ko": "앤써픽 주가 하락, 월스트리트의 AI 랠리 약화 - 금융 거래소 쇼",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkVnb3JZX0NhamhvcG4wWFNWM3hrYXBKZGEtLTJmb05JRm13OThmTHdSR084MzJQejZ4X281WlJtcTV5Q3VNY3c4MlZ4WUk3eDZHZEU3dk40YWV0RlRkX0RKUjNXNWRqekYtbnRCZkl6SWE0VEtDNkhBYURTUlFncFd2N0hYRjdQVWhWcm1qbUl4SXRSSUV5MjNlUjZaNnBSZUVqZGQtV3R5RmZfbHc?oc=5",
-   "time": "2026-11-28T20:48+09:00"
   },
   {
    "title": "SemiAnalysis’s Dylan Patel Thinks Anthropic Could “Beat the $300 Billion” Run Rate by 2027’s End. Here’s What That’s Worth",
