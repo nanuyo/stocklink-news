@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-29T01:30:05+09:00",
+ "updated": "2026-11-29T01:40:06+09:00",
  "items": [
+  {
+   "title": "Nasdaq 100 Shakeup Coming: Anthropic, GM In; CoreWeave Out. What About Strategy?",
+   "ko": "나스닥 100 재편 임박: 앤트로픽, GM 합류, 코어위브 제외. 전략은 어떨까?",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1dsMlN6TFJWZmpoRms0RGQxQ3BFY2RJVHlyWVVNbkVHTFVTRncxU3oybDltcGJGNG9rT2libDBWcmFwelJYVC16UUhXUVM2VURhUU84RVBtSFkzTjRtVDJzY3VfT3dGb3A4SVI0Zm9DaEc5YzdZcjZLRW02TTNHTEx1bjg0aEZGU0kxZTM2UHZZMnM?oc=5",
+   "time": "2026-11-29T01:31+09:00"
+  },
   {
    "title": "OpenAI retires the Flex API tier, no discount on GPT-6.2 Astra and Sol",
    "ko": "오픈에이아이, 플렉스 API 계층 은퇴 발표, GPT-6.2 아스트라와 솔에 할인 없음",
@@ -174,12 +180,6 @@
    "ko": "",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsMk83VnZkU0FTUW93T2kwWU93WlFlTzc3NUJrcW5STU1GOEY0WWw1R1k0V1c0TXR4TWpSaFRULUpqd2tBR2ttRWtTMklRR2YtQTdTRG5TSFN5dw?oc=5",
    "time": "2026-11-28T09:30+09:00"
-  },
-  {
-   "title": "글 쓰던 AI가 '단백질 설계'까지… GPT-6.2, 암·면역 표적 5종 결합 성공",
-   "ko": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmV2JxYjBZcFpLX29ROXpCWTJMR3lDRjBOaWFvQlF4dERIcUxvZ182NG1KeWh4T0NfSWJjSWFEbXlOVzhxallDZFU3SWQzbGp3VDVjNkdKY2JwS3I2OWNRQnptcWppMjhZWU02YXRTNNIBb0FVX3lxTFBmV2JxYjBZcFpLX29ROXpCWTJMR3lDRjBOaWFvQlF4dERIcUxvZ182NG1KeWh4T0NfSWJjSWFEbXlOVzhxallDZFU3SWQzbGp3VDVjNkdKY2JwS3I2OWNRQnptcWppMjhZWU02YXRTNA?oc=5",
-   "time": "2026-11-28T09:29+09:00"
   }
  ]
 }
