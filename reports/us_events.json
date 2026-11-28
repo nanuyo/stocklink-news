@@ -1,0 +1,107 @@
+{
+ "tone": "info",
+ "headline": "📅 11/27(금) 실적·지표 — 블랙프라이데이 조기 마감, 상품수지 외 굵직한 지표·AI 실적 없음",
+ "summary": "미국 증시는 오늘 13:00 ET(KST 28일 토 03:00)에 조기 마감합니다. 오늘 지표는 22:30 KST 선행지표(상품수지·도소매 재고)뿐이고, AI주 실적은 없습니다.",
+ "blocks": [
+  {
+   "type": "table",
+   "title": "🧾 경제지표",
+   "columns": [
+    "시각(KST / ET)",
+    "지표",
+    "예상",
+    "이전",
+    "중요도"
+   ],
+   "rows": [
+    [
+     "11/27 22:30 / 08:30",
+     "10월 상품수지 속보치",
+     "-1,443억달러(Continuum 전망)",
+     "-1,349억달러(9월 속보치, 수정치 -1,351억)",
+     "하"
+    ],
+    [
+     "11/27 22:30 / 08:30",
+     "10월 도매·소매 재고 속보치",
+     "미확인",
+     "미확인",
+     "하"
+    ],
+    [
+     "11/28 03:00 / 13:00",
+     "미 증시 조기 마감(채권은 14:00 ET)",
+     "-",
+     "-",
+     "중"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "💼 AI주 실적",
+   "columns": [
+    "시각(KST / ET)",
+    "종목",
+    "EPS 예상",
+    "매출 예상",
+    "주목 포인트"
+   ],
+   "rows": [
+    [
+     "-",
+     "예정 없음",
+     "-",
+     "-",
+     "DELL은 이미 11/24(화) 장후에 발표함"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "title": "⚠️ 체크포인트",
+   "items": [
+    "조기 마감·얇은 거래: 13:00 ET에 장이 닫혀 거래량이 적습니다. 작은 뉴스에도 지수가 크게 출렁일 수 있습니다.",
+    "선물 급반등: CNBC에 따르면 오늘 새벽 S&P500 선물 약 +2%, 나스닥100 선물 +2.8%입니다. 지난주 AI주 매도 이후의 반등이 이어지는지가 관건입니다.",
+    "블랙프라이데이 소비: 연말 소비의 첫 신호입니다. 소비 관련주와 AMZN 심리에 영향을 줍니다.",
+    "다음 거래일 미리보기: 11/30(월) 정규장이 재개되고 AWS re:Invent(11/30~12/4)가 개막합니다. 캘린더상 CRWD는 12/1, CRM·SNOW는 12/2 장후 실적입니다."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "The Week Ahead: Thanksgiving Week Brings More Inflation Data (Schaeffer's)",
+   "url": "https://www.schaeffersresearch.com/content/news/2026/11/19/the-week-ahead-thanksgiving-week-brings-more-inflation-data"
+  },
+  {
+   "title": "US Stocks Week Ahead: PCE, GDP and Dell Earnings (Gotrade)",
+   "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/"
+  },
+  {
+   "title": "Due November 27 - U.S. October Advance Goods Trade Balance (Continuum Economics)",
+   "url": "https://continuumeconomics.com/a/b969316c/due-november-27-us-october-advance-goods-trade-balance-deficit-to-widen-further"
+  },
+  {
+   "title": "US Goods Trade Balance Advance (Sep) (Newsquawk)",
+   "url": "https://www.newsquawk.com/headlines/us-goods-trade-balance-advance-sep--13490b-vs-exp--130b-prev--13207b"
+  },
+  {
+   "title": "Census Bureau Economic Indicators",
+   "url": "https://www.census.gov/econ/indicators/current/"
+  },
+  {
+   "title": "Earnings calendar (CRWD·CRM·SNOW, re:Invent)",
+   "url": "https://guptadeepak.com/earnings/calendar/"
+  }
+ ],
+ "news_up_pct": null,
+ "report": "us_events",
+ "title": "AI 미국주식 실적·경제지표 일정",
+ "date": "2026-11-27",
+ "generated_kst": "2026-11-27T19:40+09:00",
+ "disclaimer": "일정은 변경될 수 있으며 투자 자문이 아닙니다."
+}

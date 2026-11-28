@@ -1,0 +1,221 @@
+{
+ "tone": "up",
+ "headline": "📈 상승 우세 64% (하락 36%)",
+ "summary": "추수감사절 휴장 뒤 기술주 저가매수로 선물이 급등했습니다. 코스피 +4.3%, SK하이닉스·TSMC·ASML 등 해외 반도체주도 강세입니다. 다만 밤사이 뉴스는 엔비디아 동남아 서버 출하 중단, S&P의 엔비디아 신용등급 하향 검토, 12월 연준 금리 인상 확실시, 14개국 관세 인상 계획 등 악재가 더 많습니다. 오늘은 13:00 ET 조기 폐장이라 거래가 얇아 변동이 커질 수 있습니다. 스크립트 신호(11/25 시간외 SOXX +1.35%, NVDA +1.29%, MU +2.33%)도 강세입니다. 나스닥100 선물 +2.89% (11/27 01:41 ET 확인, 스크립트 값 +0.43%는 11/25 23:55 기준이라 오래됨).",
+ "blocks": [
+  {
+   "type": "table",
+   "title": "📊 시장 가격 신호 (합성 +1.49% → 상승 87%)",
+   "columns": [
+    "지표",
+    "직전 종가 대비",
+    "기준 시각"
+   ],
+   "rows": [
+    [
+     "나스닥100 선물",
+     "+0.43%",
+     "11/25 23:55 EST"
+    ],
+    [
+     "SOXX",
+     "+1.35%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "NVDA",
+     "+1.29%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "AVGO",
+     "+1.04%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "AMD",
+     "+1.92%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "TSM",
+     "+1.42%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "MU",
+     "+2.33%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "TSMC(대만)",
+     "+1.63%",
+     "11/27 13:30 CST"
+    ],
+    [
+     "SK하이닉스",
+     "+7.45%",
+     "11/27 15:00 KST"
+    ],
+    [
+     "ASML(암스테르담)",
+     "+3.23%",
+     "11/26 17:30 CET"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "📈 상승요인",
+   "columns": [
+    "뉴스",
+    "종목",
+    "영향도",
+    "가중치",
+    "점수"
+   ],
+   "rows": [
+    [
+     "휴장 뒤 기술·AI주 저가매수 기대로 나스닥100 선물 +2.89%",
+     "SOX·NVDA·MU 등 전반",
+     "2",
+     "0.8",
+     "1.6"
+    ],
+    [
+     "코스피 +4.34% 마감, 삼성전자 +4.55%·SK하이닉스 +5.41%",
+     "MU·SOX",
+     "2",
+     "0.9",
+     "1.8"
+    ],
+    [
+     "NVDA 프리마켓 +4% 넘게 올라 $155 위 (단일 출처)",
+     "NVDA",
+     "2",
+     "0.6",
+     "1.2"
+    ],
+    [
+     "중국 10월 공업이익 +20.1%, AI발 메모리 수요로 전자업종 이익 2배",
+     "MU·메모리",
+     "1",
+     "1.0",
+     "1.0"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "📉 하락요인",
+   "columns": [
+    "뉴스",
+    "종목",
+    "영향도",
+    "가중치",
+    "점수"
+   ],
+   "rows": [
+    [
+     "미국 우회수출 규제 뒤 NVDA, 말레이·싱가포르·태국·인니로 서버 출하 중단 지시 (Dell·SMCI 출하 불가)",
+     "NVDA·SMCI·DELL·SOX",
+     "3",
+     "0.7",
+     "2.1"
+    ],
+    [
+     "S&P, 지배구조 우려로 NVDA 'AA' 등급 하향 관찰대상 지정",
+     "NVDA",
+     "2",
+     "0.9",
+     "1.8"
+    ],
+    [
+     "PCE 뒤 12월 연준 금리 인상 확률 97~99% — 부채 기반 AI 투자 부담",
+     "AI·빅테크 전반",
+     "2",
+     "0.9",
+     "1.8"
+    ],
+    [
+     "트럼프 행정부, 중국·EU·일본·인도 등 14개국 관세 인상 계획",
+     "TSM·ASML·전반",
+     "2",
+     "0.8",
+     "1.6"
+    ],
+    [
+     "호르무즈 선박 공격으로 WTI +3% ($86)",
+     "전반",
+     "1",
+     "0.8",
+     "0.8"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "title": "🧮 뉴스 점수 계산",
+   "text": "U = 1.6+1.8+1.2+1.0 = 5.6, D = 2.1+1.8+1.8+1.6+0.8 = 8.1 → 뉴스 상승 41% / 하락 59%"
+  },
+  {
+   "type": "list",
+   "title": "⏰ 오늘 장중 체크포인트",
+   "items": [
+    "09:30 ET (23:30 KST) 정규장 개장 — 선물 급등분이 유지되는지",
+    "13:00 ET (토 03:00 KST) 블랙프라이데이 조기 폐장 — 거래량 적음",
+    "NVDA 동남아 출하 중단이 일시적인지, 싱가포르 정부 확인 여부",
+    "S&P의 NVDA 등급 검토 관련 후속 보도",
+    "확인된 미국 주요 경제지표 발표 없음"
+   ]
+  },
+  {
+   "type": "text",
+   "title": "🧮 최종 확률",
+   "text": "뉴스 41% × 0.5 + 시장 신호 87% × 0.5 = 상승 64% / 하락 36%"
+  },
+  {
+   "type": "text",
+   "title": "🎯 최근 적중률",
+   "text": "최근 10회 최종 확률 적중 80% (8/10) · 뉴스만 80% (8/10) · 시장 신호만 70% (7/10)"
+  }
+ ],
+ "sources": [
+  {
+   "title": "U.S. Stock Futures in Focus Ahead of a Shortened Black Friday Session - TipRanks",
+   "url": "https://www.tipranks.com/news/u-s-stock-futures-in-focus-ahead-of-a-shortened-black-friday-session"
+  },
+  {
+   "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week - CNBC",
+   "url": "https://cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "U.S. stock futures rise sharply; Nasdaq up 1.7% in holiday-thinned trade - Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-holiday-003122658.html"
+  },
+  {
+   "title": "NVDA: Nvidia Stock Tops $155 as Bargain Hunters Pile In Despite Export Concerns - TradingView",
+   "url": "https://tradingview.com/news/tradingview:88142b4f2094b:0-nvda-nvidia-stock-tops-155-as-bargain-hunters-pile-in-despite-export-concerns"
+  },
+  {
+   "title": "S&P Says It May Downgrade Nvidia's Ratings on Governance Worries - Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries"
+  },
+  {
+   "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk - CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
+  },
+  {
+   "title": "[마감시황] 코스피, 4%대 상승에 4900선 회복…코스닥도 8% 급등 - 뉴스핌",
+   "url": "https://www.newspim.com/news/view/20261127001148"
+  }
+ ],
+ "news_up_pct": 41,
+ "report": "us_premarket",
+ "title": "미국장 개장 전 AI·반도체 브리핑",
+ "date": "2026-11-27",
+ "generated_kst": "2026-11-27T17:00+09:00",
+ "disclaimer": "확률은 뉴스 점수 기반의 단순 추정치이며 투자 자문이 아닙니다.",
+ "final_up": 64,
+ "market_up": 87
+}

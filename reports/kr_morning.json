@@ -1,0 +1,216 @@
+{
+ "tone": "down",
+ "headline": "📉 하락 우세 51% (상승 49%)",
+ "summary": "미국장은 11/26 추수감사절로 휴장해 마지막 세션은 11/25입니다. 이날 PCE 물가가 예상보다 높았고 AI 지출 의구심이 커져 NVDA가 3.9% 급락했습니다. 다만 장중 낙폭을 대부분 회복했고, 새 관세에서 반도체가 제외됐으며, 시간외에서 NVDA·MU 등이 반등했습니다. 보조 지표로 SOX는 -0.65%, 나스닥100 선물은 +0.43%이고 야간선물은 보합권입니다. 오늘 밤 미국은 단축 거래라 변동성에 주의해야 합니다.",
+ "blocks": [
+  {
+   "type": "table",
+   "title": "📊 시장 가격 신호 (합성 +0.28% → 상승 57%)",
+   "columns": [
+    "지표",
+    "직전 종가 대비",
+    "기준 시각"
+   ],
+   "rows": [
+    [
+     "SOX 지수",
+     "-0.65%",
+     "11/25 16:00 EST"
+    ],
+    [
+     "나스닥100 선물",
+     "+0.43%",
+     "11/25 23:55 EST"
+    ],
+    [
+     "NVDA",
+     "+1.29%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "AVGO",
+     "+1.04%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "AMD",
+     "+1.92%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "TSM",
+     "+1.42%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "MU",
+     "+2.33%",
+     "11/25 19:55 EST"
+    ],
+    [
+     "EWY",
+     "+0.95%",
+     "11/25 19:55 EST"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "title": "🌙 간밤 한국 야간선물",
+   "text": "11/26 21:29 기준 코스피200 야간선물은 728.44로 정규장 대비 +0.23%(+1.68p)입니다(콕스뉴스). 확정 종가는 확인하지 못했습니다. 실시간 시세 사이트 표에는 727.08(+0.32%)로 나옵니다. 미국 휴장으로 거래가 한산한 보합권이었습니다."
+  },
+  {
+   "type": "table",
+   "title": "📈 상승요인",
+   "columns": [
+    "뉴스",
+    "종목",
+    "영향도",
+    "가중치",
+    "점수"
+   ],
+   "rows": [
+    [
+     "USTR 최대 20% 신규 관세안에서 반도체 제외(한국 칩 포함), 시행은 빨라야 1월",
+     "삼성전자·SK하이닉스·TSM",
+     "2",
+     "0.9",
+     "1.8"
+    ],
+    [
+     "11/25 장중 급락 뒤 낙폭 대부분 회복, 시간외 NVDA·AMD·MU·TSM 1~2%대 반등",
+     "NVDA·AMD·MU·TSM",
+     "2",
+     "0.8",
+     "1.6"
+    ],
+    [
+     "11/26 아시아 AI주 반등(키옥시아-엔비디아 협력, 삼성전기 +7%)",
+     "메모리·부품주",
+     "1",
+     "0.8",
+     "0.8"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "📉 하락요인",
+   "columns": [
+    "뉴스",
+    "종목",
+    "영향도",
+    "가중치",
+    "점수"
+   ],
+   "rows": [
+    [
+     "AI 인프라 지출 의구심에 칩주 매도, NVDA 3.9% 하락 마감·나스닥 장중 -4%대",
+     "SOX 전반·NVDA",
+     "3",
+     "0.9",
+     "2.7"
+    ],
+    [
+     "10월 PCE 물가가 예상보다 높아 12월 금리 인상 우려",
+     "기술주 전반",
+     "2",
+     "0.8",
+     "1.6"
+    ],
+    [
+     "BIS 새 규정으로 중국 기업 대상 GPU 임대 차단, 동남아 출하 차질 보도(2차 매체 위주)",
+     "NVDA·AI 서버",
+     "2",
+     "0.6",
+     "1.2"
+    ],
+    [
+     "엔비디아 신용등급 강등 가능성·중국 내 AI 서버 유입 보도",
+     "NVDA",
+     "1",
+     "0.6",
+     "0.6"
+    ]
+   ]
+  },
+  {
+   "type": "text",
+   "title": "🧮 뉴스 점수 계산",
+   "text": "U = 1.8+1.6+0.8 = 4.2, D = 2.7+1.6+1.2+0.6 = 6.1 → 뉴스 상승 41% / 하락 59%"
+  },
+  {
+   "type": "list",
+   "title": "🇰🇷 오늘 한국 AI·반도체주 시사점",
+   "items": [
+    "반도체가 관세에서 빠진 점은 삼성전자·SK하이닉스에 안도 요인입니다.",
+    "미국 휴장으로 새 재료가 적습니다. 시간외 MU·NVDA 반등과 야간선물 보합을 보면 강보합 출발 가능성이 있지만, AI 지출 의구심이 남아 반등 강도는 제한될 수 있습니다.",
+    "물가 탓에 금리 인상 우려가 커졌습니다. 오늘 밤 미국 단축장에서 HBM·장비주(한미반도체 등)는 외국인 수급 변동성에 유의하세요."
+   ]
+  },
+  {
+   "type": "text",
+   "title": "🧮 최종 확률",
+   "text": "뉴스 41% × 0.5 + 시장 신호 57% × 0.5 = 상승 49% / 하락 51%"
+  },
+  {
+   "type": "text",
+   "title": "🎯 최근 적중률",
+   "text": "최근 11회 최종 확률 적중 73% (8/11) · 뉴스만 73% (8/11) · 시장 신호만 73% (8/11)"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Stock Market Today, Nov. 25: Nvidia Slides 3.9% as the Market Considers Hot PCE Inflation Data and New Tariff Proposals",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-220645995.html"
+  },
+  {
+   "title": "Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+  },
+  {
+   "title": "Stock Market Midday, Nov. 25: Nasdaq Plunges 4% as AI Sell-Off Deepens",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-midday-nov-25-nasdaq-plunges-4-as-ai-sell-off-deepens-and-inflation-remains-stubborn/"
+  },
+  {
+   "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
+   "url": "https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html"
+  },
+  {
+   "title": "Trump targets China, EU in new round of tariffs",
+   "url": "https://www.cnn.com/2026/11/25/economy/trump-new-tariffs"
+  },
+  {
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
+  },
+  {
+   "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html"
+  },
+  {
+   "title": "Chip Stocks Rebound as Samsung Electro-Mechanics Jumps 7%",
+   "url": "https://en.sedaily.com/market/2026/11/26/chip-stocks-rebound-as-samsung-electro-mechanics-jumps-7"
+  },
+  {
+   "title": "Iran claims US weaponized AI tech in strikes at UN briefing (AI news live 11-25-26)",
+   "url": "https://foxnews.com/live-news/ai-news-iran-war-economy-china-11-25-26"
+  },
+  {
+   "title": "Nvidia Sellers Cut Off Cloud Providers That Rent Even a Single GPU to Chinese Companies",
+   "url": "https://www.androidheadlines.com/2026/11/nvidia-halts-ai-server-shipments-southeast-asia.html"
+  },
+  {
+   "title": "오늘 밤 뉴욕증시 휴장…야간선물도 '한산'",
+   "url": "https://www.coxnews.co.kr/news/articleView.html?idxno=6981"
+  }
+ ],
+ "news_up_pct": 41,
+ "report": "kr_morning",
+ "title": "AI·반도체 한국 아침 브리핑",
+ "date": "2026-11-27",
+ "generated_kst": "2026-11-27T06:46+09:00",
+ "disclaimer": "확률은 뉴스 점수 기반의 단순 추정치이며 투자 자문이 아닙니다.",
+ "final_up": 49,
+ "market_up": 57
+}
